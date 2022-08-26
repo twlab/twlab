@@ -1,7 +1,7 @@
 ---
-title: 'Homepage'
+title: 'Homepage | Wang Lab'
 meta_title: 'Wang Lab'
-description: "Wang Lab Website"
+description: "Ting Wang Lab Website, Washington University in St. Louis, School of Medicine."
 intro_image: "images/outside_building.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
