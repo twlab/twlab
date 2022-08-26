@@ -1,0 +1,11 @@
+<div class="service service-summary">
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p>{{ .Content | plainify | htmlUnescape | truncate 120 "…" | strings.TrimLeft "Learn more" }}</p>
+    {{ if .Params.Link }}
+    <a target="_blank" rel="noreferrer" href="{{ .Params.Link }}">Learn More (Link to external site)</a>
+    {{ end }}
+  </div>
+</div>

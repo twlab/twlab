@@ -1,0 +1,27 @@
+{{ define "body_classes" }}page-thesisdefense{{ end }}
+
+{{ define "main" }}
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="col-12 col-md-12">
+        <h1 class="title">{{.Title}}</h1>
+        {{if .Site.Data.thesises}}
+            <div class="row justify-content-center">
+                {{ range .Site.Data.thesises }}
+                <div class="col-12 col-md-6 col-lg-4 mb-2">
+                    <div class="feature">
+                    {{ if .image }}
+                    <img alt="{{ .Title }}" src="{{ .image | relURL }}" style= "width: 300px; height:170px; border-radius:2%; object-fit: cover;">
+                    {{ end }}
+                    <br>
+                    <h2 class="feature-title">{{ .title }}</h2>
+                        <a href = "{{ .description }}">Click here to view photos</a>
+                    </div>
+                </div>
+                {{end}}
+                <div class="content mt-4">{{.Content}}</div>
+            </div>
+</div>
+
+{{end}}
+{{end}}

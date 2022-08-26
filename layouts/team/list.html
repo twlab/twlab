@@ -1,0 +1,78 @@
+{{ define "body_classes" }}page-team-list{{ end }}
+
+{{ define "main" }}
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ .Content }}
+      </div>
+      {{ if .Params.intro_image }}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img
+          alt="{{ .Title }}"
+          class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+          src="{{ .Params.intro_image | relURL }}" />
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class = "transition">
+  <h1 style="font-size:40px; text-align:center">Current Members</h1>
+  <br>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    {{ range where .Pages.ByWeight ".Params.promoted" true }}
+    <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
+    {{ end }}
+  </div>
+  <div class="row  pt-6 pb-6">
+    {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}}
+    <div class="col-12 col-md-4 mb-3">{{ .Render "summary" }}</div>
+    {{ end }}
+  </div>
+</div>
+
+<div class = "transition">
+    <h1 style="font-size:40px; text-align:center">Group Photos</h1>
+    <br>
+</div>
+
+<style>
+    .responsive {
+        width: 100%;
+        height: auto;
+        padding-top: 5px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+    }
+
+    .bottom-component{
+        padding-bottom: 50px;
+    }
+</style>
+
+<div class = "bottom-component">
+    <div class = "container">
+        <img src="http://wang.wustl.edu/images/WangLab2021.jpg" alt="2021" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2020.jpg" alt="2020" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2019.jpg" alt="2019" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2018.jpg" alt="2018" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2017.jpg" alt="2017" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2016.jpg" alt="2016" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2015_resize.jpg" alt="2015" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2014_resize.jpg" alt="2014" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2013.jpg" alt="2013" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2012.jpg" alt="2012" class="responsive">
+        <img src="http://wang.wustl.edu/images/WangLab2011.jpg" alt="2011" class="responsive">
+    </div>
+</div>
+
+{{ end }}
+
