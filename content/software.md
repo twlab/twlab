@@ -32,7 +32,7 @@ EpiCompare: an online tool to define and explore genomic regions with tissue or 
 [indel_epi_landscape](https://github.com/xzhuo/indel_epi_landscape): pipeline and script for human-chimp sv affecting cis regulatory elements
 \
 ## **Resources**
-[Wang Lab Wiki](http://wang.wustl.edu/mediawiki/index.php)
+[Wang Lab Wiki](https://wang.wustl.edu/mediawiki/index.php)
 
 [Intermediate Methylation (IM) Regions](https://epigenome.wustl.edu/Intermediate_Methylation/): the IM regions in different tissues from human.
 

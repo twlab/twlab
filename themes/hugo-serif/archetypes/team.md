@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 image: "images/team/default.png"
 jobtitle: "Employee"
-linkedinurl: 'https://www.linkedin.com/'
+orcidurl: 'https://www.linkedin.com/'
 draft: false
 weight: 100
 promoted: false

@@ -1,0 +1,34 @@
+<style>
+    .altmetric {
+        float: right;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+</style>
+
+<div class="altmetric">
+<div class="altmetric-embed" data-badge-type="donut" data-badge-popover="bottom" {{if (.Get "src")}} data-doi="{{ .Get "src" }}" {{else}} data-altmetric-id="{{ index .Params 0 }}" {{end}}  data-hide-no-mentions="true"></div>
+</div>
+<style>
+    .plumx {
+        float: right;
+        margin-top: 0px;
+        margin-bottom: 10px
+    }
+</style>
+
+
+<div class = 'plumx'><a href="https://plu.mx/plum/a/?doi={{ .Get "src" }}" data-popup="left" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a></div>
+<style>
+    .dimensions {
+        float: right;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px
+    }
+</style>
+
+<div class="dimensions">
+<span class="__dimensions_badge_embed__" data-doi="{{ .Get "src" }}" data-legend="hover-left" data-style="small_circle" data-hide-zero-citations="true"></span>
+</div>
+

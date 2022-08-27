@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Wang Lab :: Genetics, Washington University in St. Louis</title>
+    <link>https://wang.wustl.edu/research/</link>
+    <description>Recent content in Research on Wang Lab :: Genetics, Washington University in St. Louis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://wang.wustl.edu/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WASHU EPIGENOME BROWSER</title>
+      <link>https://wang.wustl.edu/research/2011-zhou-nature-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2011-zhou-nature-methods/</guid>
+      <description>Try the Browser                                 </description>
+    </item>
+    
+    <item>
+      <title>Hypomethylation marks enhancers within transposable elements</title>
+      <link>https://wang.wustl.edu/research/2013-xie-nature-genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2013-xie-nature-genetics/</guid>
+      <description>Learn more                                 </description>
+    </item>
+    
+    <item>
+      <title>Jointly analyzing MeDIP-seq and MRE-seq data</title>
+      <link>https://wang.wustl.edu/research/2013-zhang-genome-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2013-zhang-genome-research/</guid>
+      <description>Learn more                                 Introduction: methyMnM was developed for jointly analyzing MeDIP-seq and MRE-seq data, which were derived from methylated DNA immunoprecipitation (MeDIP) experiments [Weber et al., 2005] followed by sequencing (MeDIP-seq) and methyl-sensitive restriction enzymes experiments for unmethylated CpGs (MRE-seq).</description>
+    </item>
+    
+    <item>
+      <title>Combining MeDIP-seq and MRE-seq to estimate single CpG methylation genome wide</title>
+      <link>https://wang.wustl.edu/research/2013-stevens-genome-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2013-stevens-genome-research/</guid>
+      <description>Learn more                                 Overview: No current assay of DNA methylation provides single-CpG resolution, comprehensive genome-wide coverage, and cost feasibility for a typical laboratory. To address this gap, we introduce methylCRF, a novel Conditional Random Field-based algorithm that integrates methylated DNA immunoprecipitation (MeDIP-seq) and methylation-sensitive restriction enzyme (MRE-seq) sequencing data to predict DNA methylation levels at single CpG resolution.</description>
+    </item>
+    
+    <item>
+      <title>Mapping of Variable DNA Methylation Across Multiple Cell Types</title>
+      <link>https://wang.wustl.edu/research/2016-gu-g3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2016-gu-g3/</guid>
+      <description>Learn more                                 Abstract: DNA methylation is an important epigenetic modification involved in many biological processes and diseases. Many studies have mapped DNA methylation changes associated with embryogenesis, cell differentiation, and cancer at a genome-wide scale. Our understanding of genome-wide DNA methylation changes in a developmental or disease-related context has been steadily growing.</description>
+    </item>
+    
+    <item>
+      <title>Widespread contribution of transposable elements to the innovation of gene regulatory networks</title>
+      <link>https://wang.wustl.edu/research/2014-sundaram-genome-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2014-sundaram-genome-research/</guid>
+      <description>Learn more                                 Abstract: Transposable elements (TEs) have been shown to contain functional binding sites for certain transcription factors (TFs). However, the extent to which TEs contribute to the evolution of TF binding sites is not well known. We comprehensively mapped binding sites for 26 pairs of orthologous TFs in two pairs of human and mouse cell lines (representing two cell lineages), along with epigenomic profiles, including DNA methylation and six histone modifications.</description>
+    </item>
+    
+    <item>
+      <title>DNA Methylation Signatures of Embryonic Surface Ectoderm and Human Skin Cells</title>
+      <link>https://wang.wustl.edu/research/2014-lowdon-nature-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2014-lowdon-nature-communications/</guid>
+      <description>Learn more                                 Companion website for the vertebrate surface ectoderm and human skin project.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of Epigenetic Regulation in Vertebrate Genomes</title>
+      <link>https://wang.wustl.edu/research/2016-lowdon-trends-in-genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2016-lowdon-trends-in-genetics/</guid>
+      <description>Learn more                                 Empirical models of sequence evolution have spurred progress in the field of evolutionary genetics for decades. We are now realizing the importance and complexity of the eukaryotic epigenome. While epigenome analysis has been applied to genomes from single-cell eukaryotes to human, comparative analyses are still relatively few and computational algorithms to quantify epigenome evolution remain scarce.</description>
+    </item>
+    
+    <item>
+      <title>Intermediate DNA methylation is a conserved signature of genome regulation Learn More</title>
+      <link>https://wang.wustl.edu/research/2015-elliott-nature-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2015-elliott-nature-communications/</guid>
+      <description>Learn more                                 Abstract: The role of intermediate methylation states in DNA is unclear. Here, to comprehensively identify regions of intermediate methylation and their quantitative relationship with gene activity, we apply integrative and comparative epigenomics to 25 human primary cell and tissue samples.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomic annotation of genetic variants using the Roadmap Epigenome Browser</title>
+      <link>https://wang.wustl.edu/research/2015-zhou-nature-biotechnology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2015-zhou-nature-biotechnology/</guid>
+      <description>Learn more                                 </description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis of 111 reference human epigenomes</title>
+      <link>https://wang.wustl.edu/research/2015-roadmap-nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2015-roadmap-nature/</guid>
+      <description>Learn more                                 Abstract: The reference human genome sequence set the stage for studies of genetic variation and its association with human disease, but epigenomic studies lack a similar reference. To address this need, the NIH Roadmap Epigenomics Consortium generated the largest collection so far of human epigenomes for primary cells and tissues.</description>
+    </item>
+    
+    <item>
+      <title>Developmental enhancers revealed by extensive DNA methylome maps of zebrafish early embryos</title>
+      <link>https://wang.wustl.edu/research/2015-lee-nature-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2015-lee-nature-communications/</guid>
+      <description>Learn more                                 Abstract: DNA methylation undergoes dynamic changes during development and cell differentiation. Recent genome-wide studies discovered that tissue-specific differentially methylated regions (DMRs) often overlap tissue-specific distal cis-regulatory elements. However, developmental DNA methylation dynamics of the majority of the genomic CpGs outside gene promoters and CpG islands has not been extensively characterized.</description>
+    </item>
+    
+    <item>
+      <title>Whole-Genome DNA Methylation Profiling Identifies Epigenetic Signatures of Uterine Carcinosarcoma</title>
+      <link>https://wang.wustl.edu/research/2017-li-neoplasia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2017-li-neoplasia/</guid>
+      <description>Learn more                                 Abstract: Uterine carcinosarcoma (UCS) is a form of endometrial cancer simultaneously exhibiting carcinomatous and sarcomatous elements, but the underlying molecular and epigenetic basis of this disease is poorly understood. We generated complete DNA methylomes for both the carcinomatous and the sarcomatous components of three UCS samples separated by laser capture microdissection and compared DNA methylomes of UCS with those of normal endometrium as well as methylomes derived from endometrioid carcinoma, serous endometrial carcinoma, and endometrial stromal sarcoma.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomic annotation of noncoding mutations identifies mutated pathways in primary liver cancer</title>
+      <link>https://wang.wustl.edu/research/2017-lowdon-plos-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2017-lowdon-plos-one/</guid>
+      <description>Learn more                                 Abstract: Evidence that noncoding mutation can result in cancer driver events is mounting. However, it is more difficult to assign molecular biological consequences to noncoding mutations than to coding mutations, and a typical cancer genome contains many more noncoding mutations than protein-coding mutations.</description>
+    </item>
+    
+    <item>
+      <title>Functional cis-regulatory modules encoded by mouse-specific endogenous retrovirus</title>
+      <link>https://wang.wustl.edu/research/2017-sundaram-nature-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2017-sundaram-nature-communications/</guid>
+      <description>Learn more                                 Abstract: Cis-regulatory modules contain multiple transcription factor (TF)-binding sites and integrate the effects of each TF to control gene expression in specific cellular contexts. Transposable elements (TEs) are uniquely equipped to deposit their regulatory sequences across a genome, which could also contain cis-regulatory modules that coordinate the control of multiple genes with the same regulatory logic.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomic landscape of nicotinic receptor genes</title>
+      <link>https://wang.wustl.edu/research/2017-zhang-bmc-genomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2017-zhang-bmc-genomics/</guid>
+      <description>Learn more                                 Abstract: Background:
+Nicotinic acetylcholine receptors (nAChRs) play an important role in cellular physiology and human nicotine dependence, and are closely associated with many human diseases including cancer. For example, previous studies suggest that nAChRs can re-wire gene regulatory networks in lung cancer cell lines.</description>
+    </item>
+    
+    <item>
+      <title>Cryptic transcription start sites encoded in long terminal repeats</title>
+      <link>https://wang.wustl.edu/research/2017-brocks-nature-genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2017-brocks-nature-genetics/</guid>
+      <description>Learn more                                 </description>
+    </item>
+    
+    <item>
+      <title>Transposable elements drive widespread expression of oncogenes in human cancers</title>
+      <link>https://wang.wustl.edu/research/2019-jang-nature-genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2019-jang-nature-genetics/</guid>
+      <description>Learn more                                 Abstract: Transposable elements (TEs) are an abundant and rich genetic resource of regulatory sequences1,2,3. Cryptic regulatory elements within TEs can be epigenetically reactivated in cancer to influence oncogenesis in a process termed onco-exaptation4. However, the prevalence and impact of TE onco-exaptation events across cancer types are poorly characterized.</description>
+    </item>
+    
+    <item>
+      <title>WashU Epigenome Browser update 2019</title>
+      <link>https://wang.wustl.edu/research/2019-li-nucleic-acids-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2019-li-nucleic-acids-research/</guid>
+      <description>Learn more                                 Abstract: The WashU Epigenome Browser (https://epigenomegateway.wustl.edu/) provides visualization, integration and analysis tools for epigenomic datasets. Since 2010, it has provided the scientific community with data from large consortia including the Roadmap Epigenomics and the ENCODE projects. Recently, we refactored the codebase, redesigned the user interface, and developed various novel features.</description>
+    </item>
+    
+    <item>
+      <title>The epigenomic landscape of transposable elements across normal human development and anatomy</title>
+      <link>https://wang.wustl.edu/research/2019-pehrsson-nature-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2019-pehrsson-nature-communications/</guid>
+      <description>Learn more                                 Abstract: Transposable elements (TEs) have deposited functional regulatory elements throughout the human genome. Although most are silenced, certain TEs have been co-opted by the host. However, a comprehensive, multidimensional picture of the contribution of TEs to normal human gene regulation is still lacking.</description>
+    </item>
+    
+    <item>
+      <title>Co-opted transposons help perpetuate conserved higher-order chromosomal structures</title>
+      <link>https://wang.wustl.edu/research/2020-choudhary-genome-biology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-choudhary-genome-biology/</guid>
+      <description>Learn more                                 Abstract: Background:
+Transposable elements (TEs) make up half of mammalian genomes and shape genome regulation by harboring binding sites for regulatory factors. These include binding sites for architectural proteins, such as CTCF, RAD21, and SMC3, that are involved in tethering chromatin loops and marking domain boundaries.</description>
+    </item>
+    
+    <item>
+      <title>Regenerating zebrafish fin epigenome is characterized by stable lineage-specific DNA methylation and dynamic chromatin accessibility</title>
+      <link>https://wang.wustl.edu/research/2020-lee-genome-biology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-lee-genome-biology/</guid>
+      <description>Learn more                                 Abstract: Background:
+Zebrafish can faithfully regenerate injured fins through the formation of a blastema, a mass of proliferative cells that can grow and develop into the lost body part. After amputation, various cell types contribute to blastema formation, where each cell type retains fate restriction and exclusively contributes to regeneration of its own lineage.</description>
+    </item>
+    
+    <item>
+      <title>DeepH&amp;M: Estimating single-CpG hydroxymethylation and methylation levels from enrichment and restriction enzyme sequencing methods</title>
+      <link>https://wang.wustl.edu/research/2020-he-science-advances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-he-science-advances/</guid>
+      <description>Learn more                                 Abstract: Increased appreciation of 5-hydroxymethylcytosine (5hmC) as a stable epigenetic mark, which defines cell identity and disease progress, has engendered a need for cost-effective, but high-resolution, 5hmC mapping technology. Current enrichment-based technologies provide cheap but low-resolution and relative enrichment of 5hmC levels, while single-base resolution methods can be prohibitively expensive to scale up to large experiments.</description>
+    </item>
+    
+    <item>
+      <title>Cellular diversity of the regenerating caudal fin</title>
+      <link>https://wang.wustl.edu/research/2020-hou-science-advances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-hou-science-advances/</guid>
+      <description>Learn more                                 Abstract: Zebrafish faithfully regenerate their caudal fin after amputation. During this process, both differentiated cells and resident progenitors migrate to the wound site and undergo lineage-restricted, programmed cellular state transitions to populate the new regenerate. Until now, systematic characterizations of cells comprising the new regenerate and molecular definitions of their state transitions have been lacking.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the coronavirus pandemic with the WashU Virus Genome Browser</title>
+      <link>https://wang.wustl.edu/research/2020-flynn-nature-genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-flynn-nature-genetics/</guid>
+      <description>Learn more                                 The WashU Virus Genome Browser is a web-based portal for efficient visualization of viral ‘omics’ data in the context of a variety of annotation tracks and host infection responses. The browser features both a phylogenetic-tree-based view and a genomic-coordinate, track-based view in which users can analyze the sequence features of viral genomes, sequence diversity among viral strains, genomic sites of diagnostic tests, predicted immunogenic epitopes and a continuously updated repository of publicly available genomic datasets.</description>
+    </item>
+    
+    <item>
+      <title>Tissue-specific usage of transposable element-derived promoters in mouse development</title>
+      <link>https://wang.wustl.edu/research/2020-miao-genome-biology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-miao-genome-biology/</guid>
+      <description>Learn more                                 Background: Transposable elements (TEs) are a significant component of eukaryotic genomes and play essential roles in genome evolution. Mounting evidence indicates that TEs are highly transcribed in early embryo development and contribute to distinct biological functions and tissue morphology.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomic differences in the human and chimpanzee genomes are associated with structural variation</title>
+      <link>https://wang.wustl.edu/research/2020-zhuo-genome-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-zhuo-genome-research/</guid>
+      <description>Learn more                                 Abstract: Structural variation (SV), including insertions and deletions (indels), is a primary mechanism of genome evolution. However, the mechanism by which SV contributes to epigenome evolution is poorly understood. In this study, we characterized the association between lineage-specific indels and epigenome differences between human and chimpanzee to investigate how SVs might have shaped the epigenetic landscape.</description>
+    </item>
+    
+    <item>
+      <title>Transcript assembly improves expression quantification of transposable elements in single-cell RNA-seq data</title>
+      <link>https://wang.wustl.edu/research/2020-shao-genome-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2020-shao-genome-research/</guid>
+      <description>Learn more                                 Abstract: Transposable elements (TEs) are an integral part of the host transcriptome. TE-containing noncoding RNAs (ncRNAs) show considerable tissue specificity and play important roles during development, including stem cell maintenance and cell differentiation. Recent advances in single-cell RNA-seq (scRNA-seq) revolutionized cell type–specific gene expression analysis.</description>
+    </item>
+    
+    <item>
+      <title>Human placental cytotrophoblast epigenome dynamics over gestation and alterations in placental disease</title>
+      <link>https://wang.wustl.edu/research/2021-zhang-developmental-cell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2021-zhang-developmental-cell/</guid>
+      <description>Learn more                                 Summary: The human placenta and its specialized cytotrophoblasts rapidly develop, have a compressed lifespan, govern pregnancy outcomes, and program the offspring’s health. Understanding the molecular underpinnings of these behaviors informs development and disease. Profiling the extraembryonic epigenome and transcriptome during the 2nd and 3rd trimesters revealed H3K9 trimethylation overlapping deeply DNA hypomethylated domains with reduced gene expression and compartment-specific patterns that illuminated their functions.</description>
+    </item>
+    
+    <item>
+      <title>Common DNA methylation dynamics in endometriod adenocarcinoma and glioblastoma suggest universal epigenomic alterations in tumorigenesis</title>
+      <link>https://wang.wustl.edu/research/2021-karlow-communications-biology/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2021-karlow-communications-biology/</guid>
+      <description>Learn more                                 Abstract: Trends in altered DNA methylation have been defined across human cancers, revealing global loss of methylation (hypomethylation) and focal gain of methylation (hypermethylation) as frequent cancer hallmarks. Although many cancers share these trends, little is known about the specific differences in DNA methylation changes across cancer types, particularly outside of promoters.</description>
+    </item>
+    
+    <item>
+      <title>Epigenetic dynamics shaping melanophore and iridophore cell fate in zebrafish</title>
+      <link>https://wang.wustl.edu/research/2021-jang-genome-biology/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2021-jang-genome-biology/</guid>
+      <description>Learn more                                 Abstract: Background:
+Zebrafish pigment cell differentiation provides an attractive model for studying cell fate progression as a neural crest progenitor engenders diverse cell types, including two morphologically distinct pigment cells: black melanophores and reflective iridophores. Nontrivial classical genetic and transcriptomic approaches have revealed essential molecular mechanisms and gene regulatory circuits that drive neural crest-derived cell fate decisions.</description>
+    </item>
+    
+    <item>
+      <title>A mouse-specific retrotransposon drives a conserved Cdk2ap1 isoform essential for development</title>
+      <link>https://wang.wustl.edu/research/2021-modzelewski-cell/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2021-modzelewski-cell/</guid>
+      <description>Learn more                                 Summary: Retrotransposons mediate gene regulation in important developmental and pathological processes. Here, we characterized the transient retrotransposon induction during preimplantation development of eight mammals. Induced retrotransposons exhibit similar preimplantation profiles across species, conferring gene regulatory activities, particularly through long terminal repeat (LTR) retrotransposon promoters.</description>
+    </item>
+    
+    <item>
+      <title>WashU Epigenome Browser update 2022</title>
+      <link>https://wang.wustl.edu/research/2022-li-nucleic-acids-research/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2022-li-nucleic-acids-research/</guid>
+      <description>Learn more                                 Abstract: WashU Epigenome Browser (https://epigenomegateway.wustl.edu/browser/) is a web-based genomic data exploration tool that provides visualization, integration, and analysis of epigenomic datasets. The newly renovated user interface and functions have enabled researchers to engage with the browser and genomic data more efficiently and effectively since 2018.</description>
+    </item>
+    
+    <item>
+      <title>The Human Pangenome Project: a global resource to map genomic diversity</title>
+      <link>https://wang.wustl.edu/research/2022-wang-nature/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2022-wang-nature/</guid>
+      <description>Learn more                                 Abstract: The human reference genome is the most widely used resource in human genetics and is due for a major update. Its current structure is a linear composite of merged haplotypes from more than 20 people, with a single individual comprising most of the sequence.</description>
+    </item>
+    
+    <item>
+      <title>Genetic, epigenetic, and environmental mechanisms govern allele-specific gene expression</title>
+      <link>https://wang.wustl.edu/research/2022-stpierre-genome-research/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2022-stpierre-genome-research/</guid>
+      <description>Learn more                                 Abstract: Allele-specific expression (ASE) is a phenomenon in which one allele is preferentially expressed over the other. Genetic and epigenetic factors cause ASE by altering the final composition of a gene&amp;rsquo;s product, leading to expression imbalances that can have functional consequences on phenotypes.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomic landscape of zebrafish TEs</title>
+      <link>https://wang.wustl.edu/research/2022-lee-genome-research/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2022-lee-genome-research/</guid>
+      <description>Learn more
+                                 Abstract: Transposable elements (TEs) encode regulatory elements that impact gene expression in multiple species, yet a comprehensive analysis of zebrafish TEs in the context of gene regulation is lacking. Here, we systematically investigate the epigenomic and transcriptomic landscape of TEs across eleven adult zebrafish tissues using multidimensional sequencing data.</description>
+    </item>
+    
+    <item>
+      <title>Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser</title>
+      <link>https://wang.wustl.edu/research/2022-li-nature-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang.wustl.edu/research/2022-li-nature-methods/</guid>
+      <description>Learn more                                 Three-dimensional (3D) genomic structures are vital for gene regulation and cell function1. High-throughput technologies based on chromosome conformation capture have been used to study genome-wide physical chromosome interactions2. These interactions can be visualized as 2D heatmaps3 or as interaction networks decorated with genomic features4.</description>
+    </item>
+    
+  </channel>
+</rss>

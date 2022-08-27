@@ -48,7 +48,7 @@
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {{ $research := where (where .Site.RegularPages "Type" "research") ".Params.featured" true }}
-      {{ range first 6 (sort $research ".Params.weight") }}
+      {{ range first 6 (sort $research ".Params.weight" "desc") }}
       <div class="col-12 col-md-4 mb-1">
         {{ .Render "summary" }}
       </div>

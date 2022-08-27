@@ -2,16 +2,16 @@
     {
         "name": "Github",
         "link": "https://github.com/twlab",
-        "image": "images/social/github.svg"
+        "image": "image/social/github.svg"
     },
     {
         "name": "Facebook",
         "link": "https://www.facebook.com/groups/346647445406639/",
-        "image": "images/social/facebook2.svg"
+        "image": "image/social/facebook2.svg"
     },
     {
         "name": "Twitter",
         "link": "https://twitter.com/twang5",
-        "image": "images/social/twitter.svg"
+        "image": "image/social/twitter.svg"
     }
 ]

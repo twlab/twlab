@@ -7,6 +7,6 @@
 </style>
 
 <div class="altmetric">
-<div class="altmetric-embed" data-badge-type="donut" data-badge-popover="left" data-altmetric-id="{{ index .Params 0 }}"></div>
+<div class="altmetric-embed" data-badge-type="donut" data-badge-popover="bottom" {{if (.Get "src")}} data-doi="{{ .Get "src" }}" {{else}} data-altmetric-id="{{ index .Params 0 }}" {{end}}  data-hide-no-mentions="true"></div>
 </div>
 
