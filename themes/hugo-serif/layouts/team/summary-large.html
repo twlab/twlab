@@ -13,8 +13,8 @@
     <div class="team-meta">
         <h2 class="team-name">{{ .Title }}</h2>
         <p class="team-description">{{ .Params.Jobtitle }}</p>
-        {{ if .Params.orcidurl }}
-        <a target="_blank" rel="noreferrer" href="https://orcid.org/{{ .Params.orcidurl }}">ORCiD</a> {{ end }} {{ if
+        {{ if .Params.orcid }}
+        <a target="_blank" rel="noreferrer" href="https://orcid.org/{{ .Params.orcid }}">ORCiD</a> {{ end }} {{ if
         .Params.Twitterhandle }}
         <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
     </div>

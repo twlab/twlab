@@ -5,7 +5,7 @@ draft: false
 image: 'https://wang.wustl.edu/img/NakulLarge.jpg'
 jobtitle: 'Medical Student (WashU Med School)'
 weight: 4
-orcidurl: 0000-0003-1775-2279
+orcid: 0000-0003-1775-2279
 promoted: true
 ---
 Email: nakul.m.shah@wustl.edu
