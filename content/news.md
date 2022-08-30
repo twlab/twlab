@@ -2,6 +2,9 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+
+8-26-2022. Doris Wu joins the lab for a rotation. Welcome, Doris!
+
 8-25-2022. Interested in how sequences introduced by transposon activities provide raw material for genome innovation and document the distinct evolutionary path of each species? Check [this review](https://www.nature.com/articles/s41556-022-00970-4) by Andrew Modzelewski, Johnny Gan Chong, Ting Wang and Lin He.
 
 8-25-2022. The [dynseq track](https://eg.readthedocs.io/en/latest/tracks.html#dynamic-sequence-tracks) paper has now been accepted for publication in Nature Genetics! This is a collaboration with Dr. Kundaje lab from Stanford. Congratulations!
@@ -9,6 +12,8 @@ date: 2018-02-22T17:01:34+07:00
 8-23-2022. Alan’s paper “Functional characterization of enhancer activity during a long terminal repeat’s evolution” has been officially accepted by Genome Research. Congratulations!
 
 8-22-2022. Wenjin Zhang is joining the lab for his thesis study. Welcome, Wenjin! Also Qinglin Zeng has joined the lab for his first rotation. Welcome Qinglin!
+
+8-15-2022. Xiaowen Ma joins the lab as a Bioinformatics Research Analyst. Welcome Xiaowen!
 
 8-13-2022. 5th lab float trip. [Some pictures](/FloatTrip2022).
 
