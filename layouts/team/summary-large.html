@@ -1,4 +1,4 @@
-<div class="team team-summary">
+<div class="team team-summary team-summary-large">
     {{ if .Params.image }}
     <div class="team-image">
         <img
@@ -14,7 +14,11 @@
         <h2 class="team-name">{{ .Title }}</h2>
         <p class="team-description">{{ .Params.Jobtitle }}</p>
         {{ if .Params.orcid }}
-        <a target="_blank" rel="noreferrer" href="{{ .Params.orcid }}">ORCid</a>
-        {{ end }}
+        <a target="_blank" rel="noreferrer" href="https://orcid.org/{{ .Params.orcid }}">ORCiD</a> {{ end }} {{ if
+        .Params.Twitterhandle }}
+        <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
+    </div>
+    <div class="team-content">
+        {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}
     </div>
 </div>

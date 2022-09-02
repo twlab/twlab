@@ -4652,13 +4652,13 @@ ol {
   flex-wrap: wrap;
   flex-direction: row; }
   .team-summary .team-image {
-    height: 60px;
-    width: 60px;
+    height: 200px;
+    width: 300px;
     margin-right: 10px;
     border-radius: 50%;
     overflow: hidden; }
     .team-summary .team-image img {
-      width: 60px;
+      width: 300px;
       height: auto; }
   .team-summary .team-meta {
     flex: 1; }
@@ -4681,15 +4681,13 @@ ol {
   padding: 30px;
   border-radius: 3px; }
   .team-summary-large .team-image {
-    height: 90px;
-    width: 90px;
-    margin-right: 20px;
+    height: 200px;
+    width: 300px;
     border-radius: 15%;
     overflow: hidden; }
     .team-summary-large .team-image img {
-      width: 150px;
-      height: auto;
-      margin-left: -27px; }
+      width: 300px;
+      height: auto; }
 
 .page-services-single .content > p:first-of-type {
   font-size: 1.6rem;

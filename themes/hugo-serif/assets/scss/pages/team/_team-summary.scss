@@ -3,13 +3,13 @@
   flex-wrap: wrap;
   flex-direction: row;
   .team-image {
-    height: 60px;
-    width: 60px;
+    height: 200px;
+    width: 300px;
     margin-right: 10px;
     border-radius: 50%;
     overflow: hidden;
     img {
-      width: 60px;
+      width: 300px;
       height: auto;
     }
   }
@@ -39,15 +39,15 @@
   padding: 30px;
   border-radius: 3px;
   .team-image {
-    height: 90px;
-    width: 90px;
-    margin-right: 20px;
+    height: 200px;
+    width: 300px;
+    // margin-right: 20px;
     border-radius: 15%;
     overflow: hidden;
     img {
-      width: 150px;
+      width: 300px;
       height: auto;
-      margin-left: -27px
+      // margin-left: -27px
     }
   }
 }
