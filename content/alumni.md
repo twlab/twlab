@@ -10,123 +10,121 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< load-photoswipe >}}
 | | Name | Role in lab| Duration | Where they went |
 | - |:-:|:-:|:-:|:-:|
-|{{< figure src = "https://wang.wustl.edu/img/YiranLarge.jpg" width = "200px">}}| Yiran Hou (PhD, 2022) | Graduate Student (MGG) |2016/03-2022/08  ||
-|{{< figure src = "https://wang.wustl.edu/img/SonaliLarge.jpg" width = "200px">}}| Sonali Sharma | Highschool student (YSP program) | 2022/06-2022/08 ||
-|{{< figure src = "https://wang.wustl.edu/img/HannahLarge.jpg" width = "200px">}}| Hannah Chay | Florence Moog Fellow |2021/01-2022/06  ||
-|{{< figure src = "https://wang.wustl.edu/img/MitchellLarge.jpg" width = "200px">}}| Mitchell Grinwald | Rotation Student (MSTP) |2022/05-2022/08 ||
-|{{< figure src = "https://wang.wustl.edu/img/MichaelMLarge.jpg" width = "200px">}}| Michael Moore | Rotation Student (MSTP) | 2022/05-2022/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/YiranLarge.jpg" width = "200px">}}| Yiran Hou (PhD, 2022) | Graduate Student (MGG) |2016/03-2022/08  |University of Wisconsin-Madison|
+|{{< figure src = "https://wang.wustl.edu/img/SonaliLarge.jpg" width = "200px">}}| Sonali Sharma | Highschool student (YSP program) | 2022/06-2022/08 |Highschool|
+|{{< figure src = "https://wang.wustl.edu/img/HannahLarge.jpg" width = "200px">}}| Hannah Chay | Florence Moog Fellow |2021/01-2022/06  |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/MitchellLarge.jpg" width = "200px">}}| Mitchell Grinwald | Rotation Student (MSTP) |2022/05-2022/08 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/MichaelMLarge.jpg" width = "200px">}}| Michael Moore | Rotation Student (MSTP) | 2022/05-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MarinaLarge.jpg" width = "200px">}}|Marina Sha  |Summer intern (Carnegie Mellon University)  |2022/06-2022/08  |CMU|
-|{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}|Mary Shang  | WashU Undergraduate Student |2022/06-2022/08  ||
+|{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}|Mary Shang  | WashU Undergraduate Student |2022/06-2022/08  |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/EricaLarge.jpg" width = "200px">}}| Erica Shi | Highschool student | 2022/06-2022/08 |Ladue Highschool|
-|{{< figure src = "https://wang.wustl.edu/img/NahyunLarge.jpg" width = "200px">}}| Nahyun Kong | Rotation Student (HSG) |2022/05-2022/07  ||Peter Jin lab
-|{{< figure src = "https://wang.wustl.edu/img/AriyaLarge.jpg" width = "200px">}}| {{< spacer >}} Ariya Chaloemtoem| {{< spacer >}} Rotation Student (HSG)|{{< spacer >}} 2021/12-2022/03 ||
-|{{< figure src = "https://wang.wustl.edu/img/DeepakLarge.jpg" width = "200px">}} | {{< spacer >}} Deepak Purushotham   | {{< spacer >}} Senior Scientist|{{< spacer >}} 2015/01-2022/03 | {{< spacer >}} Moderna, Inc. |
-|{{< figure src = "https://wang.wustl.edu/img/JenniferLarge.jpg" width = "200px">}}   | {{< spacer >}} Jennifer Karlow (Flynn) (PhD, 2021)   | {{< spacer >}} Graduate Student (CSB)|{{< spacer >}} 2015/07-2022/02 | {{< spacer >}} [Burns Lab](https://burnslab.dana-farber.org/) at Harvard Medical School  |
-|{{< figure src = "https://wang.wustl.edu/img/DianLarge.jpg" width = "200px">}}| {{< spacer >}} Dian Li| {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 2021/09-2021/12 | |
-|{{< figure src = "https://wang.wustl.edu/img/WenjinLarge.jpg" width = "200px">}} | {{< spacer >}} Wenjin Zhang | {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 2021/09-2022/01 | |
-|{{< figure src = "https://wang.wustl.edu/img/CarynLarge.jpg" width = "200px">}}| {{< spacer >}} Caryn Carson | {{< spacer >}} Postdoc|{{< spacer >}} 2020/10-2022/01 | |
-|{{< figure src = "https://wang.wustl.edu/img/ReeveLarge.jpg" width = "200px">}}| {{< spacer >}} Reeve Sobol| {{< spacer >}} Undergraduate Researcher |{{< spacer >}} 2020/08-2022/01 | |
-|{{< figure src = "https://wang.wustl.edu/img/ClintonLarge.jpg" width = "200px">}}| {{< spacer >}} Clinton Jules| {{< spacer >}} Rotation Student (Computer Science)  |{{< spacer >}} 2021/11-2022/01 | |
-|{{< figure src = "https://wang.wustl.edu/img/AngelaLarge.jpg" width = "200px">}} | {{< spacer >}} Angela Wu | {{< spacer >}} Research scientist |{{< spacer >}} 2020/01-2021/11 | {{< spacer >}} Data analyst at Kansas Health Institute |
-|{{< figure src = "https://wang.wustl.edu/img/LisaLarge.jpg" width = "200px">}}| {{< spacer >}} Lisa Liao | {{< spacer >}} Rotation Student (Computer Science) |{{< spacer >}} 2021/09-2021/11||
-|{{< figure src = "https://wang.wustl.edu/img/AmyLarge.jpg" width = "200px">}} | {{< spacer >}} Amy Li | {{< spacer >}} Undergraduate Researcher|{{< spacer >}} 2021/06-2021/08| {{< spacer >}} Boston University|
-|{{< figure src = "https://wang.wustl.edu/img/AaronLarge.jpg" width = "200px">}}| {{< spacer >}} Aaron Anderson   | {{< spacer >}} Rotation Student |{{< spacer >}} 2021/08-2021/10| {{< spacer >}} Kerry Kornfeld’s lab|
-|{{< figure src = "https://wang.wustl.edu/img/comingsoon.jpg" width = "200px">}}| {{< spacer >}} Max Wrubel| {{< spacer >}} Post-bacc (Opportunities in Genomics Research Program)|{{< spacer >}} 2021/09-2021/11| {{< spacer >}} Peter Jin lab |
-|{{< figure src = "https://wang.wustl.edu/img/WanqingLarge.jpg" width = "200px">}}| {{< spacer >}} Wanqing Shao | {{< spacer >}} Postdoc  |{{< spacer >}} 2018/10-2021/10| {{< spacer >}} Genomic Scientist at Boston Children’s Hospital |
-|{{< figure src = "https://wang.wustl.edu/img/MayankLarge.jpg" width = "200px">}} | {{< spacer >}} Mayank Choudhary (PhD, 2021)| {{< spacer >}} Graduate Student (MGG) |{{< spacer >}} 2015/06-2021/07| {{< spacer >}} McKinsey & Company|
-|{{< figure src = "https://wang.wustl.edu/img/HyungJooLarge.jpg" width = "200px">}}   | {{< spacer >}} Hyung Joo Lee (PhD, 2017)| {{< spacer >}} Graduate Student (MGG) & Postdoc |{{< spacer >}} 2011/02-2021/07| {{< spacer >}} Bioscience Team Leader at Pin Therapeutics, Inc.|
-|{{< figure src = "https://wang.wustl.edu/img/ClaraLarge.jpg" width = "200px">}}| {{< spacer >}} Clara Liu | {{< spacer >}} Rotation Student (MSTP)|{{< spacer >}} 2021/06-2021/08||
-|{{< figure src = "https://wang.wustl.edu/img/ChangfengLarge.jpg" width = "200px">}}  | {{< spacer >}} Changfeng Chen   | {{< spacer >}} Rotation Student (MCB) |{{< spacer >}} 2021/04-2021/07||
-|{{< figure src = "https://wang.wustl.edu/img/ScarlettLarge.jpg" width = "200px">}}   | {{< spacer >}} Scarlett Ge| {{< spacer >}} Undergraduate Student (WashU) |{{< spacer >}} 2019/04-2021/04| {{< spacer >}} JHU   |
-|{{< figure src = "https://wang.wustl.edu/img/FujrLarge.jpg" width = "200px">}}| {{< spacer >}} Fujr Ibrah/im| {{< spacer >}} Undergraduate Student|{{< spacer >}} 2019/09-2021/04| {{< spacer >}} JHU   |
-|{{< figure src = "https://wang.wustl.edu/img/JosephLarge.jpg" width = "200px">}} | {{< spacer >}} Joseph Bradley   | {{< spacer >}} Rotation Student (HSG) |{{< spacer >}} 2020/09-2021/02||
-|{{< figure src = "https://wang.wustl.edu/img/GavrielLarge.jpg" width = "200px">}}| {{< spacer >}} Gavriel Matt | {{< spacer >}} Postdoc  |{{< spacer >}} 2019/08-2020/12| {{< spacer >}} St. jude children's hospital  |
-|{{< figure src = "https://wang.wustl.edu/img/AlinaLarge.jpg" width = "200px">}}| {{< spacer >}} Alina Ulezko Antonova| {{< spacer >}} WashU MSTP Student  |{{< spacer >}} 2020/03-2020/09| {{< spacer >}} WashU |
-|{{< figure src = "https://wang.wustl.edu/img/EricLarge.jpg" width = "200px">}}| {{< spacer >}} Eric Yin| {{< spacer >}} High School Student |{{< spacer >}} 2020/05-2020/09||
-|{{< figure src = "https://wang.wustl.edu/img/AlinaCLarge.jpg" width = "200px">}} | {{< spacer >}} Alina Chen| {{< spacer >}} High School Student |{{< spacer >}} 2020/05-2020/09||
-|{{< figure src = "https://wang.wustl.edu/img/TamiLarge.jpg" width = "200px">}}| {{< spacer >}} Tami Wong | {{< spacer >}} WashU Undergraduate Student (uSTAR program)|{{< spacer >}} 2020/05-2020/09| {{< spacer >}} WashU |
-|{{< figure src = "https://wang.wustl.edu/img/SophieLarge.jpg" width = "200px">}} | {{< spacer >}} Sophie Xu | {{< spacer >}} High School Student |{{< spacer >}} 2020/05-2020/09||
-|{{< figure src = "https://wang.wustl.edu/img/Ji-SunLarge.jpg" width = "200px">}} | {{< spacer >}} Ji-Sun Kwon| {{< spacer >}} Rotation Student |{{< spacer >}} 2020/02-2020/05||
-|{{< figure src = "https://wang.wustl.edu/img/RafaelLarge.jpg" width = "200px">}} | {{< spacer >}} Rafael Feliciano | {{< spacer >}} Rotation Student (MGG)|{{< spacer >}} 2020/01-2020/04||
-|{{< figure src = "https://wang.wustl.edu/img/XianglinLarge.jpg" width = "200px">}} | {{< spacer >}} Xianglin Zhang | {{< spacer >}} Exchange Scholar (Tsinghua University) |{{< spacer >}} 2019/06-2020/05| {{< spacer >}} Tsinghua University |
-|{{< figure src = "https://wang.wustl.edu/img/Ali_resize.jpg" width = "200px">}}| {{< spacer >}} Ali Wilkening  | {{< spacer >}} Undergraduate Student (WashU)|{{< spacer >}} 2017/09-2019/12| {{< spacer >}} Stanford University |
-|{{< figure src = "https://images.squarespace-cdn.com/content/5402b1a0e4b02a7794494453/1410284595404-9P4XJO55K0YA1CKZL2KK/?format=500w&content-type=image%2Fjpeg" >}}| {{< spacer >}} Erica Pehrsson | {{< spacer >}} Postdoc (ACS fellow)   |{{< spacer >}} 2016/02-2020/04||
-|{{< figure src = "https://wang.wustl.edu/img/Josh_newLarge.jpg" width = "200px">}} | {{< spacer >}} Josh Jang (PhD, 2020)| {{< spacer >}} Graduate Student (MGG) |{{< spacer >}} 2015/03-2020/03| {{< spacer >}} Postdoc at VAI   |
-|{{< figure src = "https://wang.wustl.edu/img/YuLarge.jpg" width = "200px">}}| {{< spacer >}} Yu He (PhD, 2020) | {{< spacer >}} Graduate Student (CSB) |{{< spacer >}} 2015/04-2020/04||
-|{{< figure src = "https://wang.wustl.edu/img/YaweiLarge.jpg" width = "200px">}}| {{< spacer >}} Yawei Wu| {{< spacer >}} Rotation Student (MGG) |{{< spacer >}} 2019/11-2020/01| {{< spacer >}} Barak Lab |
-|{{< figure src = "https://wang.wustl.edu/img/ReneeLarge.jpg" width = "200px">}}| {{< spacer >}} Renee Sears (PhD, 2019)  | {{< spacer >}} Graduate Student (HSG) |{{< spacer >}} 2014/08-2019/09| {{< spacer >}} bioinfor - matician at PierianDx |
-|{{< figure src = "https://wang.wustl.edu/img/JefferyLarge.jpg" width = "200px">}}  | {{< spacer >}} Jeffery McMillian | {{< spacer >}} Young Scientist Program (YSP) Student  |{{< spacer >}} 2019/06-2019/10||
-|{{< figure src = "https://wang.wustl.edu/img/RuthyLarge.jpg" width = "200px">}}| {{< spacer >}} Ruthy Mamo  | {{< spacer >}} Meharry Summer Research Program Medical Student  |{{< spacer >}} 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/SamuelLarge.jpg" width = "200px">}}   | {{< spacer >}} Samuel Chen | {{< spacer >}} Summer Highschool Student |{{< spacer >}} 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/AnnLarge.jpg" width = "200px">}}| {{< spacer >}} Ann Zhang   | {{< spacer >}} Summer Highschool Student |{{< spacer >}} 2019/05-2019/08| {{< spacer >}} Yale|
-|{{< figure src = "https://wang.wustl.edu/img/JustinXLarge.jpg" width = "200px">}}  | {{< spacer >}} Justin Xu   | {{< spacer >}} Summer Highschool Student |{{< spacer >}} 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/JasonLarge.jpg" width = "200px">}}| {{< spacer >}} Jason Xu| {{< spacer >}} Summer Highschool Student |{{< spacer >}} 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/VincentLarge.jpg" width = "200px">}}  | {{< spacer >}} Vincent Xu  | {{< spacer >}} Summer Highschool Student |{{< spacer >}} 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/GengLarge.jpg" width = "200px">}} | {{< spacer >}} Geng Wang   | {{< spacer >}} Rotation Student|{{< spacer >}} 2019/06-2019/06||
-|{{< figure src = "https://wang.wustl.edu/img/XinxinLarge.jpg" width = "200px">}}   | {{< spacer >}} Xinxin Wang | {{< spacer >}} Rotation Student|{{< spacer >}} 2019/02-2019/05| {{< spacer >}} Ira Hall Lab |
-|{{< figure src = "https://wang.wustl.edu/img/Aiyana_resize.jpg" width = "200px">}} | {{< spacer >}} Aiyana Riddihough | {{< spacer >}} Undergraduate Student  |{{< spacer >}} 2017/09-2019/04||
-|{{< figure src = "https://wang.wustl.edu/img/WenweiLarge.jpg" width = "200px">}}   | {{< spacer >}} Wenwei Liao | {{< spacer >}} Rotation Student   |{{< spacer >}} 2019/01-2019/04 | {{< spacer >}} Ira Hall Lab|
-|{{< figure src = "https://wang.wustl.edu/img/BenjaminLarge.jpg" width = "200px">}} | {{< spacer >}} Benjamin Katz | {{< spacer >}} Rotation Student   |{{< spacer >}} 2018/06-2018/09 ||
-|{{< figure src = "https://wang.wustl.edu/img/JuliaWLarge.jpg" width = "200px">}}| {{< spacer >}} Julia Wang | {{< spacer >}} Rotation Student   |{{< spacer >}} 2018/06-2018/09 | {{< spacer >}} Li Ding Lab|
-|{{< figure src = "https://wang.wustl.edu/img/SilasLarge.jpg" width = "200px">}} | {{< spacer >}} Silas Hsu  | {{< spacer >}} Software Engineer  |{{< spacer >}} 2017/05-2018/08 | {{< spacer >}} UIUC|
-|{{< figure src = "https://wang.wustl.edu/img/Haoyue_resize.jpg" width = "200px">}} | {{< spacer >}} Haoyue Xue | {{< spacer >}} Research Assistant |{{< spacer >}} 2017/09-2018/01 ||
-|{{< figure src = "https://wang.wustl.edu/img/DavidALarge.jpg" width = "200px">}}| {{< spacer >}} David Ayeke| {{< spacer >}} Part-T/ime programmer |{{< spacer >}} 2018/06-2018/07 | {{< spacer >}} Pizza Hut|
-|{{< figure src = "https://wang.wustl.edu/img/YizeLarge.jpg" width = "200px">}}| {{< spacer >}} Yize Li| {{< spacer >}} Rotation Student (HSG)|{{< spacer >}} 2018/02-2018/05 | {{< spacer >}} Ding lab|
-|{{< figure src = "https://wang.wustl.edu/img/ZeaLarge.jpg" width = "200px">}}| {{< spacer >}} Zea Zhu| {{< spacer >}} Research Specialist|{{< spacer >}} 06/2017-04/2018 | {{< spacer >}} U of Wisconsin Madison|
-|{{< figure src = "https://wang.wustl.edu/img/Lucas_resize.jpg" width = "200px">}}| {{< spacer >}} Lucas Thomas| {{< spacer >}} Rotation Medical Student |{{< spacer >}} 10/2017-04/2018 | {{< spacer >}} WashU Medical School |
-|{{< figure src = "https://wang.wustl.edu/img/RyanLarge.jpg" width = "200px">}}| {{< spacer >}} Ryan Friedman | {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 11/2017-02/2018 | {{< spacer >}} Kristen Naegle Lab|
-|{{< figure src = "https://wang.wustl.edu/img/PaulaLarge.jpg" width = "200px">}} | {{< spacer >}} Paula Godoy| {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 11/2017-02/2018 | {{< spacer >}} Charles Kaufman Lab|
-|{{< figure src = "https://wang.wustl.edu/img/ChengLarge.jpg" width = "200px">}} | {{< spacer >}} Cheng Lyu  | {{< spacer >}} Part t/ime research assistant|{{< spacer >}} 11/2016-02/2018 | {{< spacer >}} Bioinfor - matician at Bo Zhang Lab|
-|{{< figure src = "https://wang.wustl.edu/img/KyleLarge.jpg" width = "200px">}}| {{< spacer >}} Kyle Burbach| {{< spacer >}} Rotation Student (MGG)|{{< spacer >}} 10/2017-12/2017 | {{< spacer >}} Andrew Yoo lab|
-|{{< figure src = "https://wang.wustl.edu/img/AnandaLarge.jpg" width = "200px">}}| {{< spacer >}} Ananda Datta| {{< spacer >}} Postdoc  |{{< spacer >}} 10/2016-05/2017 | {{< spacer >}} Monsanto|
-|{{< figure src = "https://wang.wustl.edu/img/MikaylaLarge.jpg" width = "200px">}}| {{< spacer >}} Mikayla Choi| {{< spacer >}} Biochemistry Undergraduate Student (WashU)|{{< spacer >}} 9/2015-05/2017  | {{< spacer >}} Yonsei medical school|
-|{{< figure src = "https://wang.wustl.edu/img/ErikaLarge.jpg" width = "200px">}} | {{< spacer >}} Erika Schumacher | {{< spacer >}} Rotation student (EEPB)|{{< spacer >}} 01/2017-05/2017 | {{< spacer >}} Costa Rica |
-|{{< figure src = "https://wang.wustl.edu/img/JonathanLarge.jpg" width = "200px">}} | {{< spacer >}} Jonathan Spalding| {{< spacer >}} Rotation student (Developmental Biology)|{{< spacer >}} 08/2016-02/2017 | {{< spacer >}} Steve Johnson lab |
-|{{< figure src = "https://wang.wustl.edu/img/VasaviLarge.jpg" width = "200px">}}| {{< spacer >}} Vasavi Sundaram (PhD, 2016)| {{< spacer >}} Graduate Student (Computational and Systems Biology)|{{< spacer >}} 05/2011-03/2017 | {{< spacer >}} EMBL Inter - disciplinary Postdocs (EIPOD) fellow, in Duncan Odom and Paul Flicek labs |
-|{{< figure src = "https://wang.wustl.edu/img/RebeccaLarge.jpg" width = "200px">}}| {{< spacer >}} Rebecca Lowdon (PhD, 2016) | {{< spacer >}} Graduate Student (Molecular Genetics and Genomics)|{{< spacer >}} 06/2012-09/2016 | {{< spacer >}} Monsanto, Data Scientist in the Emerging Leaders in Science program |
-|{{< figure src = "https://wang.wustl.edu/img/NicoleLarge.jpg" width = "200px">}}| {{< spacer >}} Nicole Rockweiler| {{< spacer >}} Graduate student (Computational and Systems Biology)|{{< spacer >}} 10/2014-9/2016  | {{< spacer >}} Don Conrad lab|
-|{{< figure src = "https://wang.wustl.edu/img/DanielLarge.jpg" width = "200px">}}| {{< spacer >}} Daniel Cui | {{< spacer >}} Rotation student (CSB)|{{< spacer >}} 7/2016-9/2016   | {{< spacer >}} Barak Cohen lab   |
-|{{< figure src = "https://wang.wustl.edu/img/EileenLarge.jpg" width = "200px">}}| {{< spacer >}} Eileen Chen| {{< spacer >}} Summer Medical Student|{{< spacer >}} 03/2016-07/2016 | {{< spacer >}} WashU Med School  |
-|{{< figure src = "https://wang.wustl.edu/img/JustinLarge.jpg" width = "200px">}}| {{< spacer >}} Justin Chen| {{< spacer >}} Summer student |{{< spacer >}} 07/2015-08/2015, 07/2016-08/2016, 05/2017-08/2017, 05/2019-08/2019| {{< spacer >}} Columbia University|
-|{{< figure src = "https://wang.wustl.edu/img/JuliaLarge.jpg" width = "200px">}} | {{< spacer >}} Julia Altman| {{< spacer >}} Summer Student |{{< spacer >}} 6/2016-7/2016   | {{< spacer >}} South Carolina Governor's School|
-|{{< figure src = "https://wang.wustl.edu/img/AbbieLarge.jpg" width = "200px">}} | {{< spacer >}} Abbie Bowman| {{< spacer >}} Summer Student |{{< spacer >}} 6/2016-7/2016   | {{< spacer >}} South Carolina Governor's School|
-|{{< figure src = "https://wang.wustl.edu/img/JuanLarge.jpg" width = "200px">}}| {{< spacer >}} Juan Macias| {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 4/2016-6/2016   | {{< spacer >}} Lawson Lab |
-|{{< figure src = "https://wang.wustl.edu/img/JunchenLarge.jpg" width = "200px">}}| {{< spacer >}} Junchen Gu (PhD, 2015)| {{< spacer >}} Graduate Student   |{{< spacer >}} 05/2010-05/2016 | {{< spacer >}} Janssen R&D|
-|{{< figure src = "https://wang.wustl.edu/img/ChengranLarge.jpg" width = "200px">}} | {{< spacer >}} Chengran Yang | {{< spacer >}} Rotation Student (HSG)|{{< spacer >}} 11/2015-02/2016 | {{< spacer >}} Don Conrad lab|
-|{{< figure src = "https://wang.wustl.edu/img/AldrinLarge.jpg" width = "200px">}}| {{< spacer >}} Aldrin Y/im| {{< spacer >}} Rotation Student (CSB)|{{< spacer >}} 11/2015-02/2016 | {{< spacer >}} Jeff Milbrandt lab|
-|{{< figure src = "https://wang.wustl.edu/img/IvyLarge.jpg" width = "200px">}}| {{< spacer >}} Ivy Chen   | {{< spacer >}} Summer intern|{{< spacer >}} 07/2015-09/2015 | {{< spacer >}} Beijing University of Chemical Technology|
-|{{< figure src = "https://wang.wustl.edu/img/GiNellLarge.jpg" width = "200px">}}| {{< spacer >}} GiNell Elliott (PhD 2015)| {{< spacer >}} Graduate Student (Computational and Systems Biology, joint with Gary Stormo)   |{{< spacer >}} 12/2010-07/2015 | {{< spacer >}} Novartis, Boston  |
-|{{< figure src = "https://wang.wustl.edu/img/DianaLarge.jpg" width = "200px">}} | {{< spacer >}} Diana Jiang| {{< spacer >}} Summer Medical Student|{{< spacer >}} 07/2015-08/2015 | {{< spacer >}} Wash U Medical School|
-|{{< figure src = "https://wang.wustl.edu/img/TammyLarge.jpg" width = "200px">}} | {{< spacer >}} Tammy Ray  | {{< spacer >}} Summer student |{{< spacer >}} 07/2015-08/2015 | {{< spacer >}} South Carolina Governor's School|
-|{{< figure src = "https://wang.wustl.edu/img/AsiaLarge.jpg" width = "200px">}}| {{< spacer >}} Asia M. Paguntalan   | {{< spacer >}} Summer student |{{< spacer >}} 07/2015-08/2015 | {{< spacer >}} South Carolina Governor's School|
-|{{< figure src = "https://wang.wustl.edu/img/DavidLarge.jpg" width = "200px">}} | {{< spacer >}} David Zhang| {{< spacer >}} Summer Undergraduate Student (Wash U)  |{{< spacer >}} 07/2015-08/2015, 05/2016-07/2016, 05/2017-08/2017| {{< spacer >}} Wash U  |
-|{{< figure src = "https://wang.wustl.edu/img/ArthurLarge.jpg" width = "200px">}}| {{< spacer >}} Wint Yan (Arthur) Aung| {{< spacer >}} Master student (Biostatistics)|{{< spacer >}} 09/2014-07/2015 | {{< spacer >}} Wash U  |
-|{{< figure src = "https://wang.wustl.edu/img/NickLarge.jpg" width = "200px">}}| {{< spacer >}} Nicholas Jacobs| {{< spacer >}} Rotation student   |{{< spacer >}} 02/2015-05/2015 | {{< spacer >}} Zack Pincus lab   |
-|{{< figure src = "https://wang.wustl.edu/img/BoLarge.jpg" width = "200px">}} | {{< spacer >}} Bo Zhang   | {{< spacer >}} Postdoc  |{{< spacer >}} 07/2011-04/2015 | {{< spacer >}} Research Assistant Professor at Department of Developmental Biology, Center of Regenerative Medicine, WUSTL |
-|{{< figure src = "https://wang.wustl.edu/img/LinLarge.jpg" width = "200px">}}| {{< spacer >}} Lin Wang   | {{< spacer >}} Undergraduate student (Washington University)|{{< spacer >}} 09/2014-03/2015 | {{< spacer >}} Gaduate student at Columbia |
-|{{< figure src = "https://wang.wustl.edu/img/JiaLarge.jpg" width = "200px">}}| {{< spacer >}} Jia Zhou (PhD 2014)  | {{< spacer >}} Gradudate Student (Human Statistical Genetics)   |{{< spacer >}} 01/2012-02/2015 | {{< spacer >}} bioinfor - matician at PierianDx|
-|{{< figure src = "https://wang.wustl.edu/img/XinLarge.jpg" width = "200px">}}| {{< spacer >}} Xin Zhou   | {{< spacer >}} Postdoc/Instructor |{{< spacer >}} 05/2010-12/2014 | {{< spacer >}} St. Jude Children's hospital|
-|{{< figure src = "https://wang.wustl.edu/img/JingLarge.jpg" width = "200px">}}| {{< spacer >}} Jing Li| {{< spacer >}} Exchange Student (Shanghai International Joint Cancer Institute, Second Military Medial University)|{{< spacer >}} 11/2013-11/2014 | {{< spacer >}} Shanghai International Joint Cancer Institute   |
-|{{< figure src = "https://wang.wustl.edu/img/ManishiLarge.jpg" width = "200px">}}| {{< spacer >}} Manishi Pandey| {{< spacer >}} Comp Bio rotation student|{{< spacer >}} 05/2014-07/2014 | {{< spacer >}} Stormo lab |
-|{{< figure src = "https://wang.wustl.edu/img/MichaelLarge.jpg" width = "200px">}}| {{< spacer >}} Michael Stevens (PhD 2014) | {{< spacer >}} Graduate student (Computer science)|{{< spacer >}} 04/2011-05/2014 | {{< spacer >}} University of Liverpool |
-|{{< figure src = "https://wang.wustl.edu/img/DucLarge.jpg" width = "200px">}}| {{< spacer >}} Duc Ngo| {{< spacer >}} Summer student. Young Scientist Program ([YSP](http://ysp.wustl.edu/))|{{< spacer >}} 06/2014-07/2014 ||
-|{{< figure src = "https://wang.wustl.edu/img/MethmaLarge.jpg" width = "200px">}}| {{< spacer >}} Methma Udawatta| {{< spacer >}} Undergraduate (Amgen Scholar)|{{< spacer >}} 05/2014-06/2014 | {{< spacer >}} Brown University  |
-|{{< figure src = "https://wang.wustl.edu/img/KenzieLarge.jpg" width = "200px">}}| {{< spacer >}} Kenzie Foster | {{< spacer >}} Summer student |{{< spacer >}} 06/2014-07/2014 | {{< spacer >}} South Carolina Governor's School for Science and Mathematics |
-|{{< figure src = "https://wang.wustl.edu/img/RonnieLarge.jpg" width = "200px">}}| {{< spacer >}} Ronnie Fowle-Grider  | {{< spacer >}} Rotation student, MSTP|{{< spacer >}} 03/2013-08/2013 | {{< spacer >}} Gary Patty's lab  |
-|{{< figure src = "https://wang.wustl.edu/img/PeterLarge.jpg" width = "200px">}} | {{< spacer >}} Peter Edge | {{< spacer >}} [BioMedRAP](http://www.pathwaystoscience.org/programhub.asp?sort=SUM-WashingtonUMedicine-Biomedical) summer student|{{< spacer >}} 05/2013-07/2013 | {{< spacer >}} University of Minnesota |
-|{{< figure src = "https://wang.wustl.edu/images/MingchaoXie.jpg" width = "200px">}}| {{< spacer >}} Mingchao Xie| {{< spacer >}} Research analyst   |{{< spacer >}} 08/2010-06/2012 | {{< spacer >}} Ding lab|
-|{{< figure src = "https://wang.wustl.edu/images/MadelineKeleher.jpg" width = "200px">}}| {{< spacer >}} Madeline Keleher | {{< spacer >}} Rotation Student (Evolution, Ecology and Population Biology)|{{< spacer >}} 01/2012-03/2012 | {{< spacer >}} Cheverud lab|
-|{{< figure src = "https://wang.wustl.edu/images/TaylorSouthwick.jpg" width = "200px">}}| {{< spacer >}} Taylor Southwick | {{< spacer >}} Rotation Student (Computational and Systems Biology)|{{< spacer >}} 11/2011-01/2012 | {{< spacer >}} Microsoft|
-|{{< figure src = "https://wang.wustl.edu/images/ZaneGoodwin.JPG" width = "200px">}}| {{< spacer >}} Zane Goodwin| {{< spacer >}} Rotation Student (Computational and Systems Biology)|{{< spacer >}} 08/2011-10/2011 | {{< spacer >}} de Guzman Strong lab |
-|{{< figure src = "https://wang.wustl.edu/images/BrettMaricque.gif" >}}  | {{< spacer >}} Brett Maricque| {{< spacer >}} Graduate Student (Computational and Systems Biology){{< spacer >}} NSF Predoctoral Fellow|{{< spacer >}} 05/2011-05/2012 | {{< spacer >}} Cohen lab|
-|{{< figure src = "https://wang.wustl.edu/images/JessieWang.jpg" width = "200px">}} | {{< spacer >}} Jiexun (Jessie) Wang | {{< spacer >}} Postdoc, R25 fellow|{{< spacer >}} 02/2011-02/2012 ||
-|{{< figure src = "https://wang.wustl.edu/images/AvaHughes.jpg" width = "200px">}}| {{< spacer >}} Ava Hughes | {{< spacer >}} Young Scientist Program ([YSP](http://ysp.wustl.edu/)) |{{< spacer >}} 06/2011-07/2011 ||
-|{{< figure src = "https://wang.wustl.edu/images/MichaelMahowald.jpg" width = "200px">}}| {{< spacer >}} Michael Mahowald | {{< spacer >}} Postdoc, W.M.Keck fellow |{{< spacer >}} 06/2010-06/2011 | {{< spacer >}} Harvard pathology |
-|{{< figure src = "https://wang.wustl.edu/images/SravyaTamma.jpg" width = "200px">}}| {{< spacer >}} Sravya Tamma| {{< spacer >}} Programmer/student intern|{{< spacer >}} 08/2010-10/2010 | {{< spacer >}} R&D systems as a bioinfor - matician |
-|{{< figure src = "https://wang.wustl.edu/images/AshleyQuiggle.jpg" width = "200px">}}  | {{< spacer >}} Ashley Quiggle| {{< spacer >}} Rotation Student (Molecular Genetics and Genomics)|{{< spacer >}} 11/2010-01/2011 | {{< spacer >}} de Guzman Strong lab |
-|{{< figure src = "https://wang.wustl.edu/images/RutejaBarve.jpg" width = "200px">}}| {{< spacer >}} Ruteja Barve| {{< spacer >}} Rotation Student (Human and Statistical Genetics)|{{< spacer >}} 08/2010-10/2010 | {{< spacer >}} Gu lab  |
-|{{< figure src = "https://wang.wustl.edu/images/YuanZhang.jpg" width = "200px">}}| {{< spacer >}} Yuan Zhang | {{< spacer >}} Rotation Student (Computer Science)|{{< spacer >}} 11/2010-01/2011 | {{< spacer >}} Weixiong Zhang's lab |
-|{{< figure src = "https://wang.wustl.edu/images/GauravSinghal.jpg" width = "200px">}}  | {{< spacer >}} Gaurav Singha | {{< spacer >}} Rotation Student (Computational and Systems Biology)|{{< spacer >}} 04/2010-06/2010 ||
-|{{< figure src = "https://wang.wustl.edu/images/DavidRusso.gif" >}} | {{< spacer >}} David Russo| {{< spacer >}} Undergraduate student (from Pacific Lutheran University, Neva Laurie-Berry lab)|{{< spacer >}} 06/2010-08/2010 | {{< spacer >}} Colorado State University   |
-|{{< figure src = "https://wang.wustl.edu/images/KevinForsberg.jpg" width = "200px">}}  | {{< spacer >}} Kevin Forsberg| {{< spacer >}} Rotation Student   |{{< spacer >}} 04/2010-06/2010 | {{< spacer >}} Dantas lab |
-|{{< figure src = "https://wang.wustl.edu/images/ChrisFiore.jpg" width = "200px">}} | {{< spacer >}} Chris Fiore| {{< spacer >}} Rotation Student   |{{< spacer >}} 03/2010-06/2010 | {{< spacer >}} Cohen lab|
+|{{< figure src = "https://wang.wustl.edu/img/NahyunLarge.jpg" width = "200px">}}| Nahyun Kong | Rotation Student (HSG) |2022/05-2022/07  |Peter Jin lab|
+|{{< figure src = "https://wang.wustl.edu/img/AriyaLarge.jpg" width = "200px">}}|  Ariya Chaloemtoem|  Rotation Student (HSG)| 2021/12-2022/03 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/DeepakLarge.jpg" width = "200px">}} |  Deepak Purushotham   |  Senior Scientist| 2015/01-2022/03 |  Moderna, Inc. |
+|{{< figure src = "https://wang.wustl.edu/img/JenniferLarge.jpg" width = "200px">}}   |  Jennifer Karlow (Flynn) (PhD, 2021)   |  Graduate Student (CSB)| 2015/07-2022/02 |  [Burns Lab](https://burnslab.dana-farber.org/) at Harvard Medical School  |
+|{{< figure src = "https://wang.wustl.edu/img/DianLarge.jpg" width = "200px">}}|  Dian Li|  Rotation Student (CSB)| 2021/09-2021/12 | WashU|
+|{{< figure src = "https://wang.wustl.edu/img/CarynLarge.jpg" width = "200px">}}|  Caryn Carson |  Postdoc| 2020/10-2022/01 | |
+|{{< figure src = "https://wang.wustl.edu/img/ReeveLarge.jpg" width = "200px">}}|  Reeve Sobol|  Undergraduate Researcher | 2020/08-2022/01 | WashU|
+|{{< figure src = "https://wang.wustl.edu/img/ClintonLarge.jpg" width = "200px">}}|  Clinton Jules|  Rotation Student (Computer Science)  | 2021/11-2022/01 | WashU|
+|{{< figure src = "https://wang.wustl.edu/img/AngelaLarge.jpg" width = "200px">}} |  Angela Wu |  Research scientist | 2020/01-2021/11 |  Data analyst at Kansas Health Institute |
+|{{< figure src = "https://wang.wustl.edu/img/LisaLarge.jpg" width = "200px">}}|  Lisa Liao |  Rotation Student (Computer Science) | 2021/09-2021/11|WashU|
+|{{< figure src = "https://wang.wustl.edu/img/AmyLarge.jpg" width = "200px">}} |  Amy Li |  Undergraduate Researcher| 2021/06-2021/08|  Boston University|
+|{{< figure src = "https://wang.wustl.edu/img/AaronLarge.jpg" width = "200px">}}|  Aaron Anderson   |  Rotation Student | 2021/08-2021/10|  Kerry Kornfeld’s lab|
+|{{< figure src = "https://wang.wustl.edu/img/comingsoon.jpg" width = "200px">}}|  Max Wrubel|  Post-bacc (Opportunities in Genomics Research Program)| 2021/09-2021/11|  Peter Jin lab |
+|{{< figure src = "https://wang.wustl.edu/img/WanqingLarge.jpg" width = "200px">}}|  Wanqing Shao |  Postdoc  | 2018/10-2021/10|  Genomic Scientist at Boston Children’s Hospital |
+|{{< figure src = "https://wang.wustl.edu/img/MayankLarge.jpg" width = "200px">}} |  Mayank Choudhary (PhD, 2021)|  Graduate Student (MGG) | 2015/06-2021/07|  McKinsey & Company|
+|{{< figure src = "https://wang.wustl.edu/img/HyungJooLarge.jpg" width = "200px">}}   |  Hyung Joo Lee (PhD, 2017)|  Graduate Student (MGG) & Postdoc | 2011/02-2021/07|  Bioscience Team Leader at Pin Therapeutics, Inc.|
+|{{< figure src = "https://wang.wustl.edu/img/ClaraLarge.jpg" width = "200px">}}|  Clara Liu |  Rotation Student (MSTP)| 2021/06-2021/08||
+|{{< figure src = "https://wang.wustl.edu/img/ChangfengLarge.jpg" width = "200px">}}  |  Changfeng Chen   |  Rotation Student (MCB) | 2021/04-2021/07||
+|{{< figure src = "https://wang.wustl.edu/img/ScarlettLarge.jpg" width = "200px">}}   |  Scarlett Ge|  Undergraduate Student (WashU) | 2019/04-2021/04|  JHU   |
+|{{< figure src = "https://wang.wustl.edu/img/FujrLarge.jpg" width = "200px">}}|  Fujr Ibrah/im|  Undergraduate Student| 2019/09-2021/04|  JHU   |
+|{{< figure src = "https://wang.wustl.edu/img/JosephLarge.jpg" width = "200px">}} |  Joseph Bradley   |  Rotation Student (HSG) | 2020/09-2021/02||
+|{{< figure src = "https://wang.wustl.edu/img/GavrielLarge.jpg" width = "200px">}}|  Gavriel Matt |  Postdoc  | 2019/08-2020/12|  St. jude children's hospital  |
+|{{< figure src = "https://wang.wustl.edu/img/AlinaLarge.jpg" width = "200px">}}|  Alina Ulezko Antonova|  WashU MSTP Student  | 2020/03-2020/09|  [Marco Colonna Lab](https://sites.wustl.edu/colonnalab/) at WashU |
+|{{< figure src = "https://wang.wustl.edu/img/EricLarge.jpg" width = "200px">}}|  Eric Yin|  High School Student | 2020/05-2020/09|HighSchool|
+|{{< figure src = "https://wang.wustl.edu/img/AlinaCLarge.jpg" width = "200px">}} |  Alina Chen|  High School Student | 2020/05-2020/09|HighSchool|
+|{{< figure src = "https://wang.wustl.edu/img/TamiLarge.jpg" width = "200px">}}|  Tami Wong |  WashU Undergraduate Student (uSTAR program)| 2020/05-2020/09|  WashU |
+|{{< figure src = "https://wang.wustl.edu/img/SophieLarge.jpg" width = "200px">}} |  Sophie Xu |  High School Student | 2020/05-2020/09|HighSchool|
+|{{< figure src = "https://wang.wustl.edu/img/Ji-SunLarge.jpg" width = "200px">}} |  Ji-Sun Kwon|  Rotation Student | 2020/02-2020/05|[Andrew Yoo Lab](https://yoolab.wustl.edu/) at WashU|
+|{{< figure src = "https://wang.wustl.edu/img/RafaelLarge.jpg" width = "200px">}} |  Rafael Feliciano |  Rotation Student (MGG)| 2020/01-2020/04|WashU|
+|{{< figure src = "https://wang.wustl.edu/img/XianglinLarge.jpg" width = "200px">}} |  Xianglin Zhang |  Exchange Scholar (Tsinghua University) | 2019/06-2020/05|  Tsinghua University |
+|{{< figure src = "https://wang.wustl.edu/img/Ali_resize.jpg" width = "200px">}}|  Ali Wilkening  |  Undergraduate Student (WashU)| 2017/09-2019/12|  Stanford University |
+|{{< figure src = "https://images.squarespace-cdn.com/content/5402b1a0e4b02a7794494453/1410284595404-9P4XJO55K0YA1CKZL2KK/?format=500w&content-type=image%2Fjpeg" >}}|  Erica Pehrsson |Postdoc|  2016/02-2020/04|Bioinformatics Analyst III, Leidos Biomedical Research|
+|{{< figure src = "https://wang.wustl.edu/img/Josh_newLarge.jpg" width = "200px">}} |  Josh Jang (PhD, 2020)|  Graduate Student (MGG) | 2015/03-2020/03|  Postdoc at VAI   |
+|{{< figure src = "https://wang.wustl.edu/img/YuLarge.jpg" width = "200px">}}|  Yu He (PhD, 2020) |  Graduate Student (CSB) | 2015/04-2020/04||
+|{{< figure src = "https://wang.wustl.edu/img/YaweiLarge.jpg" width = "200px">}}|  Yawei Wu|  Rotation Student (MGG) | 2019/11-2020/01|  Barak Cohen Lab |
+|{{< figure src = "https://wang.wustl.edu/img/ReneeLarge.jpg" width = "200px">}}|  Renee Sears (PhD, 2019)  |  Graduate Student (HSG) | 2014/08-2019/09|  bioinformatician at PierianDx |
+|{{< figure src = "https://wang.wustl.edu/img/JefferyLarge.jpg" width = "200px">}}  |  Jeffery McMillian |  Young Scientist Program (YSP) Student  | 2019/06-2019/10||
+|{{< figure src = "https://wang.wustl.edu/img/RuthyLarge.jpg" width = "200px">}}|  Ruthy Mamo  |  Meharry Summer Research Program Medical Student  | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/SamuelLarge.jpg" width = "200px">}}   |  Samuel Chen |  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/AnnLarge.jpg" width = "200px">}}|  Ann Zhang   |  Summer Highschool Student | 2019/05-2019/08|  Yale|
+|{{< figure src = "https://wang.wustl.edu/img/JustinXLarge.jpg" width = "200px">}}  |  Justin Xu   |  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/JasonLarge.jpg" width = "200px">}}|  Jason Xu|  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/VincentLarge.jpg" width = "200px">}}  |  Vincent Xu  |  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/GengLarge.jpg" width = "200px">}} |  Geng Wang   |  Rotation Student| 2019/06-2019/06|Gabriel Haller lab|
+|{{< figure src = "https://wang.wustl.edu/img/XinxinLarge.jpg" width = "200px">}}   |  Xinxin Wang |  Rotation Student| 2019/02-2019/05|  Ira Hall Lab |
+|{{< figure src = "https://wang.wustl.edu/img/Aiyana_resize.jpg" width = "200px">}} |  Aiyana Riddihough |  Undergraduate Student  | 2017/09-2019/04||
+|{{< figure src = "https://wang.wustl.edu/img/WenweiLarge.jpg" width = "200px">}}   |  Wenwei Liao |  Rotation Student   | 2019/01-2019/04 |  Ira Hall Lab|
+|{{< figure src = "https://wang.wustl.edu/img/BenjaminLarge.jpg" width = "200px">}} |  Benjamin Katz |  Rotation Student   | 2018/06-2018/09 ||
+|{{< figure src = "https://wang.wustl.edu/img/JuliaWLarge.jpg" width = "200px">}}|  Julia Wang |  Rotation Student   | 2018/06-2018/09 |  Li Ding Lab|
+|{{< figure src = "https://wang.wustl.edu/img/SilasLarge.jpg" width = "200px">}} |  Silas Hsu  |  Software Engineer  | 2017/05-2018/08 |  UIUC|
+|{{< figure src = "https://wang.wustl.edu/img/Haoyue_resize.jpg" width = "200px">}} |  Haoyue Xue |  Research Assistant | 2017/09-2018/01 ||
+|{{< figure src = "https://wang.wustl.edu/img/DavidALarge.jpg" width = "200px">}}|  David Ayeke|  Part-T/ime programmer | 2018/06-2018/07 |  Pizza Hut|
+|{{< figure src = "https://wang.wustl.edu/img/YizeLarge.jpg" width = "200px">}}|  Yize Li|  Rotation Student (HSG)| 2018/02-2018/05 |  Ding lab|
+|{{< figure src = "https://wang.wustl.edu/img/ZeaLarge.jpg" width = "200px">}}|  Zea Zhu|  Research Specialist| 06/2017-04/2018 |  U of Wisconsin Madison|
+|{{< figure src = "https://wang.wustl.edu/img/Lucas_resize.jpg" width = "200px">}}|  Lucas Thomas|  Rotation Medical Student | 10/2017-04/2018 |  WashU Medical School |
+|{{< figure src = "https://wang.wustl.edu/img/RyanLarge.jpg" width = "200px">}}|  Ryan Friedman |  Rotation Student (CSB)| 11/2017-02/2018 |  Barak Cohen Lab|
+|{{< figure src = "https://wang.wustl.edu/img/PaulaLarge.jpg" width = "200px">}} |  Paula Godoy|  Rotation Student (CSB)| 11/2017-02/2018 |  Charles Kaufman Lab|
+|{{< figure src = "https://wang.wustl.edu/img/ChengLarge.jpg" width = "200px">}} |  Cheng Lyu  |  Part-time research assistant| 11/2016-02/2018 |  Bioinformatician at Bo Zhang Lab|
+|{{< figure src = "https://wang.wustl.edu/img/KyleLarge.jpg" width = "200px">}}|  Kyle Burbach|  Rotation Student (MGG)| 10/2017-12/2017 |  Andrew Yoo lab|
+|{{< figure src = "https://wang.wustl.edu/img/AnandaLarge.jpg" width = "200px">}}|  Ananda Datta|  Postdoc  | 10/2016-05/2017 |  Monsanto|
+|{{< figure src = "https://wang.wustl.edu/img/MikaylaLarge.jpg" width = "200px">}}|  Mikayla Choi|  Biochemistry Undergraduate Student (WashU)| 9/2015-05/2017  |  Yonsei medical school|
+|{{< figure src = "https://wang.wustl.edu/img/ErikaLarge.jpg" width = "200px">}} |  Erika Schumacher |  Rotation student (EEPB)| 01/2017-05/2017 |  Costa Rica |
+|{{< figure src = "https://wang.wustl.edu/img/JonathanLarge.jpg" width = "200px">}} |  Jonathan Spalding|  Rotation student (Developmental Biology)| 08/2016-02/2017 |  Steve Johnson lab |
+|{{< figure src = "https://wang.wustl.edu/img/VasaviLarge.jpg" width = "200px">}}|  Vasavi Sundaram (PhD, 2016)|  Graduate Student (Computational and Systems Biology)| 05/2011-03/2017 |  EMBL Inter - disciplinary Postdocs (EIPOD) fellow, in Duncan Odom and Paul Flicek labs |
+|{{< figure src = "https://wang.wustl.edu/img/RebeccaLarge.jpg" width = "200px">}}|  Rebecca Lowdon (PhD, 2016) |  Graduate Student (Molecular Genetics and Genomics)| 06/2012-09/2016 |  Monsanto, Data Scientist in the Emerging Leaders in Science program |
+|{{< figure src = "https://wang.wustl.edu/img/NicoleLarge.jpg" width = "200px">}}|  Nicole Rockweiler|  Graduate student (Computational and Systems Biology)| 10/2014-9/2016  |  Don Conrad lab|
+|{{< figure src = "https://wang.wustl.edu/img/DanielLarge.jpg" width = "200px">}}|  Daniel Cui |  Rotation student (CSB)| 7/2016-9/2016   |  Barak Cohen lab   |
+|{{< figure src = "https://wang.wustl.edu/img/EileenLarge.jpg" width = "200px">}}|  Eileen Chen|  Summer Medical Student| 03/2016-07/2016 |  WashU Med School  |
+|{{< figure src = "https://wang.wustl.edu/img/JustinLarge.jpg" width = "200px">}}|  Justin Chen|  Summer student | 07/2015-08/2015, 07/2016-08/2016, 05/2017-08/2017, 05/2019-08/2019|  Columbia University|
+|{{< figure src = "https://wang.wustl.edu/img/JuliaLarge.jpg" width = "200px">}} |  Julia Altman|  Summer Student | 6/2016-7/2016   |  South Carolina Governor's School|
+|{{< figure src = "https://wang.wustl.edu/img/AbbieLarge.jpg" width = "200px">}} |  Abbie Bowman|  Summer Student | 6/2016-7/2016   |  South Carolina Governor's School|
+|{{< figure src = "https://wang.wustl.edu/img/JuanLarge.jpg" width = "200px">}}|  Juan Macias|  Rotation Student (CSB)| 4/2016-6/2016   |  Lawson Lab |
+|{{< figure src = "https://wang.wustl.edu/img/JunchenLarge.jpg" width = "200px">}}|  Junchen Gu (PhD, 2015)|  Graduate Student   | 05/2010-05/2016 |  Janssen R&D|
+|{{< figure src = "https://wang.wustl.edu/img/ChengranLarge.jpg" width = "200px">}} |  Chengran Yang |  Rotation Student (HSG)| 11/2015-02/2016 |  Don Conrad lab|
+|{{< figure src = "https://wang.wustl.edu/img/AldrinLarge.jpg" width = "200px">}}|  Aldrin Y/im|  Rotation Student (CSB)| 11/2015-02/2016 |  Jeff Milbrandt lab|
+|{{< figure src = "https://wang.wustl.edu/img/GiNellLarge.jpg" width = "200px">}}|  GiNell Elliott (PhD 2015)|  Graduate Student (Computational and Systems Biology, joint with Gary Stormo)   | 12/2010-07/2015 |  Novartis, Boston  |
+|{{< figure src = "https://wang.wustl.edu/img/DianaLarge.jpg" width = "200px">}} |  Diana Jiang|  Summer Medical Student| 07/2015-08/2015 |  Wash U Medical School|
+|{{< figure src = "https://wang.wustl.edu/img/TammyLarge.jpg" width = "200px">}} |  Tammy Ray  |  Summer student | 07/2015-08/2015 |  South Carolina Governor's School|
+|{{< figure src = "https://wang.wustl.edu/img/AsiaLarge.jpg" width = "200px">}}|  Asia M. Paguntalan   |  Summer student | 07/2015-08/2015 |  South Carolina Governor's School|
+|{{< figure src = "https://wang.wustl.edu/img/DavidLarge.jpg" width = "200px">}} |  David Zhang|  Summer Undergraduate Student (Wash U)  | 07/2015-08/2015, 05/2016-07/2016, 05/2017-08/2017|  Wash U  |
+|{{< figure src = "https://wang.wustl.edu/img/ArthurLarge.jpg" width = "200px">}}|  Wint Yan (Arthur) Aung|  Master student (Biostatistics)| 09/2014-07/2015 |  Wash U  |
+|{{< figure src = "https://wang.wustl.edu/img/NickLarge.jpg" width = "200px">}}|  Nicholas Jacobs|  Rotation student   | 02/2015-05/2015 |  Zack Pincus lab   |
+|{{< figure src = "https://wang.wustl.edu/img/BoLarge.jpg" width = "200px">}} |  Bo Zhang   |  Postdoc  | 07/2011-04/2015 |  Assistant Professor at Department of Developmental Biology, Center of Regenerative Medicine, WUSTL |
+|{{< figure src = "https://wang.wustl.edu/img/LinLarge.jpg" width = "200px">}}|  Lin Wang   |  Undergraduate student (Washington University)| 09/2014-03/2015 |  Gaduate student at Columbia |
+|{{< figure src = "https://wang.wustl.edu/img/JiaLarge.jpg" width = "200px">}}|  Jia Zhou (PhD 2014)  |  Gradudate Student (Human Statistical Genetics)   | 01/2012-02/2015 |  bioinformatician at PierianDx|
+|{{< figure src = "https://wang.wustl.edu/img/XinLarge.jpg" width = "200px">}}|  Xin Zhou   |  Postdoc/Instructor | 05/2010-12/2014 |  St. Jude Children's hospital|
+|{{< figure src = "https://wang.wustl.edu/img/JingLarge.jpg" width = "200px">}}|  Jing Li|  Exchange Student (Shanghai International Joint Cancer Institute, Second Military Medial University)| 11/2013-11/2014 |  Shanghai International Joint Cancer Institute   |
+|{{< figure src = "https://wang.wustl.edu/img/ManishiLarge.jpg" width = "200px">}}|  Manishi Pandey|  Comp Bio rotation student| 05/2014-07/2014 |  Stormo lab |
+|{{< figure src = "https://wang.wustl.edu/img/MichaelLarge.jpg" width = "200px">}}|  Michael Stevens (PhD 2014) |  Graduate student (Computer science)| 04/2011-05/2014 |  University of Liverpool |
+|{{< figure src = "https://wang.wustl.edu/img/DucLarge.jpg" width = "200px">}}|  Duc Ngo|  Summer student. Young Scientist Program ([YSP](http://ysp.wustl.edu/))| 06/2014-07/2014 ||
+|{{< figure src = "https://wang.wustl.edu/img/MethmaLarge.jpg" width = "200px">}}|  Methma Udawatta|  Undergraduate (Amgen Scholar)| 05/2014-06/2014 |  Brown University  |
+|{{< figure src = "https://wang.wustl.edu/img/KenzieLarge.jpg" width = "200px">}}|  Kenzie Foster |  Summer student | 06/2014-07/2014 |  South Carolina Governor's School for Science and Mathematics |
+|{{< figure src = "https://wang.wustl.edu/img/RonnieLarge.jpg" width = "200px">}}|  Ronnie Fowle-Grider  |  Rotation student, MSTP| 03/2013-08/2013 |  Gary Patty's lab  |
+|{{< figure src = "https://wang.wustl.edu/img/PeterLarge.jpg" width = "200px">}} |  Peter Edge |  [BioMedRAP](http://www.pathwaystoscience.org/programhub.asp?sort=SUM-WashingtonUMedicine-Biomedical) summer student| 05/2013-07/2013 |  University of Minnesota |
+|{{< figure src = "https://wang.wustl.edu/images/MingchaoXie.jpg" width = "200px">}}|  Mingchao Xie|  Research analyst   | 08/2010-06/2012 |  Ding lab|
+|{{< figure src = "https://wang.wustl.edu/images/MadelineKeleher.jpg" width = "200px">}}|  Madeline Keleher |  Rotation Student (Evolution, Ecology and Population Biology)| 01/2012-03/2012 |  Cheverud lab|
+|{{< figure src = "https://wang.wustl.edu/images/TaylorSouthwick.jpg" width = "200px">}}|  Taylor Southwick |  Rotation Student (Computational and Systems Biology)| 11/2011-01/2012 |  Microsoft|
+|{{< figure src = "https://wang.wustl.edu/images/ZaneGoodwin.JPG" width = "200px">}}|  Zane Goodwin|  Rotation Student (Computational and Systems Biology)| 08/2011-10/2011 |  de Guzman Strong lab |
+|{{< figure src = "https://wang.wustl.edu/images/BrettMaricque.gif" >}}  |  Brett Maricque|  Graduate Student (Computational and Systems Biology) NSF Predoctoral Fellow| 05/2011-05/2012 |  Cohen lab|
+|{{< figure src = "https://wang.wustl.edu/images/JessieWang.jpg" width = "200px">}} |  Jiexun (Jessie) Wang |  Postdoc, R25 fellow| 02/2011-02/2012 ||
+|{{< figure src = "https://wang.wustl.edu/images/AvaHughes.jpg" width = "200px">}}|  Ava Hughes |  Young Scientist Program ([YSP](http://ysp.wustl.edu/)) | 06/2011-07/2011 ||
+|{{< figure src = "https://wang.wustl.edu/images/MichaelMahowald.jpg" width = "200px">}}|  Michael Mahowald |  Postdoc, W.M.Keck fellow | 06/2010-06/2011 |  Harvard pathology |
+|{{< figure src = "https://wang.wustl.edu/images/SravyaTamma.jpg" width = "200px">}}|  Sravya Tamma|  Programmer/student intern| 08/2010-10/2010 |  R&D systems as a bioinfor - matician |
+|{{< figure src = "https://wang.wustl.edu/images/AshleyQuiggle.jpg" width = "200px">}}  |  Ashley Quiggle|  Rotation Student (Molecular Genetics and Genomics)| 11/2010-01/2011 |  de Guzman Strong lab |
+|{{< figure src = "https://wang.wustl.edu/images/RutejaBarve.jpg" width = "200px">}}|  Ruteja Barve|  Rotation Student (Human and Statistical Genetics)| 08/2010-10/2010 |  Gu lab  |
+|{{< figure src = "https://wang.wustl.edu/images/YuanZhang.jpg" width = "200px">}}|  Yuan Zhang |  Rotation Student (Computer Science)| 11/2010-01/2011 |  Weixiong Zhang's lab |
+|{{< figure src = "https://wang.wustl.edu/images/GauravSinghal.jpg" width = "200px">}}  |  Gaurav Singha |  Rotation Student (Computational and Systems Biology)| 04/2010-06/2010 ||
+|{{< figure src = "https://wang.wustl.edu/images/DavidRusso.gif" >}} |  David Russo|  Undergraduate student (from Pacific Lutheran University, Neva Laurie-Berry lab)| 06/2010-08/2010 |  Colorado State University   |
+|{{< figure src = "https://wang.wustl.edu/images/KevinForsberg.jpg" width = "200px">}}  |  Kevin Forsberg|  Rotation Student   | 04/2010-06/2010 |  Dantas lab |
+|{{< figure src = "https://wang.wustl.edu/images/ChrisFiore.jpg" width = "200px">}} |  Chris Fiore|  Rotation Student   | 03/2010-06/2010 |  Cohen lab|

@@ -24,7 +24,7 @@ date: 2018-02-22T17:01:34+07:00
     Karlow JA, Devarakonda S, Xing X, Jang HS, Govindan R, Watson MA, Wang T.\
     Cancer Res (2022) 82 (15): 2692–2703.
 
-{{< plumx src = 10.1101%2Fgr.276052.121 >}}
+{{< badge src = 10.1101/gr.276052.121 >}}
 
 - [Epigenomic analysis reveals prevalent contribution of transposable elements to cis-regulatory elements, tissue-specific expression, and alternative promoters in zebrafish](https://doi.org/10.1101/gr.276052.121)\
     Lee HJ, Hou Y, Maeng JH, Shah NM, Chen Y, Lawson HA, Yang H, Yue F, Wang T.\
@@ -48,7 +48,7 @@ date: 2018-02-22T17:01:34+07:00
     Ting Wang, Lucinda Antonacci-Fulton, Kerstin Howe, Heather A. Lawson, Julian K. Lucas, Adam M. Phillippy, Alice B. Popejoy, Mobin Asri, Caryn Carson, Mark J. P. Chaisson, Xian Chang, Robert Cook-Deegan, Adam L. Felsenfeld, Robert S. Fulton, Erik P. Garrison, Nanibaa' A. Garrison, Tina A. Graves-Lindsay, Hanlee Ji, Eimear E. Kenny, Barbara A. Koenig, Daofeng Li, Tobias Marschall, Joshua F. McMichael, Adam M. Novak, Deepak Purushotham, Valerie A. Schneider, Baergen I. Schultz, Michael W. Smith, Heidi J. Sofia, Tsachy Weissman, Paul Flicek, Heng Li, Karen H. Miga, Benedict Paten, Erich D. Jarvis, Ira M. Hall, Evan E. Eichler, David Haussler & the Human Pangenome Reference Consortium\
     Nature volume 604, pages 437--446 (2022)
 
-{{< altmetric 126501076 >}} {{< plumx src = 10.1093/nar/gkac238 >}} {{< dimensions src = 10.1093/nar/gkac238 >}}
+{{< badge src = 10.1093/nar/gkac238 >}}
 
 - [WashU Epigenome Browser update 2022](https://doi.org/10.1093/nar/gkac238)\
     Daofeng Li, Deepak Purushotham, Jessica K Harrison, Silas Hsu, Xiaoyu Zhuo, Changxu Fan, Shane Liu, Vincent Xu, Samuel Chen, Jason Xu, Shinyi Ouyang, Angela S Wu, Ting Wang\

@@ -3,6 +3,10 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+9-2-2022. Emma Bartley-Dier joins the lab for a rotation. Welcome, Emma!
+
+9-1-2022. Kaye Brathwaite joins the lab for research. Welcome, Kaye!
+
 8-26-2022. Doris Wu joins the lab for a rotation. Welcome, Doris!
 
 8-25-2022. Interested in how sequences introduced by transposon activities provide raw material for genome innovation and document the distinct evolutionary path of each species? Check [this review](https://www.nature.com/articles/s41556-022-00970-4) by Andrew Modzelewski, Johnny Gan Chong, Ting Wang and Lin He.
