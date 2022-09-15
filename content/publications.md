@@ -16,7 +16,7 @@ date: 2018-02-22T17:01:34+07:00
 {{< badge src = 10.1038/s41592-022-01550-y >}}
 - [Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser](https://doi.org/10.1038/s41592-022-01550-y)\
     Daofeng Li, Jessica K. Harrison, Deepak Purushotham & Ting Wang \
-    Nature Methods volume 19, pages909–910 (2022).
+    Nature Methods volume 19, pages 909–910 (2022).
 
 {{< altmetric 129778296 >}}
 

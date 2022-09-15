@@ -5,7 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 9-2-2022. Emma Bartley-Dier joins the lab for a rotation. Welcome, Emma!
 
-9-1-2022. Kaye Brathwaite joins the lab for research. Welcome, Kaye!
+9-1-2022. Kaye Brathwaite joins the lab as a guest investigator. Welcome, Kaye!
 
 8-26-2022. Doris Wu joins the lab for a rotation. Welcome, Doris!
 

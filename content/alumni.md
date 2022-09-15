@@ -11,6 +11,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 | | Name | Role in lab| Duration | Where they went |
 | - |:-:|:-:|:-:|:-:|
 |{{< figure src = "https://wang.wustl.edu/img/YiranLarge.jpg" width = "200px">}}| Yiran Hou (PhD, 2022) | Graduate Student (MGG) |2016/03-2022/08  |University of Wisconsin-Madison|
+|{{< figure src = "https://wang.wustl.edu/img/HarshLarge.jpg" width = "200px">}}| Harsh Wadhwa |  WashU Undergraduate Student| 2022/06-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/SonaliLarge.jpg" width = "200px">}}| Sonali Sharma | Highschool student (YSP program) | 2022/06-2022/08 |Highschool|
 |{{< figure src = "https://wang.wustl.edu/img/HannahLarge.jpg" width = "200px">}}| Hannah Chay | Florence Moog Fellow |2021/01-2022/06  |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MitchellLarge.jpg" width = "200px">}}| Mitchell Grinwald | Rotation Student (MSTP) |2022/05-2022/08 |WashU|
@@ -56,11 +57,11 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 |{{< figure src = "https://wang.wustl.edu/img/ReneeLarge.jpg" width = "200px">}}|  Renee Sears (PhD, 2019)  |  Graduate Student (HSG) | 2014/08-2019/09|  bioinformatician at PierianDx |
 |{{< figure src = "https://wang.wustl.edu/img/JefferyLarge.jpg" width = "200px">}}  |  Jeffery McMillian |  Young Scientist Program (YSP) Student  | 2019/06-2019/10||
 |{{< figure src = "https://wang.wustl.edu/img/RuthyLarge.jpg" width = "200px">}}|  Ruthy Mamo  |  Meharry Summer Research Program Medical Student  | 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/SamuelLarge.jpg" width = "200px">}}   |  Samuel Chen |  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/SamuelLarge.jpg" width = "200px">}}   |  Samuel Chen |  Summer Highschool Student | 2019/05-2019/08|Yale|
 |{{< figure src = "https://wang.wustl.edu/img/AnnLarge.jpg" width = "200px">}}|  Ann Zhang   |  Summer Highschool Student | 2019/05-2019/08|  Yale|
-|{{< figure src = "https://wang.wustl.edu/img/JustinXLarge.jpg" width = "200px">}}  |  Justin Xu   |  Summer Highschool Student | 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/JasonLarge.jpg" width = "200px">}}|  Jason Xu|  Summer Highschool Student | 2019/05-2019/08||
-|{{< figure src = "https://wang.wustl.edu/img/VincentLarge.jpg" width = "200px">}}  |  Vincent Xu  |  Summer Highschool Student | 2019/05-2019/08||
+|{{< figure src = "https://wang.wustl.edu/img/JustinXLarge.jpg" width = "200px">}}  |  Justin Xu   |  Summer Highschool Student | 2019/05-2019/08|WashU|
+|{{< figure src = "https://wang.wustl.edu/img/JasonLarge.jpg" width = "200px">}}|  Jason Xu|  Summer Highschool Student | 2019/05-2019/08|Missouri University of Science & Technology|
+|{{< figure src = "https://wang.wustl.edu/img/VincentLarge.jpg" width = "200px">}}  |  Vincent Xu  |  Summer Highschool Student | 2019/05-2019/08|WashU|
 |{{< figure src = "https://wang.wustl.edu/img/GengLarge.jpg" width = "200px">}} |  Geng Wang   |  Rotation Student| 2019/06-2019/06|Gabriel Haller lab|
 |{{< figure src = "https://wang.wustl.edu/img/XinxinLarge.jpg" width = "200px">}}   |  Xinxin Wang |  Rotation Student| 2019/02-2019/05|  Ira Hall Lab |
 |{{< figure src = "https://wang.wustl.edu/img/Aiyana_resize.jpg" width = "200px">}} |  Aiyana Riddihough |  Undergraduate Student  | 2017/09-2019/04||
