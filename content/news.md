@@ -3,6 +3,10 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+10-3-2022. Alan’s paper “Functional characterization of enhancer activity during a long terminal repeat’s evolution” is [online at Genome Research](https://genome.cshlp.org/content/early/2022/10/03/gr.276863.122) today. Congratulations!
+
+9-22-200. News release: [School of Medicine joins major NIH brain mapping effort](https://medicine.wustl.edu/news/school-of-medicine-joins-major-nih-brain-mapping-effort), [The Source from WashU](https://source.wustl.edu/2022/09/school-of-medicine-joins-major-nih-brain-mapping-effort/).
+
 9-2-2022. Emma Bartley-Dier joins the lab for a rotation. Welcome, Emma!
 
 9-1-2022. Kaye Brathwaite joins the lab as a guest investigator. Welcome, Kaye!

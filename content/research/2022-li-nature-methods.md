@@ -2,7 +2,7 @@
 title: "Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser"
 draft: false
 featured: true
-weight: 37
+weight: 35
 link: https://www.nature.com/articles/s41592-022-01550-y
 ---
 [Learn more](https://www.nature.com/articles/s41592-022-01550-y)

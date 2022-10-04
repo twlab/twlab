@@ -7,13 +7,20 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1101/gr.276863.122 >}}
+
+- [Functional characterization of enhancer activity during a long terminal repeat's evolution](https://www.genome.org/cgi/doi/10.1101/gr.276863.122)\
+    Alan Y. Du, Xiaoyu Zhuo, Vasavi Sundaram, Nicholas O. Jensen, Hemangi G. Chaudhari, Nancy L. Saccone, Barak A. Cohen and Ting Wang \
+    Genome Res. 2022.
+
 {{< badge src = 10.1038/s41556-022-00970-4 >}}
+
 - [Mammalian genome innovation through transposon domestication](https://www.nature.com/articles/s41556-022-00970-4)\
     Andrew J. Modzelewski, Johnny Gan Chong, Ting Wang & Lin He \
     Nature Cell Biology (2022)
 
-
 {{< badge src = 10.1038/s41592-022-01550-y >}}
+
 - [Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser](https://doi.org/10.1038/s41592-022-01550-y)\
     Daofeng Li, Jessica K. Harrison, Deepak Purushotham & Ting Wang \
     Nature Methods volume 19, pages 909–910 (2022).
