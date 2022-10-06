@@ -5,6 +5,10 @@ date: 2018-02-22T17:01:34+07:00
 
 10-3-2022. Alan’s paper “Functional characterization of enhancer activity during a long terminal repeat’s evolution” is [online at Genome Research](https://genome.cshlp.org/content/early/2022/10/03/gr.276863.122) today. Congratulations!
 
+10-3-2022. Collaborated with Dr. Colonna from Department of Pathology and Immunology and Dr. Yokoyama lab from Department of Medicine, "The transcription factor Bach2 negatively regulates murine natural killer cell maturation and function" is published in [eLife](https://www.nature.com/articles/s41467-022-30207-9) today! Benpeng, Changxu, Xiaoyun and Ting are co-authors! Congratulations!!!
+
+9-23-2022. Congratulations to Celine for winning the best talk award at the retreat!! Congratulations to Ivy for winning best poster award at the retreat!!
+
 9-22-200. News release: [School of Medicine joins major NIH brain mapping effort](https://medicine.wustl.edu/news/school-of-medicine-joins-major-nih-brain-mapping-effort), [The Source from WashU](https://source.wustl.edu/2022/09/school-of-medicine-joins-major-nih-brain-mapping-effort/).
 
 9-2-2022. Emma Bartley-Dier joins the lab for a rotation. Welcome, Emma!

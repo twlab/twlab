@@ -13,11 +13,17 @@ date: 2018-02-22T17:01:34+07:00
     Alan Y. Du, Xiaoyu Zhuo, Vasavi Sundaram, Nicholas O. Jensen, Hemangi G. Chaudhari, Nancy L. Saccone, Barak A. Cohen and Ting Wang \
     Genome Res. 2022.
 
+{{< badge src = 10.1101/10.7554/eLife.77294 >}}
+
+- [The transcription factor Bach2 negatively regulates murine natural killer cell maturation and function](https://elifesciences.org/articles/77294)\
+    Shasha Li, Michael D Bern, Benpeng Miao, Changxu Fan, Xiaoyun Xing, Takeshi Inoue, Sytse J Piersma, Ting Wang, Marco Colonna, Tomohiro Kurosaki, Wayne M Yokoyama \
+    eLife 11:e77294.
+
 {{< badge src = 10.1038/s41556-022-00970-4 >}}
 
 - [Mammalian genome innovation through transposon domestication](https://www.nature.com/articles/s41556-022-00970-4)\
     Andrew J. Modzelewski, Johnny Gan Chong, Ting Wang & Lin He \
-    Nature Cell Biology (2022)
+    Nature Cell Biology volume 24, pages 1332–1340 (2022)
 
 {{< badge src = 10.1038/s41592-022-01550-y >}}
 
