@@ -7,6 +7,18 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s41586-022-05325-5 >}}
+
+- [Semi-automated assembly of high-quality diploid human reference genomes](https://www.nature.com/articles/s41586-022-05325-5)\
+    Erich D. Jarvis, Giulio Formenti, Arang Rhie, Andrea Guarracino, Chentao Yang, Jonathan Wood, Alan Tracey, Francoise Thibaud-Nissen, Mitchell R. Vollger, David Porubsky, Haoyu Cheng, Mobin Asri, Glennis A. Logsdon, Paolo Carnevali, Mark J. P. Chaisson, Chen-Shan Chin, Sarah Cody, Joanna Collins, Peter Ebert, Merly Escalona, Olivier Fedrigo, Robert S. Fulton, Lucinda L. Fulton, Shilpa Garg, Jennifer L. Gerton, Jay Ghurye, Anastasiya Granat, Richard E. Green, William Harvey, Patrick Hasenfeld, Alex Hastie, Marina Haukness, Erich B. Jaeger, Miten Jain, Melanie Kirsche, Mikhail Kolmogorov, Jan O. Korbel, Sergey Koren, Jonas Korlach, Joyce Lee, Daofeng Li, Tina Lindsay, Julian Lucas, Feng Luo, Tobias Marschall, Matthew W. Mitchell, Jennifer McDaniel, Fan Nie, Hugh E. Olsen, Nathan D. Olson, Trevor Pesout, Tamara Potapova, Daniela Puiu, Allison Regier, Jue Ruan, Steven L. Salzberg, Ashley D. Sanders, Michael C. Schatz, Anthony Schmitt, Valerie A. Schneider, Siddarth Selvaraj, Kishwar Shafin, Alaina Shumate, Nathan O. Stitziel, Catherine Stober, James Torrance, Justin Wagner, Jianxin Wang, Aaron Wenger, Chuanle Xiao, Aleksey V. Zimin, Guojie Zhang, Ting Wang, Heng Li, Erik Garrison, David Haussler, Ira Hall, Justin M. Zook, Evan E. Eichler, Adam M. Phillippy, Benedict Paten, Kerstin Howe, Karen H. Miga & Human Pangenome Reference Consortium \
+    Nature (2022).
+
+{{< badge src = 10.1038/s41588-022-01194-w >}}
+
+- [The dynseq browser track shows context-specific features at nucleotide resolution](https://www.nature.com/articles/s41588-022-01194-w)\
+    Surag Nair, Arjun Barrett, Daofeng Li, Brian J. Raney, Brian T. Lee, Peter Kerpedjiev, Vivekanandan Ramalingam, Anusri Pampari, Fritz Lekschas, Ting Wang, Maximilian Haeussler & Anshul Kundaje \
+    Nature Genetics (2022).
+
 {{< badge src = 10.1101/gr.276863.122 >}}
 
 - [Functional characterization of enhancer activity during a long terminal repeat's evolution](https://www.genome.org/cgi/doi/10.1101/gr.276863.122)\

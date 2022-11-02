@@ -17,8 +17,11 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 |{{< figure src = "https://wang.wustl.edu/img/MitchellLarge.jpg" width = "200px">}}| Mitchell Grinwald | Rotation Student (MSTP) |2022/05-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MichaelMLarge.jpg" width = "200px">}}| Michael Moore | Rotation Student (MSTP) | 2022/05-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MarinaLarge.jpg" width = "200px">}}|Marina Sha  |Summer intern (Carnegie Mellon University)  |2022/06-2022/08  |CMU|
+{{< comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}|Mary Shang  | WashU Undergraduate Student |2022/06-2022/08  |WashU|
+{{< /comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/EricaLarge.jpg" width = "200px">}}| Erica Shi | Highschool student | 2022/06-2022/08 |Ladue Highschool|
+|{{< figure src = "https://wang.wustl.edu/img/Kyle.jpg" width = "200px">}}| Kyle Sha | Highschool student | 2022/06-2022/08 |MICDS|
 |{{< figure src = "https://wang.wustl.edu/img/NahyunLarge.jpg" width = "200px">}}| Nahyun Kong | Rotation Student (HSG) |2022/05-2022/07  |Peter Jin lab|
 |{{< figure src = "https://wang.wustl.edu/img/AriyaLarge.jpg" width = "200px">}}|  Ariya Chaloemtoem|  Rotation Student (HSG)| 2021/12-2022/03 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/DeepakLarge.jpg" width = "200px">}} |  Deepak Purushotham   |  Senior Scientist| 2015/01-2022/03 |  Moderna, Inc. |

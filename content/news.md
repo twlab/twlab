@@ -3,9 +3,19 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+10-24-2022. Ling Liao joins the lab for a rotation. Welcome, Ling!
+
+10-19-2022. One of the papers from the [Human Pangenome Reference Consortium](https://humanpangenome.org/) "Semi-automated assembly of high-quality diploid human reference genomes" is [online at Nature](https://www.nature.com/articles/s41586-022-05325-5) today! Daofeng and Ting are co-authors, congratulations!
+
+10-14-2022. The dynseq browser track paper is [online at Nature Genetics](https://www.nature.com/articles/s41588-022-01194-w) today! This is a collaboration with Anshul Kundaje's lab from Stanford University. Daofeng and Ting are co-authors, congratulations!
+
+10-11-2022. News release: [$9 million to fund study of ‘jumping genes’ in Alzheimer’s](https://medicine.wustl.edu/news/9-million-to-fund-study-of-jumping-genes-in-alzheimers/).
+
 10-3-2022. Alan’s paper “Functional characterization of enhancer activity during a long terminal repeat’s evolution” is [online at Genome Research](https://genome.cshlp.org/content/early/2022/10/03/gr.276863.122) today. Congratulations!
 
 10-3-2022. Collaborated with Dr. Colonna from Department of Pathology and Immunology and Dr. Yokoyama lab from Department of Medicine, "The transcription factor Bach2 negatively regulates murine natural killer cell maturation and function" is published in [eLife](https://www.nature.com/articles/s41467-022-30207-9) today! Benpeng, Changxu, Xiaoyun and Ting are co-authors! Congratulations!!!
+
+9-26-2022. Zilan Xin joins the lab as a research assistant. Welcome Zilan!
 
 9-23-2022. Congratulations to Celine for winning the best talk award at the retreat!! Congratulations to Ivy for winning best poster award at the retreat!!
 
