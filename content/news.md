@@ -3,6 +3,8 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+11-2-2022. Nina Tekkey joins the lab as an undergraduate student. Welcome, Nina!
+
 10-24-2022. Ling Liao joins the lab for a rotation. Welcome, Ling!
 
 10-19-2022. One of the papers from the [Human Pangenome Reference Consortium](https://humanpangenome.org/) "Semi-automated assembly of high-quality diploid human reference genomes" is [online at Nature](https://www.nature.com/articles/s41586-022-05325-5) today! Daofeng and Ting are co-authors, congratulations!
@@ -37,13 +39,13 @@ date: 2018-02-22T17:01:34+07:00
 
 8-15-2022. Xiaowen Ma joins the lab as a Bioinformatics Research Analyst. Welcome Xiaowen!
 
-8-13-2022. 5th lab float trip. [Some pictures](/FloatTrip2022).
+8-13-2022. 5th lab float trip. [Some pictures](/float-trips/float-trip-2022/).
 
-7-23-2022. 2022 annual summer party!! [Some pictures](/Summer2022). Thanks to everyone!!
+7-23-2022. 2022 annual summer party!! [Some pictures](/annual-party/party-2022/). Thanks to everyone!!
 
 7-21-2022. 3D genome browser paper is [online at Nature Methods](https://www.nature.com/articles/s41592-022-01550-y) today!
 
-7-20-2022. Yiran Hou successfully defended her PhD thesis. Congratulations Dr. Hou! Some pictures.
+7-20-2022. Yiran Hou successfully defended her PhD thesis. Congratulations Dr. Hou! [Some pictures](/thesis-defenses/yiran-defense/).
 
 6-20-2022. 3D genome browser paper is accepted by Nature Methods! Congratulations!!
 
@@ -95,7 +97,7 @@ date: 2018-02-22T17:01:34+07:00
 
 11-1-2021. Clinton Jules joins the lab for a rotation. Welcome, Clinton!
 
-10-13-2021. Jennifer Karlow (Flynn) successfully defended his PhD thesis. Congratulations Dr. Karlow! [Some pictures](https://wang.wustl.edu/Jenn_Defense).
+10-13-2021. Jennifer Karlow (Flynn) successfully defended his PhD thesis. Congratulations Dr. Karlow! [Some pictures](/thesis-defenses/jennifer-defense/).
 
 10-12-2021. Collaborated with Dr. He lab from University of California, Berkeley, "A mouse-specific retrotransposon drives a conserved Cdk2ap1 isoform essential for development" is published in [Cell](https://www.cell.com/cell/fulltext/S0092-8674(21)01104-1) today! Wanqing is co-first author, Aparna is co-author, and Ting is co-corresponding author! Congratulations!!
 
@@ -123,13 +125,13 @@ date: 2018-02-22T17:01:34+07:00
 
 8-1-2021. Shane Liu joins the lab as a part-time researcher. Welcome, Shane!
 
-7-22-2021. Mayank NK Choudhary successfully defended his PhD thesis. Congratulations Dr. Choudhary! [Some pictures](https://wang.wustl.edu/Mayank_Defense).
+7-22-2021. Mayank NK Choudhary successfully defended his PhD thesis. Congratulations Dr. Choudhary! [Some pictures](/thesis-defenses/mayank-defense/).
 
 7-15-2021. Collaborated with Bo's group, the ATAC-seq pipeline: AIAP is [published in Genomics, Proteomics and Bioinformatics](https://www.sciencedirect.com/science/article/pii/S1672022921001479) today! Daofeng is co-first author, Benpeng is co-author, and Ting is co-senior author. Congratulations!!
 
 7-1-2021. Welcome the [Lawson lab](http://lawsonlab.wustl.edu/) joining our group!
 
-6-19-2021. Annual summer party!! First ever gathering this year!! [Some pictures](https://wang.wustl.edu/Summer2021). Thanks to everyone!!
+6-19-2021. Annual summer party!! First ever gathering this year!! [Some pictures](/annual-party/party-2021/). Thanks to everyone!!
 
 6-18-2021. Clara Liu joins the lab for a rotation. Welcome, Clara!
 
@@ -165,7 +167,7 @@ date: 2018-02-22T17:01:34+07:00
 
 12-16-2020. Ann Zhang joins the lab for part-time research! Welcome, Ann!
 
-12-11-2020. Lab cake run to celebrate the holiday and papers this year! [Some pictures](https://wang.wustl.edu/CakeRun2020). Thanks to everyone!
+12-11-2020. Lab cake run to celebrate the holiday and papers this year! [Some pictures](/cake-run-2020/). Thanks to everyone!
 
 12-10-2020. Xiaoyu's paper "Epigenomic differences in the human and chimpanzee genomes are associated with structural variation" is [online at Genome Research](https://genome.cshlp.org/content/early/2020/12/10/gr.263491.120.abstract) today!
 
@@ -227,7 +229,7 @@ date: 2018-02-22T17:01:34+07:00
 
 4-7-2020. Ruthy Mamo joins the lab again for one month study. Welcome back, Ruthy!
 
-3-27-2020. Yu He successfully defended his PhD thesis. Congratulations Dr. He! [Some pictures](https://wang.wustl.edu/Yu_Defense).
+3-27-2020. Yu He successfully defended his PhD thesis. Congratulations Dr. He! [Some pictures](/thesis-defenses/yu-defense/).
 
 3-26-2020. Alina Ulezko Antonova joins the lab for a rotation. Welcome, Alina!
 
@@ -255,7 +257,7 @@ date: 2018-02-22T17:01:34+07:00
 
 1-17-2020. A collaborative work from our lab with Jing Li's group: "A genomic and epigenomic atlas of prostate cancer in Asian populatons" has been accepted by Nature!! Hyung Joo is co-first author, Nakul and Erica are co-authors, and Ting is the co-corresponding author! Congratulations!!!
 
-1-16-2020. Josh Jang successfully defended his PhD thesis. Congratulations Dr. Jang! [Some pictures](https://wang.wustl.edu/Josh_Defense).
+1-16-2020. Josh Jang successfully defended his PhD thesis. Congratulations Dr. Jang! [Some pictures](/thesis-defenses/josh-defense/).
 
 1-2-2020. Josh and Nakul's paper is selected as one of the [2019 Papers of the Year](https://factor.niehs.nih.gov/2020/1/feature/2-feature-papers-of-the-year/index.htm)!!
 
@@ -281,15 +283,15 @@ date: 2018-02-22T17:01:34+07:00
 
 9-9-2019. Jessica Harrison joins the lab for a rotation. Welcome, Jessica!
 
-9-3-2019. Renee Sears successfully defended her PhD thesis. Congratulations Dr. Sears! [Some pictures](https://wang.wustl.edu/Renee_Defense).
+9-3-2019. Renee Sears successfully defended her PhD thesis. Congratulations Dr. Sears! [Some pictures]/thesis-defenses/renee-defense/).
 
-8-17-2019. 4th lab float trip. [Some pictures](https://wang.wustl.edu/FloatTrip2019).
+8-17-2019. 4th lab float trip. [Some pictures](/float-trips/float-trip-2019/).
 
 8-16-2019. Yonghao Liang joins the lab for a rotation. Welcome, Yonghao!
 
 8-13-2019. Gavriel Matt joins the lab as a postdoc. Welcome, Gavriel!
 
-7-20-2019. 10th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2019).
+7-20-2019. 10th annual summer party. [Some pictures](/annual-party/party-2019/).
 
 6-27-2019. Xianglin Zhang joins the lab for research training. Welcome, Xianglin!
 
@@ -355,7 +357,7 @@ date: 2018-02-22T17:01:34+07:00
 
 9-20-2018. We have renewed our TE R01.
 
-7-28-2018. 9th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2018).
+7-28-2018. 9th annual summer party. [Some pictures](annual-party/party-2018/).
 
 7-1-2018. Ting is promoted to full professor!! Congratulations Ting!!!
 
@@ -413,13 +415,13 @@ date: 2018-02-22T17:01:34+07:00
 
 8-21-2017. The TaRGET white paper has been accepted by Nature Biotechnology! Congratulations!!!
 
-8-12-2017. 3rd lab float trip. [Some pictures](https://wang.wustl.edu/FloatTrip2017).
+8-12-2017. 3rd lab float trip. [Some pictures](/float-trips/float-trip-2017/).
 
 8-8-2017. Mayank's review which highlights online resources available to toxicological epigenetic researchers is online now at [Current Opinion in Toxicology](http://www.sciencedirect.com/science/article/pii/S2468202017300621).
 
 8-1-2017. Ju Heon Maeng joins the lab for his thesis study. Welcome, Ju Heon!
 
-7-15-2017. 8th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2017).
+7-15-2017. 8th annual summer party. [Some pictures](annual-party/party-2017/).
 
 6-18-2017. Yu's EpiCompare paper is [online now at Bioinformatics](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx371).
 
@@ -441,7 +443,7 @@ date: 2018-02-22T17:01:34+07:00
 
 5-16-2017. [Vasavi's TE paper](http://genome.cshlp.org/content/24/12/1963) is highlighted at ScienceNews: [Jumping genes play a big role in what makes us human](https://www.sciencenews.org/article/jumping-genes-play-big-role-what-makes-us-human).
 
-5-9-2017. Hyung Joo Lee successfully defended his PhD thesis. Congratulations Dr. Lee! [Some pictures](https://wang.wustl.edu/HyungJoo_Defense).
+5-9-2017. Hyung Joo Lee successfully defended his PhD thesis. Congratulations Dr. Lee! [Some pictures](/thesis-defenses/hyung-defense/).
 
 5-8-2017. David Zhang joins the lab again as a summer undergraduate student. Welcome back, David!
 
@@ -481,17 +483,17 @@ date: 2018-02-22T17:01:34+07:00
 
 10-10-2016. Ananda Datta joins the lab as a postdoc. Welcome, Ananda!
 
-9-16-2016. Rebecca Lowdon successfully defended her PhD thesis "The Epigenomics of Cell Fate in Development and Disease". Congratulations Dr. Lowdon! [Some pictures](https://wang.wustl.edu/Rebecca_Defense).
+9-16-2016. Rebecca Lowdon successfully defended her PhD thesis "The Epigenomics of Cell Fate in Development and Disease". Congratulations Dr. Lowdon! [Some pictures](/thesis-defenses/rebecca-defense/).
 
 8-22-2016. Jonathan Spalding joins the lab for a rotation. Welcome, Jonathan!
 
-8-13-2016. 2nd lab float trip. [Some pictures](https://wang.wustl.edu/FloatTrip2016).
+8-13-2016. 2nd lab float trip. [Some pictures](/float-trips/float-trip-2016/).
 
 8-12-2016. "Inhibition of DNA Methyltransferases Blocks Mutant Huntingtin-Induced Neurotoxicity", a collaboration with Dr. Yano at Department of Neurological Surgery, Washington University School of Medicine, is online now at [Scientific Reports](http://www.nature.com/articles/srep31022). Xiaoyun and Ting are co-authors. Congratulations!
 
 8-1-2016. Alan Du joins the lab for a rotation. Welcome, Alan!
 
-7-31-2016. 7th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2016).
+7-31-2016. 7th annual summer party. [Some pictures](/annual-party/party-2016/).
 
 7-1-2016. We got a U24 grant to build the Environmental Epigenomics Data Coordination Center.
 
@@ -505,7 +507,7 @@ date: 2018-02-22T17:01:34+07:00
 
 5-27-2016. Justin Chen joins the lab again as a summer student. Welcome back, Justin!
 
-5-17-2016. Vasavi Sundaram successfully defended her PhD thesis "Identifying the regulatory role of transposable elements in mammalian genomes". Congratulations Dr. Sundaram! [Some pictures](https://wang.wustl.edu/Vasavi_Defense).
+5-17-2016. Vasavi Sundaram successfully defended her PhD thesis "Identifying the regulatory role of transposable elements in mammalian genomes". Congratulations Dr. Sundaram! [Some pictures](/thesis-defenses/vasavi-defense/).
 
 5-16-2016. David Zhang joins the lab again as a summer undergraduate student. Welcome back, David!
 
@@ -529,7 +531,7 @@ date: 2018-02-22T17:01:34+07:00
 
 12-31-2015. Yiran Hou joins the lab for a rotation. Welcome Yiran!
 
-12-4-2015. The Wang lab has moved to the new McKinley Scott Research Building! [Some pictures](https://wang.wustl.edu/2015lab_move).
+12-4-2015. The Wang lab has moved to the new McKinley Scott Research Building!
 
 11-30-2015. Aldrin Yim joins the lab for a rotation. Welcome Aldrin!
 
@@ -551,11 +553,11 @@ date: 2018-02-22T17:01:34+07:00
 
 8-21-2015. Junchen Gu successfully defended his PhD thesis "Variation and Plasticity of DNA methylation in Genome Regulation". Congratulations Dr. Gu! [Some pictures](https://wang.wustl.edu/Junchen_Defense).
 
-8-6-2015. Lab float trip at Meramec River. [Some pictures and videos](https://wang.wustl.edu/FloatTrip2015).
+8-6-2015. Lab float trip at Meramec River. [Some pictures and videos](float-trips/float-trip-2015/).
 
 8-4-2015. Our collaboration with Professor Elliot C. Nelson at Department of Psychiatry "Evidence of CNIH3 involvement in opioid dependence" is online now at [Molecular Psychiatry](http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2015102a.html).
 
-8-1-2015. 6th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2015).
+8-1-2015. 6th annual summer party. [Some pictures](annual-party/party-2015/).
 
 7-9-2015. Jennifer Flynn joins the lab for her thesis study. Welcome back, Jennifer!
 
@@ -577,7 +579,7 @@ date: 2018-02-22T17:01:34+07:00
 
 4-28-2015. Yu He joins the lab for his thesis study. Welcome, Yu!
 
-4-24-2015. GiNell Elliott successfully defended her PhD thesis "Complex Genome Regulation Characterized by Atypical Signatures in DNA Methylation". Congratulations Dr. Elliott! [Some pictures](https://wang.wustl.edu/GiNell_Defense).
+4-24-2015. GiNell Elliott successfully defended her PhD thesis "Complex Genome Regulation Characterized by Atypical Signatures in DNA Methylation". Congratulations Dr. Elliott! [Some pictures](/thesis-defenses/ginell-defense/).
 
 3-30-2015. Josh joins the lab for his thesis study. Welcome back, Josh!
 
@@ -617,7 +619,7 @@ date: 2018-02-22T17:01:34+07:00
 
 11-25-2014. Rebecca's paper "Regulatory network decoded from epigenomes of surface ectoderm-derived cell types" is online today: [here](http://www.nature.com/ncomms/2014/141125/ncomms6442/full/ncomms6442.html). This is the first Roadmap Consortium companion paper.
 
-11-24-2014. Jia Zhou successfully defended her PhD thesis "Principles of epigenome evolution". Congratulations Dr. Zhou! [Some pictures](https://wang.wustl.edu/Jia_Defense).
+11-24-2014. Jia Zhou successfully defended her PhD thesis "Principles of epigenome evolution". Congratulations Dr. Zhou! [Some pictures](/thesis-defenses/jia-defense/).
 
 11-19-2014. News release on Vasavi's paper: [Exploring the genomes of mice and men (New insight can help determine when mouse models are good stand-ins for studying humans)](http://news.wustl.edu/news/Pages/27709.aspx).
 
@@ -645,7 +647,7 @@ date: 2018-02-22T17:01:34+07:00
 
 8-18-2014. Renee joins the lab for her thesis study. Welcome back, Renee!
 
-8-2-2014. 5th annual summer party. [Some pictures](https://wang.wustl.edu/Summer2014).
+8-2-2014. 5th annual summer party. [Some pictures](/annual-party/party-2014/).
 
 7-28-2014. Nicole Rockweiler joins the lab for a rotation. Welcome Nicole!
 
@@ -657,7 +659,7 @@ date: 2018-02-22T17:01:34+07:00
 
 5-30-2014. Methma Udawatta joins the lab as an Amgen Scholar. Welcome Methma!
 
-5-21-2014. Michael Stevens successfully defended his PhD thesis "On the Analysis of DNA Methylation". Congratulations Dr. Stevens! [Some pictures](https://wang.wustl.edu/Michael_Defense).
+5-21-2014. Michael Stevens successfully defended his PhD thesis "On the Analysis of DNA Methylation". Congratulations Dr. Stevens! [Some pictures](/thesis-defenses/michael-defense/).
 
 5-14-2014. Manishi Pandey joins the lab for a rotation. Welcome Manishi!
 
@@ -685,7 +687,7 @@ date: 2018-02-22T17:01:34+07:00
 
 7-23-2013. mTAG-seq paper published at Nature Communications: [mTAG-seq](http://www.nature.com/ncomms/2013/130723/ncomms3190/full/ncomms3190.html).
 
-7-6-2013. Annual summer party. [Some pictures](https://wang.wustl.edu/Summer2013).
+7-6-2013. Annual summer party. [Some pictures](/annual-party/party-2013/).
 
 6-27-2013. News and Views on our Nature Genetics paper: [Hypomethylation marks enhancers within transposable elements](http://www.nature.com/ng/journal/v45/n7/full/ng.2649.html).
 
@@ -717,7 +719,7 @@ date: 2018-02-22T17:01:34+07:00
 
 6-21-2012. Rebecca has joined the lab for his thesis study! Welcome back, Rebecca!
 
-6-9-2012. Mingchao's Farewell and Welcome Party at Wang's house. [Some pictures](https://wang.wustl.edu/Summer2012).
+6-9-2012. Mingchao's Farewell and Welcome Party at Wang's house. [Some pictures](/annual-party/party-2012/).
 
 6-8-2012. Comparative Epigenomics paper in Cell: [here](http://www.cell.com/abstract/S0092-8674%2812%2900574-0).
 
@@ -741,7 +743,7 @@ date: 2018-02-22T17:01:34+07:00
 
 7-28-2011. Bo Zhang and Daofeng Li join the lab for their postdoc training. Welcome, Bo and Daofeng!!
 
-7-16-2011. Summer Party at Wang's house. [Some pictures](https://wang.wustl.edu/Summer2011).
+7-16-2011. Summer Party at Wang's house. [Some pictures](/annual-party/party-2011/).
 
 7-15-2011. Hyung Joo has joined the lab for his thesis study! Welcome back, Hyung Joo!
 
@@ -771,7 +773,7 @@ Jan-2011. Ting is featured as one of 24 "Tomorrow's PIs" by Genome Technology. H
 
 8-31-2010. Ruteja Barve joins the lab for rotation. Welcome, Ruteja!
 
-8-21-2010. End of Summer Party at Wang's house. [Some pictures](https://wang.wustl.edu/Summer2010).
+8-21-2010. End of Summer Party at Wang's house. [Some pictures](/annual-party/party-2010/).
 
 8-20-2010. We win a one-year, $50k Developemental Research Award in Endometrial Cancer Research from Siteman Cancer Center and Endometrial Cancer SPORE. This award supports our collaboration with Dr. Paul Goodfellow on investigating the epigenomics of endometrial cancer.
 
