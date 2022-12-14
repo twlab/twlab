@@ -3,6 +3,10 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+12-13-2022. Justin Chen joins the lab for a rotation. Welcome, Justin!
+
+11-29-2022. Ai Zhang joins the lab for a rotation. Welcome, Ai!
+
 11-2-2022. Nina Tekkey joins the lab as an undergraduate student. Welcome, Nina!
 
 10-24-2022. Ling Liao joins the lab for a rotation. Welcome, Ling!
