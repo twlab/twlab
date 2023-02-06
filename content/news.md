@@ -3,6 +3,12 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+2-6-2023. Mayank and Kara’s paper "Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes"  is [online at Nature Communications](https://www.nature.com/articles/s41467-023-36364-9) today!
+
+2-3-2023. Shihua Dong joins the lab as postdoc. Welcome Shihua!
+
+1-26-2023. Mayank and Kara’s TE-3D genome paper has been officially accepted by Nature Communications. Congratulations!!!
+
 12-13-2022. Justin Chen joins the lab for a rotation. Welcome, Justin!
 
 11-29-2022. Ai Zhang joins the lab for a rotation. Welcome, Ai!
