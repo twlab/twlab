@@ -3,6 +3,14 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+2-23-2023. Nakul, Josh and Holden's paper: 'Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements' has been accepted for publication in Nature Genetics today! Congratulations!!!
+
+2-13-2023. Mitchell Grinwald joins the lab for his thesis study. Welcome back, Mitchell!
+
+2-9-2023. A collaboration with Guoyan Zhao's lab titled "Human striatal glia differentially contribute to AD- and PD-specific neurodegeneration" is [online now at Nature Aging](https://www.nature.com/articles/s43587-023-00363-8).
+
+2-7-2023. Michael Moore joins the lab for his thesis study. Welcome back, Michael!
+
 2-6-2023. Mayank and Kara’s paper "Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes"  is [online at Nature Communications](https://www.nature.com/articles/s41467-023-36364-9) today!
 
 2-3-2023. Shihua Dong joins the lab as postdoc. Welcome Shihua!

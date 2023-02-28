@@ -7,6 +7,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s43587-023-00363-8 >}}
+
+- [Human striatal glia differentially contribute to AD- and PD-specific neurodegeneration](https://www.nature.com/articles/s43587-023-00363-8)\
+    Jinbin Xu, Huifangjie L. Farsad, Yiran Hou, Kia Barclay, Ben Anthony Lopez, Shinnosuke Yamada, Ibrahim Olabayode Saliu, Yiming Shi, William C. Knight, Randall J. Bateman, Tammie L. S. Benzinger, Jason J. Yi, Qingyun Li, Ting Wang, Joel S. Perlmutter, John C. Morris & Guoyan Zhao \
+    Nature Aging (2023).
+
 {{< badge src = 10.1038/s41467-023-36364-9 >}}
 
 - [Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes](https://www.nature.com/articles/s41467-023-36364-9)\

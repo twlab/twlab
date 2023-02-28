@@ -21,8 +21,6 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 |{{< figure src = "https://wang.wustl.edu/img/HarshLarge.jpg" width = "200px">}}| Harsh Wadhwa |  WashU Undergraduate Student| 2022/06-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/SonaliLarge.jpg" width = "200px">}}| Sonali Sharma | Highschool student (YSP program) | 2022/06-2022/08 |Highschool|
 |{{< figure src = "https://wang.wustl.edu/img/HannahLarge.jpg" width = "200px">}}| Hannah Chay | Florence Moog Fellow |2021/01-2022/06  |WashU|
-|{{< figure src = "https://wang.wustl.edu/img/MitchellLarge.jpg" width = "200px">}}| Mitchell Grinwald | Rotation Student (MSTP) |2022/05-2022/08 |WashU|
-|{{< figure src = "https://wang.wustl.edu/img/MichaelMLarge.jpg" width = "200px">}}| Michael Moore | Rotation Student (MSTP) | 2022/05-2022/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MarinaLarge.jpg" width = "200px">}}|Marina Sha  |Summer intern (Carnegie Mellon University)  |2022/06-2022/08  |CMU|
 |{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}|Mary Shang  | WashU Undergraduate Student |2022/06-2022/08  |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/EricaLarge.jpg" width = "200px">}}| Erica Shi | Highschool student | 2022/06-2022/08 |Ladue Highschool|
