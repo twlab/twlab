@@ -3,6 +3,10 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+3-27-2023. Nakul, Josh and Holden's paper "Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements" is [online at Nature Genetics](https://www.nature.com/articles/s41588-023-01349-3) today!
+
+3-20-2023. Evan Peng joins the lab for a rotation. Welcome, Evan!
+
 2-23-2023. Nakul, Josh and Holden's paper: 'Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements' has been accepted for publication in Nature Genetics today! Congratulations!!!
 
 2-13-2023. Mitchell Grinwald joins the lab for his thesis study. Welcome back, Mitchell!

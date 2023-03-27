@@ -7,11 +7,17 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s41588-023-01349-3 >}}
+
+- [Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements](https://www.nature.com/articles/s41588-023-01349-3)\
+    Nakul M. Shah, H. Josh Jang, Yonghao Liang, Ju Heon Maeng, Shin-Cheng Tzeng, Angela Wu, Noah L. Basri, Xuan Qu, Changxu Fan, Amy Li, Benjamin Katz, Daofeng Li, Xiaoyun Xing, Bradley S. Evans & Ting Wang  \
+    Nature Genetics (2023)
+
 {{< badge src = 10.1038/s43587-023-00363-8 >}}
 
 - [Human striatal glia differentially contribute to AD- and PD-specific neurodegeneration](https://www.nature.com/articles/s43587-023-00363-8)\
     Jinbin Xu, Huifangjie L. Farsad, Yiran Hou, Kia Barclay, Ben Anthony Lopez, Shinnosuke Yamada, Ibrahim Olabayode Saliu, Yiming Shi, William C. Knight, Randall J. Bateman, Tammie L. S. Benzinger, Jason J. Yi, Qingyun Li, Ting Wang, Joel S. Perlmutter, John C. Morris & Guoyan Zhao \
-    Nature Aging (2023).
+    Nature Aging volume 3, pages 346–365 (2023).
 
 {{< badge src = 10.1038/s41467-023-36364-9 >}}
 

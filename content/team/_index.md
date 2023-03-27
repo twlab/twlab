@@ -12,4 +12,5 @@ intro_image_hide_on_mobile: true
 [Thesis Defense](/thesis-defense/)  
 [Summer Party](/summer-party/)  
 [Float Trip](/float-trip/)  
-[Fun Photos](/fun-photos/)
+
+<!-- [Fun Photos](/fun-photos/) -->
