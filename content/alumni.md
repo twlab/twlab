@@ -13,6 +13,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/AiZhang.jpg" width = "200px">}}| Ai Zhang | Rotation Student (HSG) | 2022/1-2023/01 ||
 |{{< figure src = "https://wang.wustl.edu/img/Ling_resize.jpg" width = "200px">}}| Ling Liao | Rotation Student (CSB) | 2022/10-2022/12 ||
 |{{< figure src = "https://wang.wustl.edu/img/Emma_resize.jpg" width = "200px">}}|Emma Bartley-Dier  | Rotation Student (MCB) | 2022/09-2022/11 ||
 |{{< figure src = "https://wang.wustl.edu/img/Doris_resize.jpg" width = "200px">}}|Doris Wu  | Rotation Student (MGG) | 2022/08-2022/10 ||

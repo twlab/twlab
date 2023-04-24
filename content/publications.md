@@ -7,11 +7,29 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1007/978-1-0716-2950-5_6 >}}
+
+- Protocol: [Capture Methylation-Sensitive Restriction Enzyme Sequencing (Capture MRE-Seq) for Methylation Analysis of Highly Degraded DNA Samples](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6)\
+    Xiaoyun Xing, Jennifer A. Karlow, Daofeng Li, Hyo Sik Jang, Hyung Joo Lee & Ting Wang   \
+    Part of the Methods in Molecular Biology book series (MIMB,volume 2621)
+
+{{< badge src = 10.1038/s41564-023-01346-6 >}}
+
+- [Uropathogenic Escherichia coli infection-induced epithelial trained immunity impacts urinary tract disease outcome](https://www.nature.com/articles/s41564-023-01346-6)\
+    Seongmi K. Russell, Jessica K. Harrison, Benjamin S. Olson, Hyung Joo Lee, Valerie P. O’Brien, Xiaoyun Xing, Jonathan Livny, Lu Yu, Elisha D. O. Roberson, Rajdeep Bomjan, Changxu Fan, Marina Sha, Shady Estfanous, Amal O. Amer, Marco Colonna, Thaddeus S. Stappenbeck, Ting Wang, Thomas J. Hannan & Scott J. Hultgren  \
+    Nature Microbiology (2023)
+
+{{< badge src = 10.1038/s41588-023-01361-7 >}}
+
+- Research Briefing: [Chimeric transcripts of transposable elements and genes are a source of tumor-specific antigens](https://www.nature.com/articles/s41588-023-01361-7)\
+    SNakul Shah & Yonghao Liang  \
+    Nature Genetics (2023)
+
 {{< badge src = 10.1038/s41588-023-01349-3 >}}
 
 - [Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements](https://www.nature.com/articles/s41588-023-01349-3)\
     Nakul M. Shah, H. Josh Jang, Yonghao Liang, Ju Heon Maeng, Shin-Cheng Tzeng, Angela Wu, Noah L. Basri, Xuan Qu, Changxu Fan, Amy Li, Benjamin Katz, Daofeng Li, Xiaoyun Xing, Bradley S. Evans & Ting Wang  \
-    Nature Genetics (2023)
+    Nature Genetics volume 55, pages 631–639 (2023)
 
 {{< badge src = 10.1038/s43587-023-00363-8 >}}
 
