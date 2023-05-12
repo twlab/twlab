@@ -7,7 +7,7 @@ date: 2018-02-22T17:01:34+07:00
 
 5-10-2023. Ju Heon Maeng successfully defended his PhD thesis. Congratulations Dr. Maeng! [Some pictures](/thesis-defenses/juheon-defense/).
 
-5-10-2023. [Human pangenome collection](https://www.nature.com/nature/volumes/617/issues/7960) in Nature.
+5-10-2023. [Human pangenome collection](https://www.nature.com/nature/volumes/617/issues/7960) in Nature. WUSM news release: [Detailed human pangenome reference captures human diversity](https://medicine.wustl.edu/news/detailed-human-pangenome-reference-captures-human-diversity/).
 
 5-9-2023. Qinglin Zeng joins the lab for his thesis study. Welcome back, Qinglin!
 
