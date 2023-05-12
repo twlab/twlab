@@ -7,6 +7,37 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s41586-023-05896-x >}}
+
+- [A draft human pangenome reference](https://www.nature.com/articles/s41586-023-05896-x)\
+    Wen-Wei Liao, Mobin Asri, Jana Ebler, Daniel Doerr, Marina Haukness, Glenn Hickey, Shuangjia Lu, Julian K. Lucas, Jean Monlong, Haley J. Abel, Silvia Buonaiuto, Xian H. Chang, Haoyu Cheng, Justin Chu, Vincenza Colonna, Jordan M. Eizenga, Xiaowen Feng, Christian Fischer, Robert S. Fulton, Shilpa Garg, Cristian Groza, Andrea Guarracino, William T. Harvey, Simon Heumos, Kerstin Howe, Miten Jain, Tsung-Yu Lu, Charles Markello, Fergal J. Martin, Matthew W. Mitchell, Katherine M. Munson, Moses Njagi Mwaniki, Adam M. Novak, Hugh E. Olsen, Trevor Pesout, David Porubsky, Pjotr Prins, Jonas A. Sibbesen, Jouni Sirén, Chad Tomlinson, Flavia Villani, Mitchell R. Vollger, Lucinda L. Antonacci-Fulton, Gunjan Baid, Carl A. Baker, Anastasiya Belyaeva, Konstantinos Billis, Andrew Carroll, Pi-Chuan Chang, Sarah Cody, Daniel E. Cook, Robert M. Cook-Deegan, Omar E. Cornejo, Mark Diekhans, Peter Ebert, Susan Fairley, Olivier Fedrigo, Adam L. Felsenfeld, Giulio Formenti, Adam Frankish, Yan Gao, Nanibaa’ A. Garrison, Carlos Garcia Giron, Richard E. Green, Leanne Haggerty, Kendra Hoekzema, Thibaut Hourlier, Hanlee P. Ji, Eimear E. Kenny, Barbara A. Koenig, Alexey Kolesnikov, Jan O. Korbel, Jennifer Kordosky, Sergey Koren, HoJoon Lee, Alexandra P. Lewis, Hugo Magalhães, Santiago Marco-Sola, Pierre Marijon, Ann McCartney, Jennifer McDaniel, Jacquelyn Mountcastle, Maria Nattestad, Sergey Nurk, Nathan D. Olson, Alice B. Popejoy, Daniela Puiu, Mikko Rautiainen, Allison A. Regier, Arang Rhie, Samuel Sacco, Ashley D. Sanders, Valerie A. Schneider, Baergen I. Schultz, Kishwar Shafin, Michael W. Smith, Heidi J. Sofia, Ahmad N. Abou Tayoun, Françoise Thibaud-Nissen, Francesca Floriana Tricomi, Justin Wagner, Brian Walenz, Jonathan M. D. Wood, Aleksey V. Zimin, Guillaume Bourque, Mark J. P. Chaisson, Paul Flicek, Adam M. Phillippy, Justin M. Zook, Evan E. Eichler, David Haussler, Ting Wang, Erich D. Jarvis, Karen H. Miga, Erik Garrison, Tobias Marschall, Ira M. Hall, Heng Li & Benedict Paten  \
+    Nature volume 617, pages 312–324 (2023).
+
+{{< badge src = 10.1038/s41586-023-05976-y >}}
+
+- [Recombination between heterologous human acrocentric chromosomes](https://www.nature.com/articles/s41586-023-05976-y)\
+    Andrea Guarracino, Silvia Buonaiuto, Leonardo Gomes de Lima, Tamara Potapova, Arang Rhie, Sergey Koren, Boris Rubinstein, Christian Fischer, Human Pangenome Reference Consortium, Jennifer L. Gerton, Adam M. Phillippy, Vincenza Colonna & Erik Garrison  \
+    Nature volume 617, pages 335–343 (2023).
+
+{{< badge src = 10.1038/s41586-023-05895-y >}}
+
+- [Increased mutation and gene conversion within human segmental duplications](https://www.nature.com/articles/s41586-023-05895-y)\
+    Mitchell R. Vollger, Philip C. Dishuck, William T. Harvey, William S. DeWitt, Xavi Guitart, Michael E. Goldberg, Allison N. Rozanski, Julian Lucas, Mobin Asri, Human Pangenome Reference Consortium, Katherine M. Munson, Alexandra P. Lewis, Kendra Hoekzema, Glennis A. Logsdon, David Porubsky, Benedict Paten, Kelley Harris, PingHsun Hsieh & Evan E. Eichler  \
+    Nature volume 617, pages 325–334 (2023).
+
+{{< badge src = 10.1038/s41587-023-01793-w >}}
+
+- [Pangenome graph construction from genome alignments with Minigraph-Cactus](https://www.nature.com/articles/s41587-023-01793-w)\
+    Glenn Hickey, Jean Monlong, Jana Ebler, Adam M. Novak, Jordan M. Eizenga, Yan Gao, Human Pangenome Reference Consortium, Tobias Marschall, Heng Li & Benedict Paten  \
+    Nature Biotechnology (2023).
+
+
+{{< badge src = 10.1101/gr.277550.122 >}}
+
+- [Comparing genomic and epigenomic features across species using the WashU Comparative Epigenome Browser](http://doi.org/10.1101/gr.277550.122)\
+    Xiaoyu Zhuo, Silas Hsu, Deepak Purushotham, Prashant K Kuntala, Jessica K Harrison, Alan Y Du, Samuel Chen, Daofeng Li and Ting Wang  \
+    Genome Res. 2023.
+
 {{< badge src = 10.1007/978-1-0716-2950-5_6 >}}
 
 - Protocol: [Capture Methylation-Sensitive Restriction Enzyme Sequencing (Capture MRE-Seq) for Methylation Analysis of Highly Degraded DNA Samples](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6)\
@@ -17,7 +48,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Uropathogenic Escherichia coli infection-induced epithelial trained immunity impacts urinary tract disease outcome](https://www.nature.com/articles/s41564-023-01346-6)\
     Seongmi K. Russell, Jessica K. Harrison, Benjamin S. Olson, Hyung Joo Lee, Valerie P. O’Brien, Xiaoyun Xing, Jonathan Livny, Lu Yu, Elisha D. O. Roberson, Rajdeep Bomjan, Changxu Fan, Marina Sha, Shady Estfanous, Amal O. Amer, Marco Colonna, Thaddeus S. Stappenbeck, Ting Wang, Thomas J. Hannan & Scott J. Hultgren  \
-    Nature Microbiology (2023)
+    Nature Microbiology volume 8, pages 875–888 (2023)
 
 {{< badge src = 10.1038/s41588-023-01361-7 >}}
 

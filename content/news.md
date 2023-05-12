@@ -3,9 +3,23 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+5-11-2023. We are part of the [Somatic Mosaicism across Human Tissues (SMaHT) Network](https://smaht.org/), leading the organizational center and supporting one of the data production centers. WUSM new release: [WashU Medicine joins national effort to ID genetic differences within the body](https://medicine.wustl.edu/news/washu-medicine-joins-national-effort-to-id-genetic-differences-within-the-body/).
+
+5-10-2023. Ju Heon Maeng successfully defended his PhD thesis. Congratulations Dr. Maeng! [Some pictures](/thesis-defenses/juheon-defense/).
+
+5-10-2023. [Human pangenome collection](https://www.nature.com/nature/volumes/617/issues/7960) in Nature.
+
+5-9-2023. Qinglin Zeng joins the lab for his thesis study. Welcome back, Qinglin!
+
+5-8-2023. Xiaoyu’s Comparative Epigenome Browser paper is [online at Genome Research](http://doi.org/10.1101/gr.277550.122) today!
+
+5-3-2023. Xiaoyu’s Comparative Epigenome Browser paper has been officially accepted by Genome Research. Congratulations!!!
+
+4-24-2023. Heather and Holden’s review “Transposable elements in mammalian chromatin organization” has been accepted by Nature Review Genetics!!! Congrats!!!
+
 4-21-2023. Alan Du successfully defended his PhD thesis. Congratulations Dr. Du! [Some pictures](/thesis-defenses/alan-defense/).
 
-4-12-2023. Xiaoyun's **Capture MRE-Seq** protocol for Highly Degraded DNA Samples is [online at MIMB](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6), it's part of the Methods in Molecular Biology book series (MIMB,volume 2621).
+4-12-2023. Xiaoyun and Jennifer's **Capture MRE-Seq** protocol for Highly Degraded DNA Samples is [online at MIMB](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6), it's part of the Methods in Molecular Biology book series (MIMB,volume 2621).
 
 4-10-2023. A collaboration with Dr. Hannan and Dr. Hultgren lab titled "Uropathogenic Escherichia coli infection-induced epithelial trained immunity impacts urinary tract disease outcome" is [online now at Nature Microbiology](https://www.nature.com/articles/s41564-023-01346-6). Jessica, HyungJoo, Xiaoyun, and Fan are co-authors, Ting is co-senior author, Congratulations!
 
