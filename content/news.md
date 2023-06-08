@@ -3,7 +3,13 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-5-11-2023. We are part of the [Somatic Mosaicism across Human Tissues (SMaHT) Network](https://smaht.org/), leading the organizational center and supporting one of the data production centers. WUSM new release: [WashU Medicine joins national effort to ID genetic differences within the body](https://medicine.wustl.edu/news/washu-medicine-joins-national-effort-to-id-genetic-differences-within-the-body/).
+6-7-2023. Heather and Holden’s review on how transposable elements shape and maintain 3D genome is [online at Nature Reviews Genetics](https://www.nature.com/articles/s41576-023-00609-6) today! [twitter](https://twitter.com/twang5/status/1666472785986703361?s=20). Congratulations!!!
+
+6-6-2023. Roni Salisu joins the lab for summer studies. Welcome, Roni!
+
+5-16-2023. Ju Heon Maeng joins the lab as a postdoc. Welcome back Ju Heon!
+
+5-11-2023. We are part of the [Somatic Mosaicism across Human Tissues (SMaHT) Network](https://smaht.org/), leading the organizational center and supporting one of the data production centers. WUSM news release: [WashU Medicine joins national effort to ID genetic differences within the body](https://medicine.wustl.edu/news/washu-medicine-joins-national-effort-to-id-genetic-differences-within-the-body/).
 
 5-10-2023. Ju Heon Maeng successfully defended his PhD thesis. Congratulations Dr. Maeng! [Some pictures](/thesis-defenses/juheon-defense/).
 
