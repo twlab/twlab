@@ -7,6 +7,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s41576-023-00609-6 >}}
+
+- [Transposable elements in mammalian chromatin organization](https://www.nature.com/articles/s41576-023-00609-6)\
+    Heather A. Lawson, Yonghao Liang & Ting Wang  \
+    Nature Reviews Genetics (2023).
+
 {{< badge src = 10.1038/s41586-023-05896-x >}}
 
 - [A draft human pangenome reference](https://www.nature.com/articles/s41586-023-05896-x)\
@@ -54,7 +60,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - Research Briefing: [Chimeric transcripts of transposable elements and genes are a source of tumor-specific antigens](https://www.nature.com/articles/s41588-023-01361-7)\
     SNakul Shah & Yonghao Liang  \
-    Nature Genetics (2023)
+    Nature Genetics volume 55, pages 538–539 (2023)
 
 {{< badge src = 10.1038/s41588-023-01349-3 >}}
 
@@ -501,7 +507,7 @@ date: 2018-02-22T17:01:34+07:00
 
 {{< altmetric 20976270 >}} {{< plumx src = 10.1038%2Fng.3889 >}}
 
-- [DNMT and HDAC inhibitors induce cryptic transcription start sites encoded in long terminal repeats](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3889.html)\
+- [DNMT and HDAC inhibitors induce cryptic transcription start sites encoded in long terminal repeats](https://www.nature.com/articles/ng.3889)\
     David Brocks, Christopher R Schmidt, Michael Daskalakis, Hyo Sik Jang, Nakul M Shah, Daofeng Li, Jing Li, Bo Zhang, Yiran Hou, Sara Laudato, Daniel B Lipka, Johanna Schott, Holger Bierhoff, Yassen Assenov, Monika Helf, Alzbeta Ressnerova, Md Saiful Islam, Anders M Lindroth, Simon Haas, Marieke Essers, Charles D Imbusch, Benedikt Brors, Ina Oehme, Olaf Witt, Michael Lübbert, Jan-Philipp Mallm, Karsten Rippe, Rainer Will, Dieter Weichenhan, Georg Stoecklin, Clarissa Gerhäuser, Christopher C Oakes, Ting Wang & Christoph Plass\
     Nature Genetics (2017) doi:10.1038/ng.3889
 
@@ -587,7 +593,7 @@ date: 2018-02-22T17:01:34+07:00
 
 {{< altmetric 4361421 >}} {{< plumx src = 10.1038%2Fmp.2015.102 >}} {{< dimensions src = 10.1038/mp.2015.102 >}}
 
-- [Evidence of CNIH3 involvement in opioid dependence](http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2015102a.html)\
+- [Evidence of CNIH3 involvement in opioid dependence](https://www.nature.com/articles/mp2015102)\
     E C Nelson, A Agrawal, A C Heath, R Bogdan, R Sherva, B Zhang, R Al-Hasani, M R Bruchas, Y-L Chou, C H Demers, C E Carey, E D Conley, A K Fakira, L A Farrer, A Goate, S Gordon, A K Henders, V Hesselbrock, M Kapoor, M T Lynskey, P A F Madden, J A Moron, J P Rice, N L Saccone, S G Schwab, F L Shand, A A Todorov, L Wallace, T Wang, N R Wray, X Zhou, L Degenhardt, N G Martin, A R Hariri, H R Kranzler, J Gelernter, L J Bierut, D J Clark and G W Montgomery\
     Molecular Psychiatry advance online publication 4 August 2015; doi: 10.1038/mp.2015.102
 
@@ -617,7 +623,7 @@ date: 2018-02-22T17:01:34+07:00
 
 {{< altmetric 3708780 >}} {{< plumx src = 10.1038%2Fnbt.3158 >}} {{< dimensions src = 10.1038/nbt.3158 >}}
 
-- [Epigenomic annotation of genetic variants using the Roadmap Epigenome Browser](http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3158.html)\
+- [Epigenomic annotation of genetic variants using the Roadmap Epigenome Browser](https://www.nature.com/articles/nbt.3158)\
     Xin Zhou, Daofeng Li, Bo Zhang, Rebecca F Lowdon, Nicole B Rockweiler, Renee L Sears, Pamela A F Madden, Ivan Smirnov, Joseph F Costello & Ting Wang\
     Nature Biotechnology (2015) doi:10.1038/nbt.3158
 
