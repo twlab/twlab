@@ -7,6 +7,18 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1038/s41467-023-38849-z >}}
+
+- [Embryonic vitamin D deficiency programs hematopoietic stem cells to induce type 2 diabetes](https://www.nature.com/articles/s41467-023-38849-z)\
+    Jisu Oh, Amy E. Riek, Kevin T. Bauerle, Adriana Dusso, Kyle P. McNerney, Ruteja A. Barve, Isra Darwech, Jennifer E. Sprague, Clare Moynihan, Rong M. Zhang, Greta Kutz, Ting Wang, Xiaoyun Xing, Daofeng Li, Marguerite Mrad, Nicholas M. Wigge, Esmeralda Castelblanco, Alejandro Collin, Monika Bambouskova, Richard D. Head, Mark S. Sands & Carlos Bernal-Mizrachi \
+    Nature Communications volume 14, Article number: 3278 (2023).
+
+{{< badge src = 10.1016/j.cub.2023.05.044 >}}
+
+- [Spatial transcriptomics reveals a cnidarian segment polarity program in Nematostella vectensis](https://www.sciencedirect.com/science/article/pii/S0960982223006760)\
+    Shuonan He, Wanqing Shao, Shiyuan Cynthia Chen, Ting Wang, Matthew C Gibson\
+    Current Biology. 2023 Jun 7;S0960-9822(23)00676-0. doi: 10.1016/j.cub.2023.05.044. Online ahead of print.
+
 {{< badge src = 10.1038/s41576-023-00609-6 >}}
 
 - [Transposable elements in mammalian chromatin organization](https://www.nature.com/articles/s41576-023-00609-6)\

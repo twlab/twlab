@@ -3,6 +3,14 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+{{< rawhtml >}}
+<p style="color: #e914b1">6-13-2023. [MESSAGE FROM THE DEAN] Ting will become the next Head of the Department of Genetics, starting on August 1! Congratulations to Ting and the lab!!!</p>
+{{< /rawhtml >}}
+
+6-13-2023. A collaboration with Bernal-Mizrachi lab in Department of Medicine, "Embryonic vitamin D deficiency programs hematopoietic stem cells to induce type 2 diabetes" is [online at Nature Communications](https://www.nature.com/articles/s41467-023-38849-z) today! Ting, Xiaoyun and Daofeng are co-authors. Congratulations!
+
+6-13-2023. A collaboration with Gibson lab in Stowers Institute, "Spatial transcriptomics reveals a cnidarian segment polarity program in Nematostella vectensis" is [online at Current Biology](https://www.sciencedirect.com/science/article/pii/S0960982223006760) today! Wanqing (alumni) and Ting are co-authors. Congratulations!
+
 6-7-2023. Heather and Holden’s review on how transposable elements shape and maintain 3D genome is [online at Nature Reviews Genetics](https://www.nature.com/articles/s41576-023-00609-6) today! [twitter](https://twitter.com/twang5/status/1666472785986703361?s=20). Congratulations!!!
 
 6-6-2023. Roni Salisu joins the lab for summer studies. Welcome, Roni!
