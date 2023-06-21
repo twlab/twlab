@@ -4,6 +4,10 @@ date: 2018-02-22T17:01:34+07:00
 ---
 
 {{< rawhtml >}}
+<p style="color: #e914b1">6-20-2023. WUSM news release: <a href="https://medicine.wustl.edu/news/wang-nationally-recognized-geneticist-named-head-of-genetics/" target="_blank">Wang, nationally recognized geneticist, named head of genetics</a>.</p>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <p style="color: #e914b1">6-13-2023. [MESSAGE FROM THE DEAN] Ting will become the next Head of the Department of Genetics, starting on August 1! Congratulations to Ting and the lab!!!</p>
 {{< /rawhtml >}}
 
