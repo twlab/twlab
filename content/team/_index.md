@@ -1,6 +1,6 @@
 ---
 title: 'Team'
-intro_image: "https://wang.wustl.edu/images/WangLab2022.jpg"
+intro_image: "https://wang.wustl.edu/images/WangLab2023.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

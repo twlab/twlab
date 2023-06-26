@@ -3,6 +3,8 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+6-24-2023. 2023 annual summer party!! Congrats to Ting for going to be Chair of Genetics, and farewell to Nakul! [Some pictures](/annual-party/party-2023/). Thanks to everyone!!
+
 {{< rawhtml >}}
 <p style="color: #e914b1">6-20-2023. WUSM news release: <a href="https://medicine.wustl.edu/news/wang-nationally-recognized-geneticist-named-head-of-genetics/" target="_blank">Wang, nationally recognized geneticist, named head of genetics</a>.</p>
 {{< /rawhtml >}}

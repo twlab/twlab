@@ -13,14 +13,19 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
-|{{< figure src = "https://wang.wustl.edu/img/SiyuanLarge.jpg" width = "200px">}}| Siyuan (Ryan) Cheng | Master student | 2022/5-2023/03 ||
-|{{< figure src = "https://wang.wustl.edu/img/AiZhang.jpg" width = "200px">}}| Ai Zhang | Rotation Student (HSG) | 2022/1-2023/01 ||
-|{{< figure src = "https://wang.wustl.edu/img/Ling_resize.jpg" width = "200px">}}| Ling Liao | Rotation Student (CSB) | 2022/10-2022/12 ||
-|{{< figure src = "https://wang.wustl.edu/img/Emma_resize.jpg" width = "200px">}}|Emma Bartley-Dier  | Rotation Student (MCB) | 2022/09-2022/11 ||
+|{{< figure src = "https://wang.wustl.edu/img/Evan_resize.jpg" width = "200px">}}| Evan Peng | ROTATION STUDENT (HSG) | 2023/03-2023/06 |Ding Lab|
+|{{< figure src = "https://wang.wustl.edu/img/SiyuanLarge.jpg" width = "200px">}}| Siyuan (Ryan) Cheng | Master student | 2022/05-2023/03 ||
+|{{< figure src = "https://wang.wustl.edu/img/AiZhang.jpg" width = "200px">}}| Ai Zhang | Rotation Student (HSG) | 2022/01-2023/01 |Dantas Lab|
+|{{< figure src = "https://wang.wustl.edu/img/Ling_resize.jpg" width = "200px">}}| Ling Liao | Rotation Student (CSB) | 2022/10-2022/12 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Emma_resize.jpg" width = "200px">}}|Emma Bartley-Dier  | Rotation Student (MCB) | 2022/09-2022/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Doris_resize.jpg" width = "200px">}}|Doris Wu  | Rotation Student (MGG) | 2022/08-2022/10 ||
+{{< comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/Qinglin_resize.jpg" width = "200px">}}| Qinglin Zeng | Rotation Student (MGG) | 2022/08-2022/10 ||
+{{< /comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/YiranLarge.jpg" width = "200px">}}| Yiran Hou (PhD, 2022) | Graduate Student (MGG) |2016/03-2022/08  |University of Wisconsin-Madison|
+{{< comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/HarshLarge.jpg" width = "200px">}}| Harsh Wadhwa |  WashU Undergraduate Student| 2022/06-2022/08 |WashU|
+{{< /comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/SonaliLarge.jpg" width = "200px">}}| Sonali Sharma | Highschool student (YSP program) | 2022/06-2022/08 |Highschool|
 |{{< figure src = "https://wang.wustl.edu/img/HannahLarge.jpg" width = "200px">}}| Hannah Chay | Florence Moog Fellow |2021/01-2022/06  |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/MarinaLarge.jpg" width = "200px">}}|Marina Sha  |Summer intern (Carnegie Mellon University)  |2022/06-2022/08  |CMU|
