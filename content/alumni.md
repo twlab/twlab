@@ -100,7 +100,9 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 |{{< figure src = "https://wang.wustl.edu/img/NicoleLarge.jpg" width = "200px">}}|  Nicole Rockweiler|  Graduate student (Computational and Systems Biology)| 10/2014-9/2016  |  Don Conrad lab|
 |{{< figure src = "https://wang.wustl.edu/img/DanielLarge.jpg" width = "200px">}}|  Daniel Cui |  Rotation student (CSB)| 7/2016-9/2016   |  Barak Cohen lab   |
 |{{< figure src = "https://wang.wustl.edu/img/EileenLarge.jpg" width = "200px">}}|  Eileen Chen|  Summer Medical Student| 03/2016-07/2016 |  WashU Med School  |
+{{< comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/JustinLarge.jpg" width = "200px">}}|  Justin Chen|  Summer student | 07/2015-08/2015, 07/2016-08/2016, 05/2017-08/2017, 05/2019-08/2019|  Columbia University|
+{{< /comment >}}
 |{{< figure src = "https://wang.wustl.edu/img/JuliaLarge.jpg" width = "200px">}} |  Julia Altman|  Summer Student | 6/2016-7/2016   |  South Carolina Governor's School|
 |{{< figure src = "https://wang.wustl.edu/img/AbbieLarge.jpg" width = "200px">}} |  Abbie Bowman|  Summer Student | 6/2016-7/2016   |  South Carolina Governor's School|
 |{{< figure src = "https://wang.wustl.edu/img/JuanLarge.jpg" width = "200px">}}|  Juan Macias|  Rotation Student (CSB)| 4/2016-6/2016   |  Lawson Lab |

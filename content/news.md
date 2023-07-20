@@ -5,6 +5,8 @@ date: 2018-02-22T17:01:34+07:00
 
 7-11-2023. Eva Kasal, Anderson Dai, Everett Cui and Junsik Yun joined the lab for summer study. Welcome Eva, Andy, Everett and Junsik!
 
+7-11-2023. Justin Chen joins the lab for his thesis study. Welcome back, Justin!
+
 7-7-2023. Alaina Urman joins the lab for a rotation. Welcome Alaina!
 
 6-24-2023. 2023 annual summer party!! Congrats to Ting for going to be Chair of Genetics, and farewell to Nakul! [Some pictures](/annual-party/party-2023/). Thanks to everyone!!
