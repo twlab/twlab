@@ -3,6 +3,12 @@ title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+8-1-2023. Michelle Gibbs joins the lab as Ting's assistant! Welcome Michelle!
+
+{{< rawhtml >}}
+<p style="color: #e914b1">8-1-2023. Ting started his new position as the head of genetics today! Congratulations!</p>
+{{< /rawhtml >}}
+
 7-11-2023. Eva Kasal, Anderson Dai, Everett Cui and Junsik Yun joined the lab for summer study. Welcome Eva, Andy, Everett and Junsik!
 
 7-11-2023. Justin Chen joins the lab for his thesis study. Welcome back, Justin!

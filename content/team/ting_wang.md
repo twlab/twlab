@@ -10,6 +10,7 @@ promoted: true
 weight: 1
 ---
 
-Professor of Genetics, 
+Head,
+Professor of Genetics,
 Professor of Computer Science and Engineering,
 Sanford and Karen Loewentheil Distinguished Professor of Medicine
