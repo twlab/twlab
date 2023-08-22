@@ -2,6 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+8-19-2023. 6th lab float trip. [Some pictures](/float-trips/float-trip-2023/).
 
 8-1-2023. Michelle Gibbs joins the lab as Ting's assistant! Welcome Michelle!
 
