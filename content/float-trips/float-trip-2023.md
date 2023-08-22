@@ -1,10 +1,10 @@
 ---
-title: "Float Trip 2022"
-date: 2022-07-06T13:07:52-05:00
+title: "Float Trip 2023"
+date: 2023-08-19T13:07:52-05:00
 draft: false
 unlisted: true
 ---
-Click thumbnails to view larger pictutes, then use arrow key (left, right) to navigate.
+Click thumbnails to view larger pictures, then use the arrow key (left, right) to navigate.
 {{< gallery >}}
 {{< figure src = "https://wang.wustl.edu/images/FloatTrip2023/DSC03123_resize.jpg" >}}
 {{< figure src = "https://wang.wustl.edu/images/FloatTrip2023/DSC03124_resize.jpg" >}}
