@@ -13,6 +13,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Junsik_resize.jpg" width = "200px">}}| Everett Cui | Summer Student | 2023/06-2023/08 ||
 |{{< figure src = "https://wang.wustl.edu/img/Everett.jpg" width = "200px">}}| Everett Cui | Summer Student | 2023/06-2023/08 |Parkway high school|
 |{{< figure src = "https://wang.wustl.edu/img/Anderson_resize.jpg" width = "200px">}}| Anderson Dai | Summer Student | 2023/06-2023/08 |Ladue high school|
 |{{< figure src = "https://wang.wustl.edu/img/Roni.jpg" width = "200px">}}| Roni Salisu | Visiting program trainee | 2023/06-2023/07 |University of Maryland|
