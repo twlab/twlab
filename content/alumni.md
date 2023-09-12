@@ -13,14 +13,15 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
-|{{< figure src = "https://wang.wustl.edu/img/Eva_resize.jpg" width = "200px">}}| Eva Kasal | Summer Student | 2023/06-2023/08 |High school|
+|{{< figure src = "https://wang.wustl.edu/img/Alaina_resize.jpg" width = "200px">}}| Alaina Urman | Rotation Student (MGG) | 2023/07-2023/08 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Eva_resize.jpg" width = "200px">}}| Eva Kasal | Summer Student | 2023/07-2023/08 |High school|
 |{{< figure src = "https://wang.wustl.edu/img/Junsik_resize.jpg" width = "200px">}}| Junsik Yun | Summer Student | 2023/06-2023/08 |Sungkyunkwan University|
 |{{< figure src = "https://wang.wustl.edu/img/Everett.jpg" width = "200px">}}| Everett Cui | Summer Student | 2023/06-2023/08 |Parkway high school|
 |{{< figure src = "https://wang.wustl.edu/img/Anderson_resize.jpg" width = "200px">}}| Anderson Dai | Summer Student | 2023/06-2023/08 |Ladue high school|
 |{{< figure src = "https://wang.wustl.edu/img/Roni.jpg" width = "200px">}}| Roni Salisu | Visiting program trainee | 2023/06-2023/07 |University of Maryland|
 |{{< figure src = "https://wang.wustl.edu/img/NakulLarge.jpg" width = "200px">}}| Nakul Shah | Resident | 2015/09-2023/06 |MD Anderson|
 |{{< figure src = "https://wang.wustl.edu/img/Xiaowen_resize.jpg" width = "200px">}}| Xiaowen Ma | Bioinformatics Research Analyst | 2022/08-2023/06 |Georgia tech|
-|{{< figure src = "https://wang.wustl.edu/img/Evan_resize.jpg" width = "200px">}}| Evan Peng | ROTATION STUDENT (HSG) | 2023/03-2023/06 |Ding Lab|
+|{{< figure src = "https://wang.wustl.edu/img/Evan_resize.jpg" width = "200px">}}| Evan Peng | Rotation Student (HSG) | 2023/03-2023/06 |Ding Lab|
 |{{< figure src = "https://wang.wustl.edu/img/ChrisLarge.jpg" width = "200px">}}| Chris Hemauer | Undergraduate Researcher (WashU) | 2020/05-2023/03 |Harvard|
 |{{< figure src = "https://wang.wustl.edu/img/SiyuanLarge.jpg" width = "200px">}}| Siyuan (Ryan) Cheng | Master student | 2022/05-2023/03 |MD Anderson|
 |{{< figure src = "https://wang.wustl.edu/img/AiZhang.jpg" width = "200px">}}| Ai Zhang | Rotation Student (HSG) | 2022/01-2023/01 |Dantas Lab|
