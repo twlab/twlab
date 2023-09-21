@@ -2,12 +2,15 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+<<<<<<< HEAD
 {{< rawhtml >}}
 <p style="color: #e914b1">9-18-2023. Our lab participates in an effort to lead the new multi-omics production center for NIH research consortium, WashU news<a href="https://source.wustl.edu/2023/09/washu-leads-new-multi-omics-production-center-for-nih-research-consortium/" target="_blank"></a></p>
 {{< /rawhtml >}}
 
 9-18-2023. Samagya Banskota joins the lab as a visiting scholar. Welcome Samagya!
 
+=======
+>>>>>>> main
 8-29-2023. Qichen Fu joins the lab for a rotation. Welcome Qichen!
 
 8-19-2023. 6th lab float trip. [Some pictures](/float-trips/float-trip-2023/).
