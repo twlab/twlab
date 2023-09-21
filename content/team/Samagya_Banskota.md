@@ -3,7 +3,7 @@ title: 'Samagya Banskota'
 date: 2023-9-18
 draft: false
 image: 'https://wang.wustl.edu/img/Samagya_Banskota.jpg'
-jobtitle: 'POSTDOC'
+jobtitle: 'Visiting Scholar'
 promoted: true
 weight: 57
 ---
