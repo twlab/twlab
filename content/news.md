@@ -4,27 +4,27 @@ date: 2018-02-22T17:01:34+07:00
 ---
 9-22-2023. Jennifer and Erica’s paper "Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers" is [online now at Genomics, Proteomics & Bioinformatics](https://doi.org/10.1016/j.gpb.2023.03.006) today!
 
-9-18-2023. Our lab participates in an effort to lead the new multi-omics production center for NIH research consortium, [WashU news](https://source.wustl.edu/2023/09/washu-leads-new-multi-omics-production-center-for-nih-research-consortium/)
+9-18-2023. Our lab participates in an effort to lead the new multi-omics production center for NIH research consortium, [WashU news](https://source.wustl.edu/2023/09/washu-leads-new-multi-omics-production-center-for-nih-research-consortium/).
 
 9-18-2023. Samagya Banskota joins the lab as a visiting scholar. Welcome Samagya!
 
-8-29-2023. Qichen Fu joins the lab for a rotation. Welcome Qichen!
+8-29-2023. Qichen Fu joins the lab for a rotation. Welcome, Qichen!
 
 8-19-2023. 6th lab float trip. [Some pictures](/float-trips/float-trip-2023/).
 
-8-1-2023. Michelle Gibbs joins the lab as Ting's assistant! Welcome Michelle!
+8-1-2023. Michelle Gibbs joins the lab as Ting's assistant! Welcome, Michelle!
 
 {{< rawhtml >}}
 <p style="color: #e914b1">8-1-2023. Ting started his new position as the head of genetics today! Congratulations!</p>
 {{< /rawhtml >}}
 
-7-11-2023. Eva Kasal, Anderson Dai, Everett Cui and Junsik Yun joined the lab for summer study. Welcome Eva, Andy, Everett and Junsik!
+7-11-2023. Eva Kasal, Anderson Dai, Everett Cui, and Junsik Yun joined the lab for summer study. Welcome, Eva, Andy, Everett, and Junsik!
 
 7-11-2023. Justin Chen joins the lab for his thesis study. Welcome back, Justin!
 
 7-7-2023. Alaina Urman joins the lab for a rotation. Welcome Alaina!
 
-6-24-2023. 2023 annual summer party!! Congrats to Ting for going to be Chair of Genetics, and farewell to Nakul! [Some pictures](/annual-party/party-2023/). Thanks to everyone!!
+6-24-2023. 2023 annual summer party!! Congrats to Ting for going to be Chair of Genetics and farewell to Nakul! [Some pictures](/annual-party/party-2023/). Thanks to everyone!!
 
 {{< rawhtml >}}
 <p style="color: #e914b1">6-20-2023. WUSM news release: <a href="https://medicine.wustl.edu/news/wang-nationally-recognized-geneticist-named-head-of-genetics/" target="_blank">Wang, nationally recognized geneticist, named head of genetics</a>.</p>
@@ -34,7 +34,7 @@ date: 2018-02-22T17:01:34+07:00
 <p style="color: #e914b1">6-13-2023. [MESSAGE FROM THE DEAN] Ting will become the next Head of the Department of Genetics, starting on August 1! Congratulations to Ting and the lab!!!</p>
 {{< /rawhtml >}}
 
-6-13-2023. A collaboration with Bernal-Mizrachi lab in Department of Medicine, "Embryonic vitamin D deficiency programs hematopoietic stem cells to induce type 2 diabetes" is [online at Nature Communications](https://www.nature.com/articles/s41467-023-38849-z) today! Ting, Xiaoyun and Daofeng are co-authors. Congratulations!
+6-13-2023. A collaboration with Bernal-Mizrachi lab in the Department of Medicine, "Embryonic vitamin D deficiency programs hematopoietic stem cells to induce type 2 diabetes" is [online at Nature Communications](https://www.nature.com/articles/s41467-023-38849-z) today! Ting, Xiaoyun and Daofeng are co-authors. Congratulations!
 
 6-13-2023. A collaboration with Gibson lab in Stowers Institute, "Spatial transcriptomics reveals a cnidarian segment polarity program in Nematostella vectensis" is [online at Current Biology](https://www.sciencedirect.com/science/article/pii/S0960982223006760) today! Wanqing (alumni) and Ting are co-authors. Congratulations!
 
@@ -62,13 +62,13 @@ date: 2018-02-22T17:01:34+07:00
 
 4-12-2023. Xiaoyun and Jennifer's **Capture MRE-Seq** protocol for Highly Degraded DNA Samples is [online at MIMB](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6), it's part of the Methods in Molecular Biology book series (MIMB,volume 2621).
 
-4-10-2023. A collaboration with Dr. Hannan and Dr. Hultgren lab titled "Uropathogenic Escherichia coli infection-induced epithelial trained immunity impacts urinary tract disease outcome" is [online now at Nature Microbiology](https://www.nature.com/articles/s41564-023-01346-6). Jessica, HyungJoo, Xiaoyun, and Fan are co-authors, Ting is co-senior author, Congratulations!
+4-10-2023. A collaboration with Dr. Hannan and Dr. Hultgren lab titled "Uropathogenic Escherichia coli infection-induced epithelial trained immunity impacts urinary tract disease outcome" is [online now at Nature Microbiology](https://www.nature.com/articles/s41564-023-01346-6). Jessica, HyungJoo, Xiaoyun, and Fan are co-authors, and Ting is a co-senior author, Congratulations!
 
 4-3-2023. Research briefing from Nature Genetics on Nakul, Josh and Holden's paper: [Chimeric transcripts of transposable elements and genes are a source of tumor-specific antigens](https://www.nature.com/articles/s41588-023-01361-7).
 
-3-31-2023. News release from WashU, School of Medicine on Nakul, Josh and Holden's paper: [Jumping genes in cancer cells open door to new immunotherapies](https://medicine.wustl.edu/news/jumping-genes-in-cancer-cells-open-door-to-new-immunotherapies/).
+3-31-2023. A news release from WashU, School of Medicine on Nakul, Josh and Holden's paper: [Jumping genes in cancer cells open door to new immunotherapies](https://medicine.wustl.edu/news/jumping-genes-in-cancer-cells-open-door-to-new-immunotherapies/).
 
-3-30-2023. Media release on Nakul, Josh and Holden's paper: [Translation of “Jumping Genes” Creates Cancer Therapy Targets](https://www.the-scientist.com/news-opinion/translation-of-jumping-genes-creates-cancer-therapy-targets-71044) from TheScientist, and [Reactivated Promoters in Transposable Elements Help Form Unique Tumor Antigens](https://www.genomeweb.com/genetic-research/reactivated-promoters-transposable-elements-help-form-unique-tumor-antigens) from genomeweb.
+3-30-2023. Media release on Nakul, Josh, and Holden's paper: [Translation of “Jumping Genes” Creates Cancer Therapy Targets](https://www.the-scientist.com/news-opinion/translation-of-jumping-genes-creates-cancer-therapy-targets-71044) from TheScientist, and [Reactivated Promoters in Transposable Elements Help Form Unique Tumor Antigens](https://www.genomeweb.com/genetic-research/reactivated-promoters-transposable-elements-help-form-unique-tumor-antigens) from genomeweb.
 
 3-27-2023. Nakul, Josh and Holden's paper "Pan-cancer analysis identifies tumor-specific antigens derived from transposable elements" is [online at Nature Genetics](https://www.nature.com/articles/s41588-023-01349-3) today!
 
