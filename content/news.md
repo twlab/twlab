@@ -2,7 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-9-22-2023. Jennifer and Erica’s paper "Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers" is [online now at Genomics, Proteomics & Bioinformatics](https://doi.org/10.1016/j.gpb.2023.03.006) today!
+9-22-2023. Jennifer and Erica’s paper "Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers" is [online now at Genomics, Proteomics & Bioinformatics](https://doi.org/10.1016/j.gpb.2023.03.006) today! Congratulations!!!
 
 9-18-2023. Our lab participates in an effort to lead the new multi-omics production center for NIH research consortium, [WashU news](https://source.wustl.edu/2023/09/washu-leads-new-multi-omics-production-center-for-nih-research-consortium/).
 
