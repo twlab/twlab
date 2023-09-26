@@ -7,6 +7,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ---
 
+{{< badge src = 10.1016/j.gpb.2023.03.006 >}}
+
+- [Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers](https://www.sciencedirect.com/science/article/pii/S1672022923001055?via%3Dihub)\
+    Jennifer A. Karlow, Erica C. Pehrsson, Xiaoyun Xing, Mark Watson, Siddhartha Devarakonda, Ramaswamy Govindan, Ting Wang \
+    Genomics, proteomics & bioinformatics (2023).
+
 {{< badge src = 10.1038/s41467-023-38849-z >}}
 
 - [Embryonic vitamin D deficiency programs hematopoietic stem cells to induce type 2 diabetes](https://www.nature.com/articles/s41467-023-38849-z)\
@@ -23,7 +29,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Transposable elements in mammalian chromatin organization](https://www.nature.com/articles/s41576-023-00609-6)\
     Heather A. Lawson, Yonghao Liang & Ting Wang  \
-    Nature Reviews Genetics (2023).
+    Nature Reviews Genetics volume 24, pages 712–723 (2023).
 
 {{< badge src = 10.1038/s41586-023-05896-x >}}
 
@@ -54,7 +60,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Comparing genomic and epigenomic features across species using the WashU Comparative Epigenome Browser](http://doi.org/10.1101/gr.277550.122)\
     Xiaoyu Zhuo, Silas Hsu, Deepak Purushotham, Prashant K Kuntala, Jessica K Harrison, Alan Y Du, Samuel Chen, Daofeng Li and Ting Wang  \
-    Genome Res. 2023.
+    Genome Res. 2023. 33: 824-835
 
 {{< badge src = 10.1007/978-1-0716-2950-5_6 >}}
 
