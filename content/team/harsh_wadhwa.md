@@ -1,6 +1,6 @@
 ---
 title: 'Harsh Wadhwa'
-date: 2018-12-20T13:44:55+10:00
+date: 2018-12-20
 draft: false
 image: 'https://wang.wustl.edu/img/HarshLarge.jpg'
 jobtitle: 'WashU Undergraduate Student'

@@ -6,6 +6,11 @@ date: 2018-02-22T17:01:34+07:00
 ## **2023**  
 
 ---
+{{< badge src = 10.1016/10.4049/jimmunol.2300283 >}}
+
+- [IL-15 Priming Alters IFN-γ Regulation in Murine NK Cells](https://journals.aai.org/jimmunol/article/doi/10.4049/jimmunol.2300283/265941/IL-15-Priming-Alters-IFN-Regulation-in-Murine-NK)\
+    Maria Cimpean, Molly P. Keppel, Anastasiia Gainullina, Changxu Fan, Hyogon Sohn, Nathan C. Schedler, Amanda Swain, Ana Kolicheski, Hannah Shapiro, Howard A. Young, Ting Wang, Maxim N. Artyomov, Megan A. Cooper \
+    The Journal of Immunology (2023).
 
 {{< badge src = 10.1016/j.gpb.2023.03.006 >}}
 
