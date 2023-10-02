@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2023**  
 
 ---
+{{< badge src = 0.1016/j.celrep.2023.113196 >}}
+
+- [TET3 plays a critical role in white adipose development and diet-induced remodeling](https://pubmed.ncbi.nlm.nih.gov/37777963/#full-view-affiliation-1)\
+    Byung Chul Jung, Dongjoo You, Ikjun Lee, Daofeng Li, Rebecca L Schill, Katherine Ma, Anna Pi, Zehan Song, Wei-Chieh Mu, Ting Wang, Ormond A MacDougald, Alexander S Banks, Sona Kang \
+    Cell Reports VOLUME 42, ISSUE 10 (2023).
+
 {{< badge src = 10.1016/10.4049/jimmunol.2300283 >}}
 
 - [IL-15 Priming Alters IFN-γ Regulation in Murine NK Cells](https://journals.aai.org/jimmunol/article/doi/10.4049/jimmunol.2300283/265941/IL-15-Priming-Alters-IFN-Regulation-in-Murine-NK)\
