@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+10-3-2023. Edward Kang joins the lab for a rotation. Welcome Samagya!
+
 9-30-2023. A collaboration with Kang lab in UC Berkeley, "TET3 plays a critical role in white adipose development and diet-induced remodeling" is [online at Cell Reports](https://pubmed.ncbi.nlm.nih.gov/37777963/#full-view-affiliation-1) today! Daofeng and Ting are co-authors. Congratulations!
 
 9-25-2023. A collaboration with Dr. Megan A. Cooper lab in the Department of Medicine, "IL-15 Priming Alters IFN-γ Regulation in Murine NK Cells" is [online at The Journal of Immunology](https://journals.aai.org/jimmunol/article/doi/10.4049/jimmunol.2300283/265941/IL-15-Priming-Alters-IFN-Regulation-in-Murine-NK) today! Changxu and Ting are co-authors. Congratulations!
