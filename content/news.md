@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+10-3-2023. Elle Mehinovic joins the lab for her master's project. Welcome Elle!
+
 10-3-2023. Edward Kang joins the lab for a rotation. Welcome Edward!
 
 9-30-2023. A collaboration with Kang lab in UC Berkeley, "TET3 plays a critical role in white adipose development and diet-induced remodeling" is [online at Cell Reports](https://pubmed.ncbi.nlm.nih.gov/37777963/#full-view-affiliation-1) today! Daofeng and Ting are co-authors. Congratulations!
