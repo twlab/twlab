@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+10-17-2023. Aaron Tran joins the lab as a part-time researcher. Welcome Aaron!
+
 10-3-2023. Elle Mehinovic joins the lab for her master's project. Welcome Elle!
 
 10-3-2023. Edward Kang joins the lab for a rotation. Welcome Edward!
