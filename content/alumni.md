@@ -13,6 +13,8 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Edward_Kang_resized.jpg" width = "200px">}}| Edward Kang | Rotaion Student(CSE) | 2023/10-2023/11 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Qichen.jpg" width = "200px">}}| Qichen Fu | Rotation Student (MGG) | 2023/08-2023/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Alaina_resize.jpg" width = "200px">}}| Alaina Urman | Rotation Student (MGG) | 2023/07-2023/08 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Eva_resize.jpg" width = "200px">}}| Eva Kasal | Summer Student | 2023/07-2023/08 |High school|
 |{{< figure src = "https://wang.wustl.edu/img/Junsik_resize.jpg" width = "200px">}}| Junsik Yun | Summer Student | 2023/06-2023/08 |Sungkyunkwan University|

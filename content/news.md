@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-4-2023. The [modbed](https://github.com/lidaof/modbedtools) track paper is accepted by Cell Genomics! Congratulations to the Browser team!
+
 10-17-2023. Aaron Tran joins the lab as a part-time researcher. Welcome Aaron!
 
 10-3-2023. Elle Mehinovic joins the lab for her master's project. Welcome Elle!
