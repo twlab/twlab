@@ -6,8 +6,6 @@ date: 2018-02-22T17:01:34+07:00
 
 12-6-2023. Daofeng's paper "Modbed track: Visualization of modified bases in single-molecule sequencing" is [online at Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X23002999) today. Congratulations!!!
 
-12-5-2023. Zheng Su joins the lab for his master project. Welcome Zheng!
-
 11-29-2023. Holden, Xuan, and Nakul’s review on TE and cancer has been accepted by Nature Reviews Cancer! Congratulations!
 
 11-13-2023. Ju Heon’s long-read CAGE paper has been officially accepted by Genome Research! Congratulations!
