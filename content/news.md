@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 ---
 12-8-2023. Ju Heon’s paper "Using long-read CAGE sequencing to profile cryptic-promoter-derived transcripts and their contribution to the immunopeptidome" is [online at Genome Research](https://genome.cshlp.org/content/early/2023/12/08/gr.277061.122.abstract) today. Congratulations!!!
 
-12-8-2023. Daofeng's paper "Modbed track: Visualization of modified bases in single-molecule sequencing" is [online at Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X23002999) today. Congratulations!!!
+12-6-2023. Daofeng's paper "Modbed track: Visualization of modified bases in single-molecule sequencing" is [online at Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X23002999) today. Congratulations!!!
 
 11-29-2023. Holden, Xuan, and Nakul’s review on TE and cancer has been accepted by Nature Reviews Cancer! Congratulations!
 
