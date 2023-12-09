@@ -5,7 +5,19 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2023**  
 
----
+--- 
+{{< badge src = 10.1101/gr.277061.122 >}}
+
+- [Using long-read CAGE sequencing to profile cryptic-promoter-derived transcripts and their contribution to the immunopeptidome](https://genome.cshlp.org/content/early/2023/12/08/gr.277061.122.abstract)\
+  Ju Heon Maeng, H. Josh Jang, Alan Y. Du, Shin-Cheng Tzeng and Ting Wang \
+  Genome Res. 2023.
+
+{{< badge src = 10.1016/j.xgen.2023.100455 >}}
+
+- [Modbed track: Visualization of modified bases in single-molecule sequencing](https://www.sciencedirect.com/science/article/pii/S2666979X23002999?via%3Dihub)\
+  Daofeng Li, Xiaoyu Zhuo, Jessica K. Harrison, Shane Liu, Ting Wang \
+  Cell Genomics, 2023
+  
 {{< badge src = 0.1016/j.celrep.2023.113196 >}}
 
 - [TET3 plays a critical role in white adipose development and diet-induced remodeling](https://pubmed.ncbi.nlm.nih.gov/37777963/#full-view-affiliation-1)\
