@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+12-8-2023. A collaboration with Bing Ren's lab in UCSD， "Conserved and divergent gene regulatory programs of the mammalian neocortex" is [online at Nature](https://www.nature.com/articles/s41586-023-06819-6) Daofeng, Xiaoyu, and Ting are co-authors. Congratulations!!!
+
 12-8-2023. Ju Heon’s paper "Using long-read CAGE sequencing to profile cryptic-promoter-derived transcripts and their contribution to the immunopeptidome" is [online at Genome Research](https://genome.cshlp.org/content/early/2023/12/08/gr.277061.122.abstract) today. Congratulations!!!
 
 12-6-2023. Daofeng's paper "Modbed track: Visualization of modified bases in single-molecule sequencing" is [online at Cell Genomics](https://www.sciencedirect.com/science/article/pii/S2666979X23002999) today. Congratulations!!!

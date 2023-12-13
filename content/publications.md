@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2023**  
 
 --- 
+{{< badge src = 10.1038/s41586-023-06819-6 >}}
+
+- [Conserved and divergent gene regulatory programs of the mammalian neocortex](https://www.nature.com/articles/s41586-023-06819-6)\
+  Nathan R. Zemke, Ethan J. Armand, Wenliang Wang, Seoyeon Lee, Jingtian Zhou, Yang Eric Li, Hanqing Liu, Wei Tian, Joseph R. Nery, Rosa G. Castanon, Anna Bartlett, Julia K. Osteen, Daofeng Li, Xiaoyu Zhuo, Vincent Xu, Lei Chang, Keyi Dong, Hannah S. Indralingam, Jonathan A. Rink, Yang Xie, Michael Miller, Fenna M. Krienen, Qiangge Zhang, Naz Taskin, Jonathan Ting, Guoping Feng, Steven A. McCarroll, Edward M. Callaway, Ting Wang, Ed S. Lein, M. Margarita Behrens, Joseph R. Ecker & Bing Ren \
+  Nature volume 624, pages 390–402 (2023)
+  
 {{< badge src = 10.1101/gr.277061.122 >}}
 
 - [Using long-read CAGE sequencing to profile cryptic-promoter-derived transcripts and their contribution to the immunopeptidome](https://genome.cshlp.org/content/early/2023/12/08/gr.277061.122.abstract)\
