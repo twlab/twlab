@@ -1,6 +1,6 @@
 ---
 title: 'Zheng Xu'
-date: 2024-12-05
+date: 2023-12-05
 draft: false
 image: 'https://wang.wustl.edu/img/ZhengXu_resize.jpg'
 jobtitle: 'Master Student (Biostatistics)'
