@@ -138,7 +138,7 @@ date: 2018-02-22T17:01:34+07:00
 
 9-23-2022. Congratulations to Celine for winning the best talk award at the retreat!! Congratulations to Ivy for winning best poster award at the retreat!!
 
-9-22-200. News release: [School of Medicine joins major NIH brain mapping effort](https://medicine.wustl.edu/news/school-of-medicine-joins-major-nih-brain-mapping-effort), [The Source from WashU](https://source.wustl.edu/2022/09/school-of-medicine-joins-major-nih-brain-mapping-effort/).
+9-22-2022. News release: [School of Medicine joins major NIH brain mapping effort](https://medicine.wustl.edu/news/school-of-medicine-joins-major-nih-brain-mapping-effort), [The Source from WashU](https://source.wustl.edu/2022/09/school-of-medicine-joins-major-nih-brain-mapping-effort/).
 
 9-2-2022. Emma Bartley-Dier joins the lab for a rotation. Welcome, Emma!
 
