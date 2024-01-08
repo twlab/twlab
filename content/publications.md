@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2023**  
 
 --- 
+{{< badge src = 10.1371/journal.pcbi.1011785 >}}
+
+- [sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data](https://pubmed.ncbi.nlm.nih.gov/38181047/)\
+  Jiarui Feng, S Peter Goedegebuure, Amanda Zeng, Ye Bi, Ting Wang, Philip Payne, Li Ding, David DeNardo, William Hawkins, Ryan C Fields, Fuhai Li \
+  PLoS Comput Biol. 2024
+
 {{< badge src = 10.1038/s41586-023-06819-6 >}}
 
 - [Conserved and divergent gene regulatory programs of the mammalian neocortex](https://www.nature.com/articles/s41586-023-06819-6)\
