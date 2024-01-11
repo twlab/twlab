@@ -2,9 +2,9 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-01-05-2024. A collaboration with Institute for Informatics (I2) lab in WashU, "sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data" is [online at PLoS Computational Biology](https://pubmed.ncbi.nlm.nih.gov/38181047/) today! Ting is co-author. Congratulations!
+01-05-2024. A collaboration with an Institute for Informatics (I2) lab in WashU, "sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data" is [online at PLoS Computational Biology](https://pubmed.ncbi.nlm.nih.gov/38181047/) today! Ting is a co-author. Congratulations!
 
-12-18-2023. A collaboration with Colonna Lab's lab in WashU， "A distinct human cell type expressing MHCII and RORγt with dual characteristics of dendritic cells and type 3 innate lymphoid cells" is [online at PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2318710120) Fan and Ting are co-authors. Congratulations!!!
+12-18-2023. A collaboration with Colonna Lab's lab in WashU， "A distinct human cell type expressing MHCII and RORγt with dual characteristics of dendritic cells and type 3 innate lymphoid cells" is [online at PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2318710120) Alina was a rotation student, Fan and Ting are co-authors. Congratulations!!!
 
 12-13-2023. A collaboration with Bing Ren's lab in UCSD， "Conserved and divergent gene regulatory programs of the mammalian neocortex" is [online at Nature](https://www.nature.com/articles/s41586-023-06819-6) Daofeng, Xiaoyu, Vincent (alumni) and Ting are co-authors. Congratulations!!!
 
