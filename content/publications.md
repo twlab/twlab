@@ -6,7 +6,6 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
-
 {{< badge src = 10.1371/journal.pcbi.1011785 >}}
 
 - [sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data](https://pubmed.ncbi.nlm.nih.gov/38181047/)\
@@ -17,6 +16,11 @@ date: 2018-02-22T17:01:34+07:00
 ## **2023**  
 
 --- 
+{{< badge src = 10.1073/pnas.2318710120 >}}
+
+- [A distinct human cell type expressing MHCII and RORγt with dual characteristics of dendritic cells and type 3 innate lymphoid cells](https://doi.org/10.1073/pnas.2318710120)\
+  Alina Ulezko Antonova, Silvia Lonardi, Matilde Monti, Francesco Missale, Changxu Fan, Matthew L. Coates, Mattia Bugatti, Natalia Jaeger, Patrick Fernandes Rodrigues, Simone Brioschi, Tihana Trsan, José L. Fachi, Khai M. Nguyen, Ryan M. Nunley, Daniele Moratto, Stefania Zini, Lingjia Kong, Jacques Deguine, Mark E. Peeples, Ramnik J. Xavier, Menna R. Clatworthy, Ting Wang, Marina Cella, William Vermi, and Marco Colonna \
+  Proceedings of the National Academy of Sciences, 2023, 120(52): e2318710120.
 
 {{< badge src = 10.1038/s41586-023-06819-6 >}}
 
