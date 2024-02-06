@@ -10,14 +10,14 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Towards targeting transposable elements for cancer therapy](https://www.nature.com/articles/s41568-023-00653-8)\
   Yonghao Liang, Xuan Qu, Nakul M. Shah & Ting Wang \
-  Nature Reviews Cancer (2024)
+  Nature Reviews Cancer volume 24, pages123–140 (2024)
 
 
 {{< badge src = 10.1371/journal.pcbi.1011785 >}}
 
 - [sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data](https://pubmed.ncbi.nlm.nih.gov/38181047/)\
   Jiarui Feng, S Peter Goedegebuure, Amanda Zeng, Ye Bi, Ting Wang, Philip Payne, Li Ding, David DeNardo, William Hawkins, Ryan C Fields, Fuhai Li \
-  PLoS Comput Biol. 2024
+  PLoS Comput Biol. 2024 Jan 5;20(1):e1011785.
 
 ## **2023**  
 
@@ -38,13 +38,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Using long-read CAGE sequencing to profile cryptic-promoter-derived transcripts and their contribution to the immunopeptidome](https://genome.cshlp.org/content/early/2023/12/08/gr.277061.122.abstract)\
   Ju Heon Maeng, H. Josh Jang, Alan Y. Du, Shin-Cheng Tzeng and Ting Wang \
-  Genome Res. 2023.
+  Genome Res. 2023. 33: 2143-2155
 
 {{< badge src = 10.1016/j.xgen.2023.100455 >}}
 
 - [Modbed track: Visualization of modified bases in single-molecule sequencing](https://www.sciencedirect.com/science/article/pii/S2666979X23002999?via%3Dihub)\
   Daofeng Li, Xiaoyu Zhuo, Jessica K. Harrison, Shane Liu, Ting Wang \
-  Cell Genomics, 2023
+  Cell Genomics, Volume 3, Issue 12, 13 December 2023, 100455
   
 {{< badge src = 0.1016/j.celrep.2023.113196 >}}
 
@@ -56,13 +56,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [IL-15 Priming Alters IFN-γ Regulation in Murine NK Cells](https://journals.aai.org/jimmunol/article/doi/10.4049/jimmunol.2300283/265941/IL-15-Priming-Alters-IFN-Regulation-in-Murine-NK)\
     Maria Cimpean, Molly P. Keppel, Anastasiia Gainullina, Changxu Fan, Hyogon Sohn, Nathan C. Schedler, Amanda Swain, Ana Kolicheski, Hannah Shapiro, Howard A. Young, Ting Wang, Maxim N. Artyomov, Megan A. Cooper \
-    The Journal of Immunology (2023).
+    The Journal of Immunology (2023) 211 (10): 1481–1493.
 
 {{< badge src = 10.1016/j.gpb.2023.03.006 >}}
 
 - [Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers](https://www.sciencedirect.com/science/article/pii/S1672022923001055?via%3Dihub)\
     Jennifer A. Karlow, Erica C. Pehrsson, Xiaoyun Xing, Mark Watson, Siddhartha Devarakonda, Ramaswamy Govindan, Ting Wang \
-    Genomics, proteomics & bioinformatics (2023).
+    Genomics Proteomics Bioinformatics 2023 Sep 22:S1672-0229(23)00105-5.
 
 {{< badge src = 10.1038/s41467-023-38849-z >}}
 
