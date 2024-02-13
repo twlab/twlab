@@ -6,6 +6,13 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1093/bioinformatics/btae070 >}}
+
+- [Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting calling cards data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae070/7602560)\
+  Juanru Guo, Wenjin Zhang, Xuhua Chen, Allen Yen, Lucy Chen, Christian A Shively, Daofeng Li, Ting Wang, Joseph D Dougherty, Robi D Mitra \
+  Bioinformatics (2024)
+
+
 {{< badge src = 10.1038/s41568-023-00653-8 >}}
 
 - [Towards targeting transposable elements for cancer therapy](https://www.nature.com/articles/s41568-023-00653-8)\

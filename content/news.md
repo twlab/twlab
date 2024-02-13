@@ -2,7 +2,9 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-02-05-2024. Chad Seng joins the lab working with Daofeng on the WashU Epigenome Browser. Welcome Chad!
+02-07-2024. A collaboration with Edison Family Center in WashU, "Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting Calling Cards data" is [online at Bioinformatics](https://doi.org/10.1093/bioinformatics/btae070) today! Wenjin, Daofeng and Ting is co-author. Congratulations!
+
+02-01-2024. Chad Seng joins the lab working with Daofeng on the WashU Epigenome Browser. Welcome Chad!
 
 01-16-2024. Holden, Xuan, and Nakul’s paper on TE and cancer is [online now at Nature Reviews Cancer](https://doi.org/10.1038/s41568-023-00653-8) today! Congratulations!!!
 
