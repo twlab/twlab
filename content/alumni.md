@@ -13,6 +13,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/AlanLarge.jpg" width = "200px">}}| Alan Du | PhD (MGG) | 2016/10-2024/1 |Takara Bio|
 |{{< figure src = "https://wang.wustl.edu/img/Edward_Kang_resized.jpg" width = "200px">}}| Edward Kang | Rotaion Student(CSE) | 2023/10-2023/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Qichen.jpg" width = "200px">}}| Qichen Fu | Rotation Student (MGG) | 2023/08-2023/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Alaina_resize.jpg" width = "200px">}}| Alaina Urman | Rotation Student (MGG) | 2023/07-2023/08 |WashU|

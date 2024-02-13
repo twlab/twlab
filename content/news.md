@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+02-07-2024. A collaboration with Mitra lab in WashU, "Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting Calling Cards data" is [online at Bioinformatics](https://doi.org/10.1093/bioinformatics/btae070) today! Wenjin, Daofeng and Ting are co-authors. Congratulations!
+
+02-01-2024. Chad Seng joins the lab working with Daofeng on the WashU Epigenome Browser. Welcome Chad!
+
 01-16-2024. Holden, Xuan, and Nakul’s paper on TE and cancer is [online now at Nature Reviews Cancer](https://doi.org/10.1038/s41568-023-00653-8) today! Congratulations!!!
 
 01-05-2024. A collaboration with Institute for Informatics (I2) lab in WashU, "sc2MeNetDrug: A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data" is [online at PLoS Computational Biology](https://pubmed.ncbi.nlm.nih.gov/38181047/) today! Ting is co-author. Congratulations!
