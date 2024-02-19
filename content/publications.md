@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1038/s43018-024-00725-0 >}}
+
+- [Integrated multiomic profiling of breast cancer in the Chinese population reveals patient stratification and therapeutic vulnerabilities](https://www.nature.com/articles/s43018-024-00725-0)\
+  Yi-Zhou Jiang, Ding Ma, Xi Jin, Yi Xiao, Ying Yu, Jinxiu Shi, Yi-Fan Zhou, Tong Fu, Cai-Jin Lin, Lei-Jie Dai, Cheng-Lin Liu, Shen Zhao, Guan-Hua Su, Wanwan Hou, Yaqing Liu, Qingwang Chen, Jingcheng Yang, Naixin Zhang, Wen-Juan Zhang, Wei Liu, Weigang Ge, Wen-Tao Yang, Chao You, Yajia Gu, Virginia Kaklamani, François Bertucci, Claire Verschraegen, Anneleen Daemen, Nakul M. Shah, Ting Wang, Tiannan Guo, Leming Shi, Charles M. Perou, Yuanting Zheng, Wei Huang & Zhi-Ming Shao \
+  Nature Cancer (2024)
+
 {{< badge src = 10.1093/bioinformatics/btae070 >}}
 
 - [Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting calling cards data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae070/7602560)\
