@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+02-12-2024. A collaboration with Fudan University, "Integrated multiomic profiling of breast cancer in the Chinese population reveals patient stratification and therapeutic vulnerabilities" is [online at Nature Cancer](https://www.nature.com/articles/s43018-024-00725-0) today! Nakul and Ting are co-authors. Congratulations!
+
+02-09-2024. Bruktawit Amare joins the lab for a rotation. Welcome Bruk!
+
 02-07-2024. A collaboration with Mitra lab in WashU, "Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting Calling Cards data" is [online at Bioinformatics](https://doi.org/10.1093/bioinformatics/btae070) today! Wenjin, Daofeng and Ting are co-authors. Congratulations!
 
 02-01-2024. Chad Seng joins the lab working with Daofeng on the WashU Epigenome Browser. Welcome Chad!
