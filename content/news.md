@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+03-01-2024. Holden and Xuan talked about new research on transposable elements and cancer, [video news at Department of Genetics Website](https://genetics.wustl.edu/video-phd-students-talk-about-their-research-on-transposable-elements-and-cancer/). Congratulations!!!
+
 02-19-2024. Rachel Wu joins the lab for a rotation. Welcome Rachel!
 
 02-12-2024. A collaboration with Fudan University, "Integrated multiomic profiling of breast cancer in the Chinese population reveals patient stratification and therapeutic vulnerabilities" is [online at Nature Cancer](https://www.nature.com/articles/s43018-024-00725-0) today! Nakul and Ting are co-authors. Congratulations!
