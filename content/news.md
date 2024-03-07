@@ -2,7 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-03-01-2024. Holden and Xuan give a talk about new research on transposable elements and cancer! The video is [online at News of Genetic Department](https://genetics.wustl.edu/video-phd-students-talk-about-their-research-on-transposable-elements-and-cancer/) today! Congratulations!!!
+03-01-2024. Holden and Xuan talked about new research on transposable elements and cancer, [video news at Department of Genetics Website](https://genetics.wustl.edu/video-phd-students-talk-about-their-research-on-transposable-elements-and-cancer/) today! Congratulations!!!
 
 02-19-2024. Rachel Wu joins the lab for a rotation. Welcome Rachel!
 
