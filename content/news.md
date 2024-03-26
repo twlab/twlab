@@ -2,6 +2,9 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+
+03-26-2024. Ting is named as a fellow of the American Institute for Medical and Biological Engineering (AIMBE)! Congratulations!!! [WUSTL news](https://source.wustl.edu/2024/03/seven-faculty-inducted-as-aimbe-fellows/).
+
 03-01-2024. Holden and Xuan talked about new research on transposable elements and cancer, [video news at Department of Genetics Website](https://genetics.wustl.edu/video-phd-students-talk-about-their-research-on-transposable-elements-and-cancer/). Congratulations!!!
 
 02-19-2024. Rachel Wu joins the lab for a rotation. Welcome Rachel!
