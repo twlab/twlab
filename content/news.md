@@ -2,6 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+03-29-2024. Colin McCornack joins our lab for a rotation. Welcome Colin!
 
 03-26-2024. Ting is named as a fellow of the American Institute for Medical and Biological Engineering (AIMBE)! Congratulations!!! [WUSTL news](https://source.wustl.edu/2024/03/seven-faculty-inducted-as-aimbe-fellows/).
 
