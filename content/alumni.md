@@ -13,6 +13,9 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Bruk_resized.jpg" width = "200px">}}| Bruktawit Amare | Rotation Student (CSE) | 2024/2-2024/3 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Evelyn_Yang_resized.jpg" width = "200px">}}| Evelyn Yang | Graduate Student (Computer Science) | 2023/11-2023/12 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Samagya_Banskota.jpg" width = "200px">}}| Samagya Banskota | Visiting Scholar | 2023/9-2024/3 |Boston University|
 |{{< figure src = "https://wang.wustl.edu/img/AlanLarge.jpg" width = "200px">}}| Alan Du | PhD (MGG) | 2016/10-2024/1 |Takara Bio|
 |{{< figure src = "https://wang.wustl.edu/img/Edward_Kang_resized.jpg" width = "200px">}}| Edward Kang | Rotaion Student(CSE) | 2023/10-2023/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Qichen.jpg" width = "200px">}}| Qichen Fu | Rotation Student (MGG) | 2023/08-2023/11 |WashU|
