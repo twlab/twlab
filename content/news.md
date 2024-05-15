@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 ---
 05-08-2024. Yujie Chen (Ivy) successfully defended her PhD thesis. Congratulations Dr. Chen! [Some pictures](/thesis-defenses/yujie-defense/).
 
-04-30-2024. Wesley Saintilnord joins our as a postdoc. Welcome Colin!
+04-30-2024. Wesley Saintilnord joins our as a postdoc. Welcome Wesley!
 
 03-29-2024. Colin McCornack joins our lab for a rotation. Welcome Colin!
 
