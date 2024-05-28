@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+05-24-2024. Xuan Qu successfully defended her PhD thesis. Congratulations Dr. Xuan! [Some pictures](/thesis-defenses/xuan-defense/).
+
 05-08-2024. Yujie Chen (Ivy) successfully defended her PhD thesis. Congratulations Dr. Chen! [Some pictures](/thesis-defenses/yujie-defense/).
 
 04-30-2024. Wesley Saintilnord joins our lab as a postdoc. Welcome Wesley!
