@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+06-03-2024. Anyi joins our lab for summer study. Welcome Anyi!
+
+05-29-2024. Ana joins our lab for summer study. Welcome Ana!
+
 05-24-2024. Xuan Qu successfully defended her PhD thesis. Congratulations Dr. Xuan! [Some pictures](/thesis-defenses/xuan-defense/).
 
 05-08-2024. Yujie Chen (Ivy) successfully defended her PhD thesis. Congratulations Dr. Chen! [Some pictures](/thesis-defenses/yujie-defense/).
