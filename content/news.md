@@ -1,12 +1,12 @@
 ---
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
----
-05-29-2024. Ana joins our lab for summer study. Welcome Ana!
 
-06-03-2024. Anyi joins our lab for summer study. Welcome Anyi!
+06-06-2024. Fan’s paper on cis-regulation is [online now at Nature Communications](https://www.nature.com/articles/s41467-024-48990-y) today! Congratulations!!!
 
-05-29-2024. Ana joins our lab for summer study. Welcome Ana!
+06-03-2024. Anyi Sun and Carlos Saeh joins our lab for summer study. Welcome Anyi and Carlos!
+
+05-29-2024. Ana Welge joins our lab for summer study. Welcome Ana!
 
 05-24-2024. Xuan Qu successfully defended her PhD thesis. Congratulations Dr. Xuan! [Some pictures](/thesis-defenses/xuan-defense/).
 
