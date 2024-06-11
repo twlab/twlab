@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1038/s41467-024-48990-y >}}
+
+- [Cis-regulatory evolution of the recently expanded Ly49 gene family](https://doi.org/10.1038/s41467-024-48990-y)\
+  Changxu Fan, Xiaoyun Xing, Samuel J. H. Murphy, Jennifer Poursine-Laurent, Heather Schmidt, Bijal A. Parikh, Jeesang Yoon, Mayank N. K. Choudhary, Naresha Saligrama, Sytse J. Piersma, Wayne M. Yokoyama & Ting Wang \
+  Nature Communications (2024)
+  
 {{< badge src = 10.1038/s43018-024-00725-0 >}}
 
 - [Integrated multiomic profiling of breast cancer in the Chinese population reveals patient stratification and therapeutic vulnerabilities](https://www.nature.com/articles/s43018-024-00725-0)\
