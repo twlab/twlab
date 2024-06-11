@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+05-29-2024. Ana joins our lab for summer study. Welcome Ana!
+
 06-03-2024. Anyi joins our lab for summer study. Welcome Anyi!
 
 05-29-2024. Ana joins our lab for summer study. Welcome Ana!
