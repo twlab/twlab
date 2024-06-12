@@ -2,15 +2,21 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 
+06-12-2024. A collaboration with Ecker lab in Salk Institute, "BAllC and BAllCools: Efficient Formatting and Operating for Single-Cell DNA Methylation Data" is [online at Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10557610/) today! Jiawei, Daofeng and Ting are co-authors. Congratulations!
+
+06-10-2024. Kara Quaid successfully defended her PhD thesis. Congratulations Dr. Kara! [Some pictures](/thesis-defenses/kara-defense/).
+
 06-06-2024. Fan’s paper on cis-regulation is [online now at Nature Communications](https://www.nature.com/articles/s41467-024-48990-y) today! Congratulations!!!
 
-06-03-2024. Anyi Sun and Carlos Saeh joins our lab for summer study. Welcome Anyi and Carlos!
+06-03-2024. Rachel Wu, Anyi Sun and Carlos Saeh joins our lab for summer study. Welcome Rachel, Anyi and Carlos!
 
 05-29-2024. Ana Welge joins our lab for summer study. Welcome Ana!
 
 05-24-2024. Xuan Qu successfully defended her PhD thesis. Congratulations Dr. Xuan! [Some pictures](/thesis-defenses/xuan-defense/).
 
 05-08-2024. Yujie Chen (Ivy) successfully defended her PhD thesis. Congratulations Dr. Chen! [Some pictures](/thesis-defenses/yujie-defense/).
+
+05-06-2024. Shane Liu joins our lab as a bioinformatics research analyst. Welcome Shane!
 
 04-30-2024. Wesley Saintilnord joins our lab as a postdoc. Welcome Wesley!
 
