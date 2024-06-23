@@ -10,26 +10,26 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Cis-regulatory evolution of the recently expanded Ly49 gene family](https://doi.org/10.1038/s41467-024-48990-y)\
   Changxu Fan, Xiaoyun Xing, Samuel J. H. Murphy, Jennifer Poursine-Laurent, Heather Schmidt, Bijal A. Parikh, Jeesang Yoon, Mayank N. K. Choudhary, Naresha Saligrama, Sytse J. Piersma, Wayne M. Yokoyama & Ting Wang \
-  Nature Communications (2024)
+  Nature Communications volume 15, Article number: 4839 (2024)
   
 {{< badge src = 10.1038/s43018-024-00725-0 >}}
 
 - [Integrated multiomic profiling of breast cancer in the Chinese population reveals patient stratification and therapeutic vulnerabilities](https://www.nature.com/articles/s43018-024-00725-0)\
   Yi-Zhou Jiang, Ding Ma, Xi Jin, Yi Xiao, Ying Yu, Jinxiu Shi, Yi-Fan Zhou, Tong Fu, Cai-Jin Lin, Lei-Jie Dai, Cheng-Lin Liu, Shen Zhao, Guan-Hua Su, Wanwan Hou, Yaqing Liu, Qingwang Chen, Jingcheng Yang, Naixin Zhang, Wen-Juan Zhang, Wei Liu, Weigang Ge, Wen-Tao Yang, Chao You, Yajia Gu, Virginia Kaklamani, François Bertucci, Claire Verschraegen, Anneleen Daemen, Nakul M. Shah, Ting Wang, Tiannan Guo, Leming Shi, Charles M. Perou, Yuanting Zheng, Wei Huang & Zhi-Ming Shao \
-  Nature Cancer (2024)
+  Nature Cancer volume 5, pages 673–690 (2024)
 
 {{< badge src = 10.1093/bioinformatics/btae070 >}}
 
 - [Pycallingcards: an integrated environment for visualizing, analyzing, and interpreting calling cards data](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae070/7602560)\
   Juanru Guo, Wenjin Zhang, Xuhua Chen, Allen Yen, Lucy Chen, Christian A Shively, Daofeng Li, Ting Wang, Joseph D Dougherty, Robi D Mitra \
-  Bioinformatics (2024)
+  Bioinformatics, Volume 40, Issue 2, February 2024, btae070
 
 
 {{< badge src = 10.1038/s41568-023-00653-8 >}}
 
 - [Towards targeting transposable elements for cancer therapy](https://www.nature.com/articles/s41568-023-00653-8)\
   Yonghao Liang, Xuan Qu, Nakul M. Shah & Ting Wang \
-  Nature Reviews Cancer volume 24, pages123–140 (2024)
+  Nature Reviews Cancer volume 24, pages 123–140 (2024)
 
 
 {{< badge src = 10.1371/journal.pcbi.1011785 >}}
