@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1093/bioinformatics/btae404 >}}
+
+- [BAllC and BAllCools: Efficient formatting and operating for Single-Cell DNA methylation data](https://doi.org/10.1093/bioinformatics/btae404)\
+  Wei Tian, Wubin Ding, Jiawei Shen, Daofeng Li, Ting Wang, Joseph R Ecker \
+  Bioinformatics, btae404 (2024)
+  
 {{< badge src = 10.1038/s41467-024-48990-y >}}
 
 - [Cis-regulatory evolution of the recently expanded Ly49 gene family](https://doi.org/10.1038/s41467-024-48990-y)\
