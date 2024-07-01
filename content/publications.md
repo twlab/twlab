@@ -8,7 +8,7 @@ date: 2018-02-22T17:01:34+07:00
 --- 
 {{< badge src = adk4893 >}}
 
-- [Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation](https://doi.org/adk4893)\
+- [Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation](https://doi.org/10.1126/sciimmunol.adk4893)\
   Jennifer A Foltz, Jennifer Tran, Pamela Wong, Changxu Fan, Evelyn Schmidt, Bryan Fisk, Michelle Becker-Hapak, David A Russler-Germain, Jeanette Johnson, Nancy D Marin, Celia C Cubitt, Patrick Pence, Joseph Rueve, Sushanth Pureti, Kimberly Hwang, Feng Gao, Alice Y Zhou, Mark Foster, Timothy Schappe, Lynne Marsala 1, Melissa M Berrien-Elliott, Amanda F Cashen, Jeffrey J Bednarski, Elana Fertig, Obi L Griffith, Malachi Griffith, Ting Wang, Allegra A Petti, Todd A Fehniger \
   Science Immunology Vol 9, Issue 96 (2024)
 
