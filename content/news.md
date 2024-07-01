@@ -4,6 +4,8 @@ date: 2018-02-22T17:01:34+07:00
 ---
 07-02-2024. Aiden Qian joins our lab for summer study. Welcome Aiden!
 
+06-28-2024. A collaboration with Fehniger Lab in WashU, "Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation" is [online now at Science Immunology](https://doi.org/adk4893) today! Congratulations!!! Fan and Ting are co-authors. Congratulations!
+
 06-21-2024. A collaboration with Ecker lab in Salk Institute, "BAllC and BAllCools: Efficient Formatting and Operating for Single-Cell DNA Methylation Data" is [online now at Bioinformatics](https://doi.org/10.1093/bioinformatics/btae404) today! Congratulations!!! Jiawei, Daofeng and Ting are co-authors. Congratulations!
 
 06-12-2024. A collaboration with Ecker lab in Salk Institute, "BAllC and BAllCools: Efficient Formatting and Operating for Single-Cell DNA Methylation Data" is acceptted by Bioinformatics today! Jiawei, Daofeng and Ting are co-authors. Congratulations!
