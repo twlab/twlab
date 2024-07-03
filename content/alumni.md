@@ -6,7 +6,6 @@ unlisted: true
 ---
 Click thumbnails to see larger photos. (Flip to landscape on mobile to view photos)
 <!-- |{{< figure src = "https://wang.wustl.edu/" width = "200px">}}|  |  |  || -->
-
 {{< load-photoswipe >}}
 | | Name | Role in lab| Duration | Where they went |
 | - |:-:|:-:|:-:|:-:|
