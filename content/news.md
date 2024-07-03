@@ -8,6 +8,8 @@ date: 2018-02-22T17:01:34+07:00
 
 06-21-2024. A collaboration with Ecker lab in Salk Institute, "BAllC and BAllCools: Efficient Formatting and Operating for Single-Cell DNA Methylation Data" is [online now at Bioinformatics](https://doi.org/10.1093/bioinformatics/btae404) today! Congratulations!!! Jiawei, Daofeng and Ting are co-authors. Congratulations!
 
+06-20-2024. Qichen Fu joins the lab for his thesis study. Welcome back, Qichen!
+
 06-12-2024. A collaboration with Ecker lab in Salk Institute, "BAllC and BAllCools: Efficient Formatting and Operating for Single-Cell DNA Methylation Data" is acceptted by Bioinformatics today! Jiawei, Daofeng and Ting are co-authors. Congratulations!
 
 06-10-2024. Kara Quaid successfully defended her PhD thesis. Congratulations Dr. Quaid! [Some pictures](/thesis-defenses/kara-defense/).
