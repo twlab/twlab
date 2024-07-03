@@ -5,6 +5,6 @@ draft: false
 image: 'https://wang.wustl.edu/img/Qichen.jpg'
 jobtitle: 'Graduate Student (MGG)'
 promoted: true
-weight: 56
+weight: 73
 ---
 Email: f.qichen@wustl.edu
