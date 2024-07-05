@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-04-2024. Holden’s paper "LINE1 mediates long-range DNA interactions" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01824-5) today! Congratulations!!!
+
 07-02-2024. Aiden Qian joins our lab for summer study. Welcome Aiden!
 
 06-28-2024. A collaboration with Fehniger Lab in WashU, "Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation" is [online now at Science Immunology](https://doi.org/10.1126/sciimmunol.adk4893) today! Congratulations!!! Fan and Ting are co-authors. Congratulations!

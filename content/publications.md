@@ -6,7 +6,13 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
-{{< badge src = adk4893 >}}
+{{< badge src = 10.1038/s41588-024-01824-5 >}}
+
+- News & Views: [LINE1 mediates long-range DNA interactions](https://doi.org/10.1038/s41588-024-01824-5)\
+  Yonghao Liang, Ting Wang \
+  Nature Genetics (2024)
+  
+{{< badge src = 10.1126/sciimmunol.adk4893 >}}
 
 - [Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation](https://doi.org/10.1126/sciimmunol.adk4893)\
   Jennifer A Foltz, Jennifer Tran, Pamela Wong, Changxu Fan, Evelyn Schmidt, Bryan Fisk, Michelle Becker-Hapak, David A Russler-Germain, Jeanette Johnson, Nancy D Marin, Celia C Cubitt, Patrick Pence, Joseph Rueve, Sushanth Pureti, Kimberly Hwang, Feng Gao, Alice Y Zhou, Mark Foster, Timothy Schappe, Lynne Marsala 1, Melissa M Berrien-Elliott, Amanda F Cashen, Jeffrey J Bednarski, Elana Fertig, Obi L Griffith, Malachi Griffith, Ting Wang, Allegra A Petti, Todd A Fehniger \
@@ -159,7 +165,7 @@ date: 2018-02-22T17:01:34+07:00
 {{< badge src = 10.1038/s41588-023-01361-7 >}}
 
 - Research Briefing: [Chimeric transcripts of transposable elements and genes are a source of tumor-specific antigens](https://www.nature.com/articles/s41588-023-01361-7)\
-    SNakul Shah & Yonghao Liang  \
+    Nakul Shah & Yonghao Liang  \
     Nature Genetics volume 55, pages 538–539 (2023)
 
 {{< badge src = 10.1038/s41588-023-01349-3 >}}
