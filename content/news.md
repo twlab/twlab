@@ -2,7 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-7-06-2023. 2024 annual summer party!! Congrats to the successful defense of Ivy and Xuan! [Some pictures](/annual-party/party-2024/). Thanks Aparna and everyone for organizing it!!
+07-06-2024. 2024 annual summer party!! Congrats to the successful defense of Ivy and Xuan! [Some pictures](/annual-party/party-2024/). Thanks Aparna and everyone for organizing it!!
 
 07-04-2024. Holden’s paper "LINE1 mediates long-range DNA interactions" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01824-5) today! Congratulations!!!
 
