@@ -12,6 +12,8 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}| Mary Shang | WashU Undergraduate Student | 2018/12-2024/5 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/HarshLarge.jpg" width = "200px">}}| Harsh Wadhwa | WashU Undergraduate Student | 2018/12-2024/5 |MIT|
 |{{< figure src = "https://wang.wustl.edu/img/Bruk_resized.jpg" width = "200px">}}| Bruktawit Amare | Rotation Student (CSE) | 2024/2-2024/3 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Evelyn_Yang_resized.jpg" width = "200px">}}| Evelyn Yang | Graduate Student (Computer Science) | 2023/11-2023/12 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Samagya_Banskota.jpg" width = "200px">}}| Samagya Banskota | Visiting Scholar | 2023/9-2024/3 |Boston University|
