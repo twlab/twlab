@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-15-2024. Tianjie Liu joins our lab as a postdoc. Welcome Tianjie!
+
 07-06-2024. 2024 annual summer party!! Congrats to the successful defense of Ivy and Xuan! [Some pictures](/annual-party/party-2024/). Thanks Aparna and everyone for organizing it!!
 
 07-04-2024. Holden’s paper "LINE1 mediates long-range DNA interactions" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01824-5) today! Congratulations!!!
@@ -164,7 +166,7 @@ date: 2018-02-22T17:01:34+07:00
 
 2-6-2023. Mayank and Kara’s paper "Widespread contribution of transposable elements to the rewiring of mammalian 3D genomes"  is [online at Nature Communications](https://www.nature.com/articles/s41467-023-36364-9) today!
 
-2-3-2023. Shihua Dong joins the lab as postdoc. Welcome Shihua!
+2-3-2023. Shihua Dong joins the lab as a postdoc. Welcome Shihua!
 
 1-26-2023. Mayank and Kara’s TE-3D genome paper has been officially accepted by Nature Communications. Congratulations!!!
 
