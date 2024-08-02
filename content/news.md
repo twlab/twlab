@@ -2,7 +2,7 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome Tianjie!
+08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome Zheng!
 
 07-15-2024. Tianjie Liu joins our lab as a postdoc. Welcome Tianjie!
 
