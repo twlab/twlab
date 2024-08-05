@@ -6,7 +6,7 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
-{{< badge src = 10.1038/s41588-024-01824-5 >}}
+{{< badge src = 10.1016/j.celrep.2024.114558 >}}
 
 - [Baf155 controls hematopoietic differentiation and regeneration through chromatin priming](https://doi.org/10.1016/j.celrep.2024.114558)\
   Jun Wu, Changxu Fan, Ashraf Ul Kabir, Karen Krchma, Minseo Kim, Yoojung Kwon, Xiaoyun Xing, Ting Wang, Kyunghee Choi \
