@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome Juan!
+
 08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome Zheng!
 
 07-30-2024. A collaboration with the Choi lab in the Department of Pathology and Immunology in WashU, "Baf155 controls hematopoietic differentiation and regeneration through chromatin priming" is [online now at Cell Reports](https://doi.org/10.1016/j.celrep.2024.114558) today! Congratulations!!! Fan is the co-first author, Xiaoyun and Ting are co-authors. Congratulations!
