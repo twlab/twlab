@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1038/s41467-024-51921-6 >}}
+
+- [Regulatory transposable elements in the encyclopedia of DNA elements](https://doi.org/10.1038/s41467-024-51921-6)\
+  Alan Y. Du, Jason D. Chobirko, Xiaoyu Zhuo, Cédric Feschotte & Ting Wang
+  Nature Communications volume 15, Article number: 7594 (2024)
+  
 {{< badge src = 10.1016/j.celrep.2024.114558 >}}
 
 - [Baf155 controls hematopoietic differentiation and regeneration through chromatin priming](https://doi.org/10.1016/j.celrep.2024.114558)\

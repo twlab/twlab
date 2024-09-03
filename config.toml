@@ -19,9 +19,9 @@ show_contact_box = true      # show / hide the contaxt box on the homepage
 show_services_button = false # show / hide the "view all services" button
 
 [params.logo]
-mobile = "image/logo/old_logo.png"
+mobile = "image/logo/wanglab_logo_2024.png"
 mobile_height = "36px"
-desktop = "image/logo/old_logo.png"
+desktop = "image/logo/wanglab_logo_2024.png"
 desktop_height = "36px"
 alt = "Wang Lab"
 
