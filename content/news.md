@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+09-02-2024. Josh, Nakul, Ju Heon, Holden, Noah, Xuan, Justin, Daofeng and Xiaoyun's paper "Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01880-x) today! Congratulations!!!
+
 08-31-2024. Alan and Xiaoyu's paper "Regulatory transposable elements in the encyclopedia of DNA elements" is [online now at Nature Communications](https://www.nature.com/articles/s41467-024-51921-6) today! Congratulations!!!
 
 08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome Juan!
