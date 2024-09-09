@@ -19,12 +19,6 @@ Understanding of the mobile elements in our genome remains poor, but mobile elem
 2. Sequences of mobile elements in the genome are functionally potent and tightly regulated by epigenetic mechanisms, and they provide an evolutionary reservoir for modulating gene regulation;
 3. Mis-regulation of these elements (such as changes in epigenetic modification or rearrangements) causes mis- regulation of nearby genes, contributing to the development of many types of cancer.
 
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
 ## **Evolutionary characterization of regulatory networks**
 
 It is important to establish an evolutionary model in which we can examine roles played by transposable elements in shaping regulatory networks. We are constructing a computational framework to detect and assess the potential impact of transposable elements on the human transcription regulatory networks.
@@ -61,6 +55,3 @@ We are committed to transforming theories and algorithms into software applicati
 1. Next-generation sequencing short reads mapping and assembly. The algorithm will take advantage of paired-end reads and be able to map repetitive regions, which is essential in studying mobile elements and impossible with most existing computational tools.
 2. Motif/module discovery. The algorithm will predict regulatory motifs and modules by incorporating comparative genomics data and natural variation data.
 3. Genomic data integration and visualization. I will continue my efforts towards developing and improving the UCSC Cancer Genomics Browser and associated analysis tools, with a special focus on integration of multiple sources of genomics-based information in cancer research.
-
-
-

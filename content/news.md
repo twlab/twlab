@@ -2,13 +2,13 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-09-02-2024. Josh, Nakul, Ju Heon, Holden, Noah, Xuan, Justin, Daofeng and Xiaoyun's paper "Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01880-x) today! Congratulations!!!
+09-02-2024. Josh, Nakul, Ju Heon and Holden's paper "Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01880-x) today! Congratulations!!! Associated News & Views: [Activating the dark genome to illuminate cancer vaccine targets](https://www.nature.com/articles/s41588-024-01850-3).
 
 08-31-2024. Alan and Xiaoyu's paper "Regulatory transposable elements in the encyclopedia of DNA elements" is [online now at Nature Communications](https://www.nature.com/articles/s41467-024-51921-6) today! Congratulations!!!
 
-08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome Juan!
+08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome, Juan!
 
-08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome Zheng!
+08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome, Zheng!
 
 07-30-2024. A collaboration with the Choi lab in the Department of Pathology and Immunology in WashU, "Baf155 controls hematopoietic differentiation and regeneration through chromatin priming" is [online now at Cell Reports](https://doi.org/10.1016/j.celrep.2024.114558) today! Congratulations!!! Fan is the co-first author, Xiaoyun and Ting are co-authors. Congratulations!
 
