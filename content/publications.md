@@ -6,16 +6,22 @@ date: 2018-02-22T17:01:34+07:00
 ## **2024**  
 
 --- 
+{{< badge src = 10.1038/s41586-024-07510-0 >}}
+
+- [Deciphering the impact of genomic variation on function](https://doi.org/10.1038/s41586-024-07510-0)\
+  IGVF Consortium \
+  Nature volume 633, pages47–57 (2024)
+
 {{< badge src = 10.1038/s41588-024-01880-x >}}
 
 - [Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells](https://doi.org/10.1038/s41588-024-01880-x)\
-  H. Josh Jang, Nakul M. Shah, Ju Heon Maeng, Yonghao Liang, Noah L. Basri, Jiaxin Ge, Xuan Qu, Tatenda Mahlokozera, Shin-Cheng Tzeng, Russell B. Williams, Michael J. Moore, Devi Annamalai, Justin Y. Chen, Hyung Joo Lee, Patrick A. DeSouza, Daofeng Li, Xiaoyun Xing, Albert H. Kim & Ting Wang
+  H. Josh Jang, Nakul M. Shah, Ju Heon Maeng, Yonghao Liang, Noah L. Basri, Jiaxin Ge, Xuan Qu, Tatenda Mahlokozera, Shin-Cheng Tzeng, Russell B. Williams, Michael J. Moore, Devi Annamalai, Justin Y. Chen, Hyung Joo Lee, Patrick A. DeSouza, Daofeng Li, Xiaoyun Xing, Albert H. Kim & Ting Wang \
   Nature Genetics (2024)
   
 {{< badge src = 10.1038/s41467-024-51921-6 >}}
 
 - [Regulatory transposable elements in the encyclopedia of DNA elements](https://doi.org/10.1038/s41467-024-51921-6)\
-  Alan Y. Du, Jason D. Chobirko, Xiaoyu Zhuo, Cédric Feschotte & Ting Wang
+  Alan Y. Du, Jason D. Chobirko, Xiaoyu Zhuo, Cédric Feschotte & Ting Wang \
   Nature Communications volume 15, Article number: 7594 (2024)
   
 {{< badge src = 10.1016/j.celrep.2024.114558 >}}
