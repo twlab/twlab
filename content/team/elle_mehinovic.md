@@ -1,6 +1,6 @@
 ---
 title: 'Elle Mehinovic'
-date: 2023-10-3
+date: 2023-10-03
 draft: false
 image: 'https://wang.wustl.edu/img/Elle_Mehinovic_resized.jpg'
 jobtitle: 'Master student'

@@ -1,6 +1,6 @@
 ---
 title: 'Anderson Dai'
-date: 2023-7-11
+date: 2023-07-11
 draft: false
 image: 'https://wang.wustl.edu/img/Anderson_resize.jpg'
 jobtitle: 'Summer Student'

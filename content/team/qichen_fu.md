@@ -1,6 +1,6 @@
 ---
 title: 'Qichen Fu'
-date: 2024-6-20
+date: 2024-06-20
 draft: false
 image: 'https://wang.wustl.edu/img/Qichen.jpg'
 jobtitle: 'Graduate Student (MGG)'
