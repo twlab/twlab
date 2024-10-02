@@ -1,6 +1,6 @@
 ---
 title: 'Ana Welge'
-date: 2024-5-29
+date: 2024-05-29
 draft: false
 image: 'https://wang.wustl.edu/img/Ana_Welge_resized.jpeg'
 jobtitle: 'Summer Student(Biology)'

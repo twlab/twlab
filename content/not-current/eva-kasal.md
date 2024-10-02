@@ -1,6 +1,6 @@
 ---
 title: 'Eva Kasal'
-date: 2023-7-11
+date: 2023-07-11
 draft: false
 image: 'https://wang.wustl.edu/img/Eva_resize.jpg'
 jobtitle: 'Summer Student'

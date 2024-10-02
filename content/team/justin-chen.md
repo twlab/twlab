@@ -1,6 +1,6 @@
 ---
 title: 'Justin Chen'
-date: 2013-7-11
+date: 2013-07-11
 draft: false
 image: 'https://wang.wustl.edu/img/JustinLarge.jpg'
 jobtitle: 'Graduate Student (CSB)'

@@ -1,6 +1,6 @@
 ---
 title: 'Edward Kang'
-date: 2023-10-3
+date: 2023-10-03
 draft: false
 image: 'https://wang.wustl.edu/img/Edward_Kang_resized.jpg'
 jobtitle: 'Rotaion Student(CSE)'

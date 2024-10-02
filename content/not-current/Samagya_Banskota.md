@@ -1,6 +1,6 @@
 ---
 title: 'Samagya Banskota'
-date: 2023-9-18
+date: 2023-09-18
 draft: false
 image: 'https://wang.wustl.edu/img/Samagya_Banskota.jpg'
 jobtitle: 'Visiting Scholar'
