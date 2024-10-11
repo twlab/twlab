@@ -8,6 +8,8 @@ date: 2018-02-22T17:01:34+07:00
 
 08-31-2024. Alan and Xiaoyu's paper "Regulatory transposable elements in the encyclopedia of DNA elements" is [online now at Nature Communications](https://www.nature.com/articles/s41467-024-51921-6) today! Congratulations!!!
 
+08-26-2024. Saifur Rahman joins our lab as a rotation student. Welcome, Saifur!
+
 08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome, Juan!
 
 08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome, Zheng!
