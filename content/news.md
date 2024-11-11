@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-07-2024. News release: Researchers make glioblastoma cells visible to attacking immune cells. [WUSTL news](https://medicine.washu.edu/news/researchers-make-glioblastoma-cells-visible-to-attacking-immune-cells/).
+
+10-01-2024. Turan Tufan joins our lab as a postdoc. Welcome, Turan!
+
 09-04-2024. The [IGVF](igvf.org) marker paper is published [online at Nature](https://www.nature.com/articles/s41586-024-07510-0) today! Our lab is one of the Data and Administrative Coordination Center. Congratulations!! NHGRI news: [Differences in our DNA have major influences on how our genomes function, but how?](https://www.genome.gov/news/news-release/differences-in-our-dna-have-major-influences-on-how-our-genomes-function-but-how)!
 
 09-02-2024. Josh, Nakul, Ju Heon and Holden's paper "Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells" is [online now at Nature Genetics](https://www.nature.com/articles/s41588-024-01880-x) today! Congratulations!!! Associated News & Views: [Activating the dark genome to illuminate cancer vaccine targets](https://www.nature.com/articles/s41588-024-01850-3).
