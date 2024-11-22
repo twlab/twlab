@@ -1,6 +1,6 @@
 ---
 title: 'Irene Wang'
-date: 2018-12-20T13:44:55+10:00
+date: 2021-10-20T13:44:55+10:00
 draft: false
 image: 'https://wang.wustl.edu/img/IreneLarge.jpg'
 jobtitle: 'WashU Undergraduate Student'

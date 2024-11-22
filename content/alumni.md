@@ -12,14 +12,14 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/IreneLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2021/10-2024/12 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Ana_Welge_resized.jpeg" width = "200px">}}| Ana Welge | Summer Student | 2024/6-2024/9 |St. Olaf College|
 |{{< figure src = "https://wang.wustl.edu/img/Anyi_Sun_resized.jpeg" width = "200px">}}| Anyi Sun | Summer Student | 2024/6-2024/9 |Bowdoin College|
 |{{< figure src = "https://wang.wustl.edu/img/Carlos_Saeh_resized.jpeg" width = "200px">}}| Carlos Saeh | Summer Student | 2018/12-2024/9 |UIUC|
 |{{< figure src = "https://wang.wustl.edu/img/Aiden_Qian_resized.jpg" width = "200px">}}| Aiden Qian | Summer Student | 2024/6-2024/9 |High school|
 |{{< figure src = "https://wang.wustl.edu/img/XuanLarge.jpg" width = "200px">}}| Xuan Qu | PhD | 2018/12-2024/6 |WashU MSTP|
 |{{< figure src = "https://wang.wustl.edu/img/YujieLarge.jpg" width = "200px">}}| Yujie Chen | PhD | 2018/12-2024/6 |AbbVie|
-|{{< figure src = "https://wang.wustl.edu/img/IreneLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2024/6-2024/5 |WashU|
-|{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}| Mary Shang | WashU Undergraduate Student | 2018/12-2024/5 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/MaryLarge.jpg" width = "200px">}}| Mary Shang | WashU Undergraduate Student | 2021/10-2024/5 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/HarshLarge.jpg" width = "200px">}}| Harsh Wadhwa | WashU Undergraduate Student | 2018/12-2024/5 |MIT|
 |{{< figure src = "https://wang.wustl.edu/img/Bruk_resized.jpg" width = "200px">}}| Bruktawit Amare | Rotation Student (CSE) | 2024/2-2024/3 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Evelyn_Yang_resized.jpg" width = "200px">}}| Evelyn Yang | Graduate Student (Computer Science) | 2023/11-2023/12 |WashU|
