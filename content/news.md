@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-26-2024. Ronghan Li joins our lab as a rotation student! Welcome, Ronghan!
+
 11-07-2024. News release: Researchers make glioblastoma cells visible to attacking immune cells. [WUSTL news](https://medicine.washu.edu/news/researchers-make-glioblastoma-cells-visible-to-attacking-immune-cells/).
 
 10-01-2024. Turan Tufan joins our lab as a postdoc. Welcome, Turan!
