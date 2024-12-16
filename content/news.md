@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+12-10-2024. Jiawei’s WashU Repeat Browser paper has been accepted by Genome Research. Congratulations!
+
+12-08-2024. Kara’s paper has been accepted in principle by Nature Communications. Congratulations!
+
 11-26-2024. Ronghan Li joins our lab as a rotation student! Welcome, Ronghan!
 
 11-07-2024. News release: Researchers make glioblastoma cells visible to attacking immune cells. [WUSTL news](https://medicine.washu.edu/news/researchers-make-glioblastoma-cells-visible-to-attacking-immune-cells/).
