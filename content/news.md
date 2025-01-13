@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+01-19-2025. Wenjin’s methylGrapher paper has been accepted by NAR! Congratulations!!!
+
+12-17-2024. Yuchen(Alana) Cheng joins our lab as a rotation student! Welcome, Yuchen(Alana)!
+
 12-10-2024. Jiawei’s WashU Repeat Browser paper has been accepted by Genome Research. Congratulations!
 
 12-08-2024. Kara’s paper has been accepted in principle by Nature Communications. Congratulations!
@@ -9,6 +13,8 @@ date: 2018-02-22T17:01:34+07:00
 11-26-2024. Ronghan Li joins our lab as a rotation student! Welcome, Ronghan!
 
 11-07-2024. News release: Researchers make glioblastoma cells visible to attacking immune cells. [WUSTL news](https://medicine.washu.edu/news/researchers-make-glioblastoma-cells-visible-to-attacking-immune-cells/).
+
+11-04-2024. Ivy’s scMultiomics zebrafish regeneration paper has been accepted by Genome Research. Congratulations Ivy, Yiran and all!
 
 10-01-2024. Turan Tufan joins our lab as a postdoc. Welcome, Turan!
 
@@ -21,6 +27,8 @@ date: 2018-02-22T17:01:34+07:00
 08-26-2024. Saifur Rahman joins our lab as a rotation student. Welcome, Saifur!
 
 08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome, Juan!
+
+08-08-2024. Mia Mo joins the lab as an undergraduate student. Welcome, Mia!
 
 08-01-2024. Zheng Dong joins our lab as a postdoc. Welcome, Zheng!
 
