@@ -5,6 +5,6 @@ draft: false
 image: 'https://wang.wustl.edu/img/Michelle_resize.jpg'
 jobtitle: 'Assistant to the Chair'
 promoted: true
-weight: 1.5
+weight: 2
 ---
 Email: gibbsm@wustl.edu
