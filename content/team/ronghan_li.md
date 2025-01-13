@@ -5,6 +5,6 @@ draft: false
 image: 'https://wang.wustl.edu/img/Ronghan_resized.jpg'
 jobtitle: 'Rotation Student (DBBS)'
 promoted: true
-weight: 79
+weight: 80
 ---
 Email: l.ronghan@wustl.edu
