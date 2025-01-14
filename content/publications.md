@@ -3,6 +3,16 @@ title: 'Publications'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+## **2025**
+
+--- 
+{{< badge src = 10.1101/gr.279372.124 >}}
+
+- [Common and specific gene regulatory programsin zebrafish caudal fin regeneration at single-cellresolution](https://doi.org/10.1101/gr.279372.124)\
+  Yujie Chen, Yiran Hou, Qinglin Zeng, Irene Wang, Meiru Shang, Kwangdeok Shin, Christopher Hemauer, Xiaoyun Xing, Junsu Kang, Guoyan Zhao and Ting Wang \
+  Genome Res. 2025.
+  
+
 ## **2024**  
 
 --- 
