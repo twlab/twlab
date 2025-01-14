@@ -12,6 +12,8 @@ Note: Description is on top of image.
 ## **Baby: Haylen Dong (董海邻), Mom: Yuman Gong**
 {{< gallery >}}
 {{< figure link="https://wang.wustl.edu/labbaby/Shihua_baby.png" caption="Baby: Haylen Dong (董海邻), Mom: Yuman Gong" >}}
+{{< figure link="https://wang.wustl.edu/labbaby/shihua_baby_2.png" caption="Baby: Haylen Dong (董海邻), Mom: Yuman Gong" >}}
+{{< figure link="https://wang.wustl.edu/labbaby/shihua_baby_3.png" caption="Baby: Haylen Dong (董海邻), Mom: Yuman Gong" >}}
 {{< /gallery >}}
 
 ## **Baby: Giann, Mom: Hyo**
