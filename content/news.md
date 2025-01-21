@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+01-14-2025. Tingkuan Chu joins our lab as a rotation student! Welcome, Tingkuan!
+
 01-14-2025. Ivy, Yiran and Qinglin's paper "Common and specific gene regulatory programs in zebrafish caudal fin regeneration at single-cell resolution" is online at [Genome Research](https://genome.cshlp.org/content/early/2025/01/03/gr.279372.124.abstract) today! Congratulations!!!
 
 01-09-2025. Wenjin’s methylGrapher paper has been accepted by NAR! Congratulations!!!
