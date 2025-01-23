@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+01-21-2025. NIH renews funding for the ambitious Human Pangenome Reference Sequencing Project, our lab and MGI continue to serve as the national coordinating center for the entire project and house one of the data production centers performing genomic sequencing. [News Release](https://medicine.washu.edu/news/14-million-supports-work-to-diversify-human-genome-research/)
+
 01-14-2025. Tingkuan Chu joins our lab as a rotation student! Welcome, Tingkuan!
 
 01-14-2025. Ivy, Yiran and Qinglin's paper "Common and specific gene regulatory programs in zebrafish caudal fin regeneration at single-cell resolution" is online at [Genome Research](https://genome.cshlp.org/content/early/2025/01/03/gr.279372.124.abstract) today! Congratulations!!!
