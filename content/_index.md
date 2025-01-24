@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 # meta_title: 'Wang Lab' can be used to overwrite title
-description: "Ting Wang Lab Website, Washington University in St. Louis, School of Medicine."
+description: "Ting Wang Lab Website, Washington University in St. Louis, WashU Medicine."
 intro_image: "image/outside_building.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
