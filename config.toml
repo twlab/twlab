@@ -1,6 +1,6 @@
 baseURL = "https://wang.wustl.edu"
 languageCode = "en-us"
-title = "Wang Lab :: Genetics, Washington University in St. Louis"
+title = "Wang Lab :: WashU Medicine Department of Genetics, Washington University in St. Louis"
 themesDir = "themes/"
 theme = "hugo-serif"
 
