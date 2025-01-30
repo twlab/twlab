@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1093/nar/gkaf028 >}}
+
+- [methylGrapher: genome-graph-based processing of DNA methylation data from whole genome bisulfite sequencing](https://doi.org/10.1093/nar/gkaf028)\
+  Wenjin Zhang, Juan F Macias-Velasco, Xiaoyu Zhuo, Edward A Belter, Jr, Chad Tomlinson, John Garza, Nina Tekkey, Daofeng Li, Ting Wang \
+  Nucleic Acids Research, Volume 53, Issue 3, 10 February 2025, gkaf028,
+  
 {{< badge src = 10.1101/gr.279372.124 >}}
 
 - [Common and specific gene regulatory programsin zebrafish caudal fin regeneration at single-cellresolution](https://doi.org/10.1101/gr.279372.124)\
@@ -56,7 +62,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [BAllC and BAllCools: Efficient formatting and operating for Single-Cell DNA methylation data](https://doi.org/10.1093/bioinformatics/btae404)\
   Wei Tian, Wubin Ding, Jiawei Shen, Daofeng Li, Ting Wang, Joseph R Ecker \
-  Bioinformatics, btae404 (2024)
+  Bioinformatics, Volume 40, Issue 7, July 2024, btae404,
   
 {{< badge src = 10.1038/s41467-024-48990-y >}}
 
