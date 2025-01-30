@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+01-30-2025. Fan’s paper on how tumor influences hematopoiesis has just been accepted by Journal of Immunology! Congratulations!!!
+
+01-27-2025. Wenjin's paper "methylGrapher: genome-graph-based processing of DNA methylation data from whole genome bisulfite sequencing" is online at [Nucleic Acids Research](https://academic.oup.com/nar/article/53/3/gkaf028/7983877) today! Congratulations!!!
+
 01-21-2025. NIH renews funding for the ambitious Human Pangenome Reference Sequencing Project, our lab and MGI continue to serve as the national coordinating center for the entire project and house one of the data production centers performing genomic sequencing. [News Release](https://medicine.washu.edu/news/14-million-supports-work-to-diversify-human-genome-research/)
 
 01-14-2025. Tingkuan Chu joins our lab as a rotation student! Welcome, Tingkuan!

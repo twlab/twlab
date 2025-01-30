@@ -1,7 +1,23 @@
 <div class='header'>
   <div class="container">
-    <div class="logo">
-      <a href="{{ .Site.BaseURL }}"><img height={{ .Site.Params.logo.desktop_height }} alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.desktop | relURL }}" /></a>
+    <style>
+      .logo-container {
+        display: flex;
+        align-items: center; /* Ensures vertical alignment */
+        gap: 10px; /* Adds space between the logos */
+      }
+
+      .logo-container a {
+        display: inline-block;
+      }
+    </style>
+    <div class="logo-container">
+      <a href="{{ .Site.BaseURL }}">
+        <img height="{{ .Site.Params.logo.desktop_height }}" alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.desktop | relURL }}" />
+      </a>
+      <a href="https://medicine.washu.edu/">
+        <img height="{{ .Site.Params.logo.desktop_height }}" src="/image/logo/WashU_medicine_logo_2025-no_background.png" alt="WashU Medicine Logo"/>
+      </a>
     </div>
     <div class="logo-mobile">
       <a href="{{ .Site.BaseURL }}"><img height={{ .Site.Params.logo.mobile_height }} alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.mobile | relURL }}" /></a>
@@ -13,3 +29,4 @@
     <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
   </div>
 </div>
+
