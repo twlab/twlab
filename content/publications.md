@@ -26,13 +26,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Deciphering the impact of genomic variation on function](https://doi.org/10.1038/s41586-024-07510-0)\
   IGVF Consortium \
-  Nature volume 633, pages47–57 (2024)
+  Nature volume 633, pages 47–57 (2024)
 
 {{< badge src = 10.1038/s41588-024-01880-x >}}
 
 - [Epigenetic therapy potentiates transposable element transcription to create tumor-enriched antigens in glioblastoma cells](https://doi.org/10.1038/s41588-024-01880-x)\
   H. Josh Jang, Nakul M. Shah, Ju Heon Maeng, Yonghao Liang, Noah L. Basri, Jiaxin Ge, Xuan Qu, Tatenda Mahlokozera, Shin-Cheng Tzeng, Russell B. Williams, Michael J. Moore, Devi Annamalai, Justin Y. Chen, Hyung Joo Lee, Patrick A. DeSouza, Daofeng Li, Xiaoyun Xing, Albert H. Kim & Ting Wang \
-  Nature Genetics (2024)
+  Nature Genetics volume 56, pages 1903–1913 (2024)
   
 {{< badge src = 10.1038/s41467-024-51921-6 >}}
 
@@ -44,13 +44,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Baf155 controls hematopoietic differentiation and regeneration through chromatin priming](https://doi.org/10.1016/j.celrep.2024.114558)\
   Jun Wu, Changxu Fan, Ashraf Ul Kabir, Karen Krchma, Minseo Kim, Yoojung Kwon, Xiaoyun Xing, Ting Wang, Kyunghee Choi \
-  Cell Reports (2024)
+  Volume 43, Issue 8, 27 August 2024, 114558
   
 {{< badge src = 10.1038/s41588-024-01824-5 >}}
 
 - News & Views: [LINE1 mediates long-range DNA interactions](https://doi.org/10.1038/s41588-024-01824-5)\
   Yonghao Liang, Ting Wang \
-  Nature Genetics (2024)
+  Nature Genetics volume 56, pages 1328–1330 (2024)
   
 {{< badge src = 10.1126/sciimmunol.adk4893 >}}
 
@@ -181,7 +181,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Pangenome graph construction from genome alignments with Minigraph-Cactus](https://www.nature.com/articles/s41587-023-01793-w)\
     Glenn Hickey, Jean Monlong, Jana Ebler, Adam M. Novak, Jordan M. Eizenga, Yan Gao, Human Pangenome Reference Consortium, Tobias Marschall, Heng Li & Benedict Paten  \
-    Nature Biotechnology (2023).
+  Nature Biotechnology volume 42, pages 663–673 (2024)
 
 
 {{< badge src = 10.1101/gr.277550.122 >}}
