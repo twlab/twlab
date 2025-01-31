@@ -7,7 +7,7 @@ layout: contact
 **Fax:** (314) 362-7855 or (314) 362-2156  
 
 ### **The Wang Lab is on the 5th floor of the Couch Biomedical Research Building.**
-**Washington University Department of Genetics**  
+**WashU Medicine Department of Genetics**  
 Mail Stop Code: 8510-41-5  
 Room 5213 and 5309, 4515 McKinley Avenue  
 St. Louis, MO 63110  
