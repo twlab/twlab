@@ -930,7 +930,7 @@ date: 2018-02-22T17:01:34+07:00
 
 {{< altmetric 101819555 >}} {{< plumx src = 10.1371%2Fjournal.pbio.1001046 >}} {{< dimensions src = 10.1371/journal.pbio.1001046 >}}
 
-- [A User's Guide to the Encyclopedia of DNA Elements (ENCODE).](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001046)\
+- [A User's Guide to the Encyclopedia of DNA Elements (ENCODE).](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001046)\
     The ENCODE Project Consortium. (2011)\
     PLoS Biol. 2011 Apr;9(4):e1001046.
 
