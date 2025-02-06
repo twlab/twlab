@@ -9,6 +9,11 @@ Note: Description is on top of image.
 
 {{< load-photoswipe >}}
 
+## **Baby: Ahana Shah, Dad: Nakul**
+{{< gallery >}}
+{{< figure link="https://wang.wustl.edu/labbaby/Ahana_1.png" caption="Baby: Ahana, Dad: Nakul" >}}
+{{< /gallery >}}
+
 ## **Baby: Haylen Dong (董海邻), Mom: Yuman Gong**
 {{< gallery >}}
 {{< figure link="https://wang.wustl.edu/labbaby/Shihua_baby.png" caption="Baby: Haylen Dong (董海邻), Mom: Yuman Gong" >}}
