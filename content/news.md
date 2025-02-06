@@ -2,9 +2,11 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-01-31-2025. Congrats to the successful defense of Fan!!!
+01-31-2025. Changxu Fan successfully defended his PhD thesis. Congratulations Dr. Fan! [Some pictures](/thesis-defenses/fan-defense/).
 
 01-31-2025. Wesley has won the Siteman Travel Award!!!
+
+01-30-2025. Turan won the 2025 Spencer T. and Ann W. Olin Fellow Award from WashU!!!
 
 01-30-2025. Fan’s paper on how tumor influences hematopoiesis has just been accepted by Journal of Immunology! Congratulations!!!
 
