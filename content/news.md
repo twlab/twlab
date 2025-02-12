@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+02-06-2025. Ting and other authors published an EDITORIAL article: [Editorial: Current insights in Epigenetics and Epigenomics](https://www.frontiersin.org/journals/epigenetics-and-epigenomics/articles/10.3389/freae.2025.1566501/full)
+
 01-31-2025. Changxu Fan successfully defended his PhD thesis. Congratulations Dr. Fan! [Some pictures](/thesis-defenses/fan-defense/).
 
 01-31-2025. Wesley has won the Siteman Travel Award!!!

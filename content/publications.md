@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.3389/freae.2025.1566501 >}}
+
+- [Editorial: Current insights in Epigenetics and Epigenomics](https://doi.org/10.3389/freae.2025.1566501)\
+  Steven Henikoff, Sharon Y. R. Dent, Raul Mostoslavsky, Ting Wang, Luca Comai \
+  Front. Epigenet. Epigenom., 06 February 2025, Sec. Chromatin Epigenomics, Volume 3 - 2025
+  
 {{< badge src = https://doi.org/10.1093/nar/gkaf028 >}}
 
 - [methylGrapher: genome-graph-based processing of DNA methylation data from whole genome bisulfite sequencing](https://doi.org/10.1093/nar/gkaf028)\
