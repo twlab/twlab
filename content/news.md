@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+02-13-2025. A collaboration with Theunissen Lab in the Department of Developmental Biology and Center of Regenerative Medicine in WashU, "Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution" is [online now at Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2025.102419) today! Congratulations!!! Jessica and Ting are co-authors. Congratulations!
+
 02-06-2025. Ting and other authors published an EDITORIAL article: [Editorial: Current insights in Epigenetics and Epigenomics](https://www.frontiersin.org/journals/epigenetics-and-epigenomics/articles/10.3389/freae.2025.1566501/full)
 
 01-31-2025. Changxu Fan successfully defended his PhD thesis. Congratulations Dr. Fan! [Some pictures](/thesis-defenses/fan-defense/).
