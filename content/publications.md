@@ -6,6 +6,13 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1016/j.stemcr.2025.102419 >}}
+
+- [Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution](https://https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(25)00023-2)\
+  Laura A. Fischer, Brittany Meyer, Monica Reyes, Joseph E. Zemke, Jessica K. Harrison, Kyoung-mi Park, Ting Wang, Harald Jüppner, Sabine Dietmann, Thorold W. Theunissen \
+  Stem Cell Reports, Volume 0, Issue 0, 102419
+
+
 {{< badge src = https://doi.org/10.3389/freae.2025.1566501 >}}
 
 - [Editorial: Current insights in Epigenetics and Epigenomics](https://doi.org/10.3389/freae.2025.1566501)\
