@@ -6,6 +6,18 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1038/s41467-025-56569-4 >}}
+
+- [Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser](https://doi.org/10.1101/gr.279764.124)\
+  Jiawei Shen, Siyuan Cheng, Deepak Purushotham, Xiaoyu Zhuo, Alan Y Du, Wenjin Zhang, Daofeng Li and Ting Wang \
+  Nature Communications volume 16, Article number: 1750 (2025)
+  
+{{< badge src = https://doi.org/10.1038/s41467-025-56569-4 >}}
+
+- [iPSCs and iPSC-derived cells as a model of human genetic and epigenetic variation](https://doi.org/10.1038/s41467-025-56569-4)\
+  Kara Quaid, Xiaoyun Xing, Yi-Hsien Chen, Yong Miao, Amber Neilson, Vijayalingam Selvamani, Aaron Tran, Xiaoxia Cui, Ming Hu & Ting Wang \
+  Nature Communications volume 16, Article number: 1750 (2025)
+  
 {{< badge src = https://doi.org/10.1016/j.stemcr.2025.102419 >}}
 
 - [Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution](https://https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(25)00023-2)\
