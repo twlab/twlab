@@ -2,7 +2,13 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-02-13-2025. A collaboration with Theunissen Lab in the Department of Developmental Biology and Center of Regenerative Medicine in WashU, "Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution" is [online now at Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2025.102419) today! Congratulations!!! Jessica and Ting are co-authors. Congratulations!
+02-14-2025. Yuelai(Eli) Wang joins our lab as a rotation student! Welcome, Yuelai(Eli)!
+
+02-24-2025. Jiawei's paper "Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser" is [online now at Genome Research](https://genome.cshlp.org/content/early/2025/02/21/gr.279764.124.abstract) today! Congratulations!!!
+
+02-18-2025. Kara’s paper on how tumor influencesis "iPSCs and iPSC-derived cells as a model of human genetic and epigenetic variation" is [online now at Nature Genetics](https://www.nature.com/articles/s41467-025-56569-4) today! Congratulations!!!
+
+02-13-2025. A collaboration with Theunissen Lab in the Department of Developmental Biology and Center of Regenerative Medicine in WashU, "Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution" is [online now at Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2025.102419) today! Jessica and Ting are co-authors. Congratulations!
 
 02-06-2025. Ting and other authors published an EDITORIAL article: [Editorial: Current insights in Epigenetics and Epigenomics](https://www.frontiersin.org/journals/epigenetics-and-epigenomics/articles/10.3389/freae.2025.1566501/full)
 
