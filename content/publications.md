@@ -10,7 +10,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser](https://doi.org/10.1101/gr.279764.124)\
   Jiawei Shen, Siyuan Cheng, Deepak Purushotham, Xiaoyu Zhuo, Alan Y Du, Wenjin Zhang, Daofeng Li and Ting Wang \
-  Nature Communications volume 16, Article number: 1750 (2025)
+  Genome Res. 2025.
   
 {{< badge src = https://doi.org/10.1038/s41467-025-56569-4 >}}
 
@@ -41,7 +41,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Common and specific gene regulatory programsin zebrafish caudal fin regeneration at single-cellresolution](https://doi.org/10.1101/gr.279372.124)\
   Yujie Chen, Yiran Hou, Qinglin Zeng, Irene Wang, Meiru Shang, Kwangdeok Shin, Christopher Hemauer, Xiaoyun Xing, Junsu Kang, Guoyan Zhao and Ting Wang \
-  Genome Res. 2025.
+  Genome Res. 2025. 35: 202-218
   
 
 ## **2024**  
