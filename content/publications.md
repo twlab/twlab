@@ -6,7 +6,7 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
-{{< badge src = https://doi.org/10.1038/s41467-025-56569-4 >}}
+{{< badge src = https://doi.org/10.1101/gr.279764.124 >}}
 
 - [Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser](https://doi.org/10.1101/gr.279764.124)\
   Jiawei Shen, Siyuan Cheng, Deepak Purushotham, Xiaoyu Zhuo, Alan Y Du, Wenjin Zhang, Daofeng Li and Ting Wang \
