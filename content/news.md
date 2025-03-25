@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+03-04-2025. Xiran Song joins our lab as a rotation student! Welcome, Xiran!
+
 02-25-2025. Yuelai(Eli) Wang joins our lab as a rotation student! Welcome, Yuelai(Eli)!
 
 02-24-2025. Jiawei's paper "Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser" is [online now at Genome Research](https://genome.cshlp.org/content/early/2025/02/21/gr.279764.124.abstract) today! Congratulations!!!
