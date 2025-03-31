@@ -6,6 +6,18 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1016/j.arcmed.2025.103210 >}}
+
+- [Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential](https://doi.org/10.1016/j.arcmed.2025.103210/)\
+  Pedro Caballero-Campo, Saúl Lira-Albarrán, Alexandra Amaral, Chibo Hong, Nakul Shah, Annaick Carles, Daofeng Li, David Barrera, Gabriela Hernández-Silva, Joao Ramalho-Santos, Ting Wang, Martin Hirst, Fernando Larrea, Joe Costello, Paolo Rinaudo, Mayel Chirinos \
+  Archives of Medical Research, Volume 56, Issue 5, July 2025, 103210
+
+{{< badge src = https://doi.org/10.1093/jimmun/vkaf026 >}}
+
+- [Transcriptional and chromatin accessibility landscapes of hematopoiesis in a mouse model of breast cancer](https://pubmed.ncbi.nlm.nih.gov/40152115/)\
+  Changxu Fan, Jun Wu, Derek A G Barisas, Xiaoyun Xing, Yoojung Kwon, Kyunghee Choi, Ting Wang \
+  J Immunol. 2025 Mar 27:vkaf026.
+  
 {{< badge src = https://doi.org/10.1101/gr.279764.124 >}}
 
 - [Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser](https://doi.org/10.1101/gr.279764.124)\
