@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+4-23-2025. The manuscript “WashU Epigenome Browser update 2025” has been officially accepted by Nucleic Acids Research! Congratulations!!!
+
 03-31-2025. A collaboration with the Departamento de Biología de la Reproducción Dr. Carlos Gual Castro, "Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential" is [online now at Archives of Medical Research](https://doi.org/10.1016/j.arcmed.2025.103210) today! Nakul, Daofeng, and Ting are co-authors. Congratulations!
 
 03-27-2025. Fan's paper "Transcriptional and chromatin accessibility landscapes of hematopoiesis in a mouse model of breast cancer" is [online now at The Journal of Immunology](https://pubmed.ncbi.nlm.nih.gov/40152115/) today! Congratulations!!!
