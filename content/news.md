@@ -2,7 +2,13 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-4-23-2025. The manuscript “WashU Epigenome Browser update 2025” has been officially accepted by Nucleic Acids Research! Congratulations!!!
+05-05-2025. Chad and Daofeng's paper "WashU Epigenome Browser update 2025" is [online now at Nucleic Acids Research](https://doi.org/10.1093/nar/gkac238) today! Congratulations!!!
+
+05-02-2025. Celine St. Pierre successfully defended her PhD thesis. Congratulations Dr. St. Pierre! [Some pictures](/thesis-defenses/celine-defense/).
+
+05-01-2025. Yonghao Liang (Holden) successfully defended his PhD thesis. Congratulations Dr. Liang! [Some pictures](/thesis-defenses/holden-defense/).
+
+04-23-2025. The manuscript “WashU Epigenome Browser update 2025” has been officially accepted by Nucleic Acids Research! Congratulations!!!
 
 03-31-2025. A collaboration with the Departamento de Biología de la Reproducción Dr. Carlos Gual Castro, "Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential" is [online now at Archives of Medical Research](https://doi.org/10.1016/j.arcmed.2025.103210) today! Nakul, Daofeng, and Ting are co-authors. Congratulations!
 

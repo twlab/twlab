@@ -12,6 +12,12 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/KaraLarge.jpg" width = "200px">}}| Kara Quaid | PhD (HSG) | 2018/12-2024/4 ||
+|{{< figure src = "https://wang.wustl.edu/img/Nina_resize.jpg" width = "200px">}}| Nina Tekkey | WashU undergrad | 2022/11-2025/4 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Yuchen_resized.jpg" width = "200px">}}| Yuchen(Alana) Cheng | Rotation Student (DBBS) | 2024/12-2025/4 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Aaron_Tran_resized.jpg" width = "200px">}}| Aaron Tran | WashU Undergraduate Student | 2023/10-2025/4 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Ronghan_resized.jpg" width = "200px">}}| Ronghan Li | Rotation Student (DBBS) | 2024/11-2025/3 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/xiran_song_resized.jpg" width = "200px">}}| Xiran Song | Rotation Student (CSE) | 2025/3-2025/4 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/IreneLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2021/10-2024/12 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Ana_Welge_resized.jpeg" width = "200px">}}| Ana Welge | Summer Student | 2024/6-2024/9 |St. Olaf College|
 |{{< figure src = "https://wang.wustl.edu/img/Anyi_Sun_resized.jpeg" width = "200px">}}| Anyi Sun | Summer Student | 2024/6-2024/9 |Bowdoin College|

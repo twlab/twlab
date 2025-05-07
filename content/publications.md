@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1093/nar/gkac238 >}}
+
+- [WashU Epigenome Browser update 2025](https://doi.org/10.1093/nar/gkaf387)\
+  Chanrung Seng, Shane Liu, Wenjin Zhang, Xiaoyu Zhuo, Daofeng Li, Ting Wang \
+  Nucleic Acids Research, gkaf387,
+
 {{< badge src = https://doi.org/10.1016/j.arcmed.2025.103210 >}}
 
 - [Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential](https://doi.org/10.1016/j.arcmed.2025.103210/)\
