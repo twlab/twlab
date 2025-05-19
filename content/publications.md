@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1101/gr.279398.124 >}}
+
+- [Charting the regulatory landscape of TP53 on transposable elements in cancer](https://doi.org/10.1101/gr.279398.124)\
+  Xuan Qu, Yonghao Liang, Colin McCornack, Xiaoyun Xing, Heather Schmidt, Chad Tomlinson, Catrina Fronick, Edward A. Belter Jr., Juan F. Macias-Velasco and Ting Wang \
+  Genome Res. 2025.
+  
 {{< badge src = https://doi.org/10.1093/nar/gkaf387 >}}
 
 - [WashU Epigenome Browser update 2025](https://doi.org/10.1093/nar/gkaf387)\
