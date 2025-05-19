@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+05-07-2025. Art illustration by Qinglin to highlight Xuan’s p53 paper has been selected to be the Cover of Genome Research, June issue!!!
+
 05-05-2025. Chad and Shane's paper "WashU Epigenome Browser update 2025" is [online now at Nucleic Acids Research](https://doi.org/10.1093/nar/gkac238) today! Congratulations!!!
 
 05-02-2025. Celine St. Pierre successfully defended her PhD thesis. Congratulations Dr. St. Pierre! [Some pictures](/thesis-defenses/celine-defense/).
