@@ -1,4 +1,4 @@
-{{- if and (isset hugo "IsServer") (not hugo.IsServer) hugo.IsProduction -}}
+{{ if hugo.IsProduction }}
 {{ with getenv "HUGO_GTM_ID" | default .Site.Params.google_tag_manager_id }}
 <!-- Google Tag Manager -->
 <script>
@@ -15,4 +15,4 @@
 </script>
 <!-- End Google Tag Manager -->
 {{ end }}
-{{- end }}
+{{ end }}
