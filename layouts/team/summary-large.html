@@ -14,9 +14,14 @@
         <h2 class="team-name">{{ .Title }}</h2>
         <p class="team-description">{{ .Params.Jobtitle }}</p>
         {{ if .Params.orcid }}
-        <a target="_blank" rel="noreferrer" href="https://orcid.org/{{ .Params.orcid }}">ORCiD</a> {{ end }} {{ if
-        .Params.Twitterhandle }}
-        <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
+        <a target="_blank" rel="noreferrer" href="https://orcid.org/{{ .Params.orcid }}">ORCiD</a>
+        {{ end }}
+        {{ if .Params.Twitterhandle }}
+        <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a>
+        {{ end }}
+        {{ if .Params.BlueSky }}
+        <a target="_blank" rel="noreferrer" href="https://bsky.app/profile/{{ .Params.BlueSky }}">BlueSky</a>
+        {{ end }}
     </div>
     <div class="team-content">
         {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}
