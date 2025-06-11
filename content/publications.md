@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1093/bib/bbaf252 >}}
+
+- [Simulation-guided pan-cancer analysis identifies a novel regulator of CpG island hypermethylation heterogeneity](https://doi.org/10.1093/bib/bbaf252)\
+  Xianglin Zhang, Wei Zhang, Jinyi Zhang, Xiuhong Lyu, Haoran Pan, Tianwei Jia, Ting Wang, Xiaowo Wang, Haiyang Guo\
+  Briefings in Bioinformatics, Volume 26, Issue 3, May 2025, bbaf252
+  
 {{< badge src = https://doi.org/10.1101/gr.279398.124 >}}
 
 - [Charting the regulatory landscape of TP53 on transposable elements in cancer](https://doi.org/10.1101/gr.279398.124)\
