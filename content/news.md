@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+06-24-2025. Congratulations on Wesley's fellowship on The Jane Coffin Childs Memorial Fund for Medical Research (Jane Coffin Childs Fund/JCC Fund)! News: [link](https://www.jccfund.org/blog/the-jane-coffin-childs-fund-for-medical-research-names-its-2025-fellows/).
+
 06-24-2025. Welcome Ronghan and Sarfur back to our lab!
 
 06-10-2025. Lucy Chen joins our lab for summer study. Welcome Lucy!
