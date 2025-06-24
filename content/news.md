@@ -2,6 +2,16 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+06-24-2025. Welcome Ronghan and Sarfur back to our lab!
+
+06-10-2025. Lucy Chen joins our lab for summer study. Welcome Lucy!
+
+06-06-2025. Steven Li joins our lab for summer study. Welcome Steven!
+
+05-29-2025. Jeremy Schreiner joins our lab for summer study. Welcome Jeremy!
+
+05-22-2025. Theo Berenson joins our lab for summer study. Welcome Theo!
+
 05-13-2025. Xuan's paper "Charting the regulatory landscape of TP53 on transposable elements in cancer" is [online now at Genome Research](https://genome.cshlp.org/content/early/2025/05/13/gr.279398.124.abstract) today! Congratulations!!!
 
 05-07-2025. Art illustration by Qinglin to highlight Xuan’s p53 paper has been selected to be the Cover of Genome Research, June issue!!!
