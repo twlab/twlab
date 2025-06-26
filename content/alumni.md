@@ -12,6 +12,10 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/ChangxuLarge.jpg" width = "200px">}}| Changxu Fan | PhD (Immunology) | 2018/12-2024/5 |WashU, Department of Pathology & Immunology|
+|{{< figure src = "https://wang.wustl.edu/img/KaraLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2018/12-2024/4 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/KaraLarge.jpg" width = "200px">}}| Tingkuan Chu | Rotation Student (MGG) | 2025/01-2025/5 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/KaraLarge.jpg" width = "200px">}}| Yuelai(Eli) Wang | Rotation Student (CSB) | 2025/02-2024/5 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/KaraLarge.jpg" width = "200px">}}| Kara Quaid | PhD (HSG) | 2018/12-2024/4 ||
 |{{< figure src = "https://wang.wustl.edu/img/Nina_resize.jpg" width = "200px">}}| Nina Tekkey | WashU undergrad | 2022/11-2025/4 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Yuchen_resized.jpg" width = "200px">}}| Yuchen(Alana) Cheng | Rotation Student (DBBS) | 2024/12-2025/4 |WashU|

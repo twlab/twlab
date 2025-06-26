@@ -8,7 +8,7 @@ date: 2018-02-22T17:01:34+07:00
 
 06-10-2025. Lucy Chen joins our lab for summer study. Welcome Lucy!
 
-06-06-2025. Steven Li joins our lab for summer study. Welcome Steven!
+06-06-2025. Steven Li and Katie Gu join our lab for summer study. Welcome Steven and Katie!
 
 05-29-2025. Jeremy Schreiner joins our lab for summer study. Welcome Jeremy!
 
