@@ -5,6 +5,6 @@ draft: false
 image: 'https://wang.wustl.edu/img/Lucy_Chen_resized.jpg'
 jobtitle: 'Summer Student'
 promoted: true
-weight: 87
+weight: 88
 ---
 Email: lucy.c@wustl.edu
