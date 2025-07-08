@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-02-2025. "The Somatic Mosaicism across Human Tissues Network" maker paper is [online at Nature today](https://www.nature.com/articles/s41586-025-09096-7)! Congratulations!!! Our lab and MGI are leading the Organizational Center and one of the file Genome Characterization Centers. The link to [the Somatic Mosaicism across Human Tissues Network](https://smaht.org/).
+
 06-24-2025. Congratulations on Wesley's fellowship on The Jane Coffin Childs Memorial Fund for Medical Research (Jane Coffin Childs Fund/JCC Fund)! News: [link](https://www.jccfund.org/blog/the-jane-coffin-childs-fund-for-medical-research-names-its-2025-fellows/).
 
 06-24-2025. Welcome Ronghan and Sarfur back to our lab!
