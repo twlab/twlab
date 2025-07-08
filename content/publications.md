@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://www.nature.com/articles/s41586-025-09096-7 >}}
+
+- [The Somatic Mosaicism across Human Tissues Network](https://doi.org/10.1038/s41586-025-09096-7)\
+  Tim H. H. Coorens, Ji Won Oh, Yujin Angelina Choi, Nam Seop Lim, Boxun Zhao, Adam Voshall, Alexej Abyzov, Lucinda Antonacci-Fulton, Samuel Aparicio, Kristin G. Ardlie, Thomas J. Bell, James T. Bennett, Bradley E. Bernstein, Thomas G. Blanchard, Alan P. Boyle, Jason D. Buenrostro, Kathleen H. Burns, Fei Chen, Rui Chen, Sangita Choudhury, Harsha V. Doddapaneni, Evan E. Eichler, Gilad D. Evrony, Melissa A. Faith, Thomas G. Fazzio, Robert S. Fulton, Manuel Garber, Nils Gehlenborg, Soren Germer, Gad Getz, Richard A. Gibbs, Raquel G. Hernandez, Fulai Jin, Jan O. Korbel, Dan A. Landau, Heather A. Lawson, Niall J. Lennon, Heng Li, Yan Li, Po-Ru Loh, Gabor Marth, Michael J. McConnell, Ryan E. Mills, Stephen B. Montgomery, Pradeep Natarajan, Peter J. Park, Rahul Satija, Fritz J. Sedlazeck, Diane D. Shao, Hui Shen, Andrew B. Stergachis, Hunter R. Underhill, Alexander E. Urban, Melissa W. VonDran, Christopher A. Walsh, Ting Wang, Tao P. Wu, Chenghang Zong, Eunjung Alice Lee, Flora M. Vaccarino & The Somatic Mosaicism across Human Tissues Network\
+  Nature volume 643, pages47–59 (2025)
+  
 {{< badge src = https://doi.org/10.1093/bib/bbaf252 >}}
 
 - [Simulation-guided pan-cancer analysis identifies a novel regulator of CpG island hypermethylation heterogeneity](https://doi.org/10.1093/bib/bbaf252)\
