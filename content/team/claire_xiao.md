@@ -2,7 +2,7 @@
 title: 'Claire Xiao'
 date: 2025-07-08
 draft: false
-image: 'https://wang.wustl.edu/img/Claire_Xiao_resized.jpg'
+image: 'https://wang.wustl.edu/img/Claire_Xiao_resized.jpeg'
 jobtitle: 'Summer Student'
 promoted: true
 weight: 90
