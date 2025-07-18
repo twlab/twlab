@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-12-2025. 2025 annual summer party!! Congrats to Holden, Celine, and Fam on their successful defenses! Congratulations also to Shihua on the birth of a new baby, Aparna on her engagement, and Zilan on his admission! [Some pictures](/annual-party/party-2025/). Thanks Aparna and everyone for organizing it!!
+
 07-08-2025. Claired Xiao joins our lab for summer study. Welcome Claire!
 
 07-02-2025. "The Somatic Mosaicism across Human Tissues Network" maker paper is [online at Nature today](https://www.nature.com/articles/s41586-025-09096-7)! Congratulations!!! Our lab and MGI are leading the Organizational Center and one of the file Genome Characterization Centers. The link to [the Somatic Mosaicism across Human Tissues Network](https://smaht.org/).
