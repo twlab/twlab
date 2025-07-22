@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1016/j.stem.2025.06.010 >}}
+
+- [Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity](https://doi.org/10.1016/j.stem.2025.06.010)\
+  Infencia Xavier Raj, Won Kyun Koh, Jessica Harrison, Christine R. Zhang, arbara Soares, Roberta Amato, Aishwarya Krishnan, David R. O’Leary, Hassan Bjeije, Tyler M. Parsons, Wentao Han, Andrew L. Young, Ting Wang, Luis F.Z. Batista, Grant A. Challen\
+  Cell Stem Cell 2025
+  
 {{< badge src = https://www.nature.com/articles/s41586-025-09096-7 >}}
 
 - [The Somatic Mosaicism across Human Tissues Network](https://doi.org/10.1038/s41586-025-09096-7)\

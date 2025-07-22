@@ -2,9 +2,11 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-17-2025. A collaboration with the Division of Oncology, "Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity" is [online now at Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00256-5) today! Jessica and Ting are co-authors. Congratulations!
+
 07-12-2025. 2025 annual summer party!! Congrats to Holden, Celine, and Fam on their successful defenses! Congratulations also to Shihua on the birth of a new baby, Aparna on her engagement, and Zilan on his admission! [Some pictures](/annual-party/party-2025/). Thanks Aparna and everyone for organizing it!!
 
-07-08-2025. Claired Xiao joins our lab for summer study. Welcome Claire!
+07-08-2025. Claired Xiao joins our lab for summer study. Welcome Claired!
 
 07-02-2025. "The Somatic Mosaicism across Human Tissues Network" maker paper is [online at Nature today](https://www.nature.com/articles/s41586-025-09096-7)! Congratulations!!! Our lab and MGI are leading the Organizational Center and one of the file Genome Characterization Centers. The link to [the Somatic Mosaicism across Human Tissues Network](https://smaht.org/).
 
@@ -32,7 +34,7 @@ date: 2018-02-22T17:01:34+07:00
 
 04-23-2025. The manuscript “WashU Epigenome Browser update 2025” has been officially accepted by Nucleic Acids Research! Congratulations!!!
 
-03-31-2025. A collaboration with the Departamento de Biología de la Reproducción Dr. Carlos Gual Castro, "Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential" is [online now at Archives of Medical Research](https://doi.org/10.1016/j.arcmed.2025.103210) today! Nakul, Daofeng, and Ting are co-authors. Congratulations!
+03-31-2025. A collaboration with the Departament to de Biología de la Reproducción Dr. Carlos Gual Castro, "Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential" is [online now at Archives of Medical Research](https://doi.org/10.1016/j.arcmed.2025.103210) today! Nakul, Daofeng, and Ting are co-authors. Congratulations!
 
 03-27-2025. Fan's paper "Transcriptional and chromatin accessibility landscapes of hematopoiesis in a mouse model of breast cancer" is [online now at The Journal of Immunology](https://pubmed.ncbi.nlm.nih.gov/40152115/) today! Congratulations!!!
 
@@ -44,7 +46,7 @@ date: 2018-02-22T17:01:34+07:00
 
 02-18-2025. Kara’s paper on how tumor influencesis "iPSCs and iPSC-derived cells as a model of human genetic and epigenetic variation" is [online now at Nature Communications](https://www.nature.com/articles/s41467-025-56569-4) today! Congratulations!!!
 
-02-13-2025. A collaboration with Theunissen Lab in the Department of Developmental Biology and Center of Regenerative Medicine in WashU, "Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution" is [online now at Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2025.102419) today! Jessica and Ting are co-authors. Congratulations!
+02-13-2025. A collaboration with The unissen Lab in the Department of Developmental Biology and Center of Regenerative Medicine in WashU, "Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution" is [online now at Stem Cell Reports](https://doi.org/10.1016/j.stemcr.2025.102419) today! Jessica and Ting are co-authors. Congratulations!
 
 02-06-2025. Ting and other authors published an EDITORIAL article: [Editorial: Current insights in Epigenetics and Epigenomics](https://www.frontiersin.org/journals/epigenetics-and-epigenomics/articles/10.3389/freae.2025.1566501/full)
 
