@@ -22,7 +22,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Charting the regulatory landscape of TP53 on transposable elements in cancer](https://doi.org/10.1101/gr.279398.124)\
   Xuan Qu, Yonghao Liang, Colin McCornack, Xiaoyun Xing, Heather Schmidt, Chad Tomlinson, Catrina Fronick, Edward A. Belter Jr., Juan F. Macias-Velasco and Ting Wang \
-  Genome Res. 2025.
+  Genome Res. 2025. 35: 1456-1471
   
 {{< badge src = https://doi.org/10.1093/nar/gkaf387 >}}
 
@@ -32,7 +32,7 @@ date: 2018-02-22T17:01:34+07:00
 
 {{< badge src = https://doi.org/10.1016/j.arcmed.2025.103210 >}}
 
-- [Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential](https://doi.org/10.1016/j.arcmed.2025.103210/)\
+- [Integrative Molecular and Functional Analysis of Human Sperm Subpopulations to Identify New Biomarkers of Fertilization Potential](https://doi.org/10.1016/j.arcmed.2025.103210)\
   Pedro Caballero-Campo, Saúl Lira-Albarrán, Alexandra Amaral, Chibo Hong, Nakul Shah, Annaick Carles, Daofeng Li, David Barrera, Gabriela Hernández-Silva, Joao Ramalho-Santos, Ting Wang, Martin Hirst, Fernando Larrea, Joe Costello, Paolo Rinaudo, Mayel Chirinos \
   Archives of Medical Research, Volume 56, Issue 5, July 2025, 103210
 
@@ -46,7 +46,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Exploring the epigenome profiles of repetitive elements with the WashU Repeat Browser](https://doi.org/10.1101/gr.279764.124)\
   Jiawei Shen, Siyuan Cheng, Deepak Purushotham, Xiaoyu Zhuo, Alan Y Du, Wenjin Zhang, Daofeng Li and Ting Wang \
-  Genome Res. 2025.
+  Genome Res. 2025. gr.279764.124
   
 {{< badge src = https://doi.org/10.1038/s41467-025-56569-4 >}}
 
