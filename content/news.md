@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-13-2025. Sophia Arana joins our lab as a rotation student! Welcome, Sophia!
+
 07-17-2025. A collaboration with the Division of Oncology, "Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity" is [online now at Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00256-5) today! Jessica and Ting are co-authors. Congratulations!
 
 07-12-2025. 2025 annual summer party!! Congrats to Holden, Celine, and Fan on their successful defenses! Congratulations also to Shihua on the birth of a new baby, Aparna on her engagement, and Zilan on his admission! [Some pictures](/annual-party/party-2025/). Thanks Aparna and everyone for organizing it!!
