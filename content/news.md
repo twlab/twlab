@@ -2,6 +2,12 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+09-11-2025. Mitchell and Wesley’s review article, “Unmasked: transposable elements as drivers and targets in cancer” is [online now at Trends in Genetics](https://www.sciencedirect.com/science/article/pii/S0168952525001994) today! Congratulations!
+
+08-16-2025. 8th lab float trip. [Some pictures](/float-trips/float-trip-2025/).
+
+08-14-2025. Mitchell and Wesley’s review article, “Unmasked: transposable elements as drivers and targets in cancer” has been accepted for publication in Trends in Genetics. Congratulations!!!
+
 07-13-2025. Sophia Arana joins our lab as a rotation student! Welcome, Sophia!
 
 07-17-2025. A collaboration with the Division of Oncology, "Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity" is [online now at Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00256-5) today! Jessica and Ting are co-authors. Congratulations!
@@ -93,6 +99,8 @@ date: 2018-02-22T17:01:34+07:00
 08-26-2024. Saifur Rahman joins our lab as a rotation student. Welcome, Saifur!
 
 08-19-2024. Juan Jiang joins our lab as a postdoc. Welcome, Juan!
+
+08-19-2024. 7th lab float trip. [Some pictures](/float-trips/float-trip-2024/).
 
 08-08-2024. Mia Mo joins the lab as an undergraduate student. Welcome, Mia!
 
