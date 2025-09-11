@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1016/j.tig.2025.08.002 >}}
+
+- [Unmasked: transposable elements as drivers and targets in cancer](https://doi.org/10.1016/j.tig.2025.08.002)\
+  Mitchell F. Grinwald, Wesley N. Saintilnord, Ting Wang \
+  Trends in Genetics 2025
+  
 {{< badge src = https://doi.org/10.1016/j.stem.2025.06.010 >}}
 
 - [Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity](https://doi.org/10.1016/j.stem.2025.06.010)\
