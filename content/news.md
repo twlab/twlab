@@ -8,6 +8,8 @@ date: 2018-02-22T17:01:34+07:00
 
 08-14-2025. Mitchell and Wesley’s review article, “Unmasked: transposable elements as drivers and targets in cancer” has been accepted for publication in Trends in Genetics. Congratulations!!!
 
+08-01-2025. Ju-Fang Chang joins our lab as a Assistant Professor of Genetics! Welcone, Ju-Fang!
+
 07-13-2025. Sophia Arana joins our lab as a rotation student! Welcome, Sophia!
 
 07-17-2025. A collaboration with the Division of Oncology, "Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity" is [online now at Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(25)00256-5) today! Jessica and Ting are co-authors. Congratulations!
