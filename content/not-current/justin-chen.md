@@ -1,10 +1,10 @@
 ---
 title: 'Justin Chen'
-date: 2022-12-13
+date: 2023-07-11
 draft: false
 image: 'https://wang.wustl.edu/img/JustinLarge.jpg'
-jobtitle: 'Rotation Student (CSB)'
+jobtitle: 'Master Student (CSB)'
 promoted: true
-weight: 43
+weight: 52
 ---
 Email: c.justinchen@wustl.edu

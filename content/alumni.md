@@ -12,6 +12,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/JustinLarge.jpg" width = "200px">}}| Justin Chen | WashU Master Student (CSB) | 2023/07-2025/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/ChangxuLarge.jpg" width = "200px">}}| Changxu Fan | PhD (Immunology) | 2018/12-2024/5 |WashU, Department of Pathology & Immunology|
 |{{< figure src = "https://wang.wustl.edu/img/IreneLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2018/12-2024/4 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Tingkuan_resized.jpg" width = "200px">}}| Tingkuan Chu | Rotation Student (MGG) | 2025/01-2025/5 |WashU|
