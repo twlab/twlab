@@ -2,6 +2,12 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+12-07-2025. A collaboration with the Taylor Family Department of Neurosurgery, "INSM1 governs a neuronal progenitor state that drives glioblastoma in a human stem cell model" is [online now at Nature Communications](https://www.nature.com/articles/s41467-025-66371-x) today! Xuan, Colin and Ting are co-authors. Congratulations!
+
+12-02-2025. Anouka Saha joins our lab as a rotation student! Welcome, Anouka!
+
+10-28-2025. Hao Jin joins our lab as a rotation student! Welcome, Hao!
+
 09-11-2025. Mitchell and Wesley’s review article, “Unmasked: transposable elements as drivers and targets in cancer” is [online now at Trends in Genetics](https://www.sciencedirect.com/science/article/pii/S0168952525001994) today! Congratulations!
 
 08-16-2025. 8th lab float trip. [Some pictures](/float-trips/float-trip-2025/).
