@@ -6,6 +6,13 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 --- 
+{{< badge src = https://doi.org/10.1093/nar/gkaf1341 >}}
+
+- [The IGVF catalog—from genetic variation to function](https://doi.org/10.1093/nar/gkaf1341)\
+  Daofeng Li , Shane Liu , Pedro R Assis , Mingjie Li , Shengcheng Dong , Ian Whaling , Otto Jolanki , Meenakshi Kagda , Wenjin Zhang , Juan F Macias-Velasco , Tianjie Liu , Sarah Cody , Lucinda Antonacci-Fulton , Yuanhao Huang , Jie Liu , Michael T Montgomery , Daniel Zeiberg , Shantanu Jain , Vikas Pejaver , Timothy Bergquist , Yile Chen , Predrag Radivojac , Charles A Gersbach , Rintsen N Sherpa , Christopher P Castro , Alan P Boyle , Lea M Starita , Douglas M Fowler , Nadav Ahituv , Kushal K Dey , William H Majoros , Timothy E Reddy , Mark Craven , Riya Sinha , Yuriy Sverchkov , Xiangmeng Cai , Mpathi Z Nzima , Michael A Calderwood , Joel Rozowsky , Mark Gerstein , Jian Ma , Feng Yue , J Michael Cherry , Michael I Love , Jesse M Engreitz , Benjamin C Hitz , Ting Wang \
+  Nucleic Acids Research, gkaf1341, 2025
+  
+
 {{< badge src = https://doi.org/10.1016/j.tig.2025.08.002 >}}
 
 - [Unmasked: transposable elements as drivers and targets in cancer](https://doi.org/10.1016/j.tig.2025.08.002)\
