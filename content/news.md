@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+12-17-2025. The 4DN flagship paper "An integrated view of the structure and function of the human 4D nucleome" is [online at Nature](https://www.nature.com/articles/s41586-025-09890-3). Ting and Daofeng are co-authors. Congratulations!
+
+12-16-2025. The lab dinner is tonight! Happy Holiday!
+
 12-08-2025. The IGVF Catalog paper "The IGVF catalog—from genetic variation to function" is [online at Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1341/8373948). Our lab is one of the two DACCs of the IGVF Consortium to develop the frontend of the Catalog. Congratulations!
 
 12-07-2025. A collaboration with the Taylor Family Department of Neurosurgery, "INSM1 governs a neuronal progenitor state that drives glioblastoma in a human stem cell model" is [online now at Nature Communications](https://www.nature.com/articles/s41467-025-66371-x) today! Xuan, Colin and Ting are co-authors. Congratulations!
