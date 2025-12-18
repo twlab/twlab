@@ -5,7 +5,13 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2025**
 
---- 
+---
+{{< badge src = https://doi.org/10.1038/s41586-025-09890-3 >}}
+
+- [An integrated view of the structure and function of the human 4D nucleome](https://doi.org/10.1038/s41586-025-09890-3)\
+  Job Dekker, Betul Akgol Oksuz, Yang Zhang, Ye Wang, Miriam K. Minsk, Shuzhen Kuang, Liyan Yang, Johan H. Gibcus, Nils Krietenstein, Oliver J. Rando, Jie Xu, Derek H. Janssens, Steven Henikoff, Alexander Kukalev, Willemin Andréa, Warren Winick-Ng, Rieke Kempfer, Ana Pombo, Miao Yu, Pradeep Kumar, Liguo Zhang, Andrew S. Belmont, Takayo Sasaki, Tom van Schaik, Laura Brueckner, Daan Peric-Hupkes, Bas van Steensel, Ping Wang, Haoxi Chai, Minji Kim, Yijun Ruan, Ran Zhang, Sofia A. Quinodoz, Prashant Bhat, Mitchell Guttman, Wenxin Zhao, Shu Chien, Yuan Liu, Sergey V. Venev, Dariusz Plewczynski, Ibai Irastorza Azcarate, Dominik Szabó, Christoph J. Thieme, Teresa Szczepińska, Mateusz Chiliński, Kaustav Sengupta, Mattia Conte, Andrea Esposito, Alex Abraham, Ruochi Zhang, Yuchuan Wang, Xingzhao Wen, Qiuyang Wu, Yang Yang, Jie Liu, Lorenzo Boninsegna, Asli Yildirim, Yuxiang Zhan, Andrea Maria Chiariello, Simona Bianco, Lindsay Lee, Ming Hu, Yun Li, R. Jordan Barnett, Ashley L. Cook, Daniel J. Emerson, Claire Marchal, Peiyao Zhao, Peter J. Park, Burak H. Alver, Andrew J. Schroeder, Rahi Navelkar, Clara Bakker, William Ronchetti, Shannon Ehmsen, Alexander D. Veit, Nils Gehlenborg, Ting Wang, Daofeng Li, Xiaotao Wang, Mario Nicodemi, Bing Ren, Sheng Zhong, Jennifer E. Phillips-Cremins, David M. Gilbert, Katherine S. Pollard, Frank Alber, Jian Ma, William S. Noble & Feng Yue \
+  Nature, 2025
+  
 {{< badge src = https://doi.org/10.1093/nar/gkaf1341 >}}
 
 - [The IGVF catalog—from genetic variation to function](https://doi.org/10.1093/nar/gkaf1341)\
