@@ -6,6 +6,12 @@ date: 2018-02-22T17:01:34+07:00
 ## **2025**
 
 ---
+{{< badge src = https://doi.org/10.1016/j.celrep.2025.116733 >}}
+
+- [Distinct contributions of Etv2+ and Flk1+ progenitors to endothelial, hematopoietic, and cardiac lineages](https://doi.org/10.1016/j.celrep.2025.116733)\
+  Dereck Alleyne, Minseo Kim, Jun Wu, Yoojung Kwon, Ye-Ram Kim, Ashraf Ul Kabir, Matthew Ishahak, Jeffrey R Millman, Changxu Fan, Hyung Joo Lee, Karen Krchma, Xiaoyun Xing, Kory Lavine, Ting Wang, Kyunghee Choi \
+  Cell Rep. 2025 Dec 18;45(1)
+  
 {{< badge src = https://doi.org/10.1038/s41586-025-09890-3 >}}
 
 - [An integrated view of the structure and function of the human 4D nucleome](https://doi.org/10.1038/s41586-025-09890-3)\

@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+12-18-2025. The paper "Distinct contributions of Etv2+ and Flk1+ progenitors to endothelial, hematopoietic, and cardiac lineages" is [online at Cell Reports](https://doi.org/10.1016/j.celrep.2025.116733). Fan, Xiaoyun, and Ting are co-authors. Congratulations!
+
 12-17-2025. The 4DN flagship paper "An integrated view of the structure and function of the human 4D nucleome" is [online at Nature](https://www.nature.com/articles/s41586-025-09890-3). Ting and Daofeng are co-authors. Congratulations!
 
 12-16-2025. The lab dinner is tonight! Happy Holiday!  [Some pictures](/christmas-dinner/dinner-2025/).
