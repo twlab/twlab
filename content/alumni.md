@@ -12,6 +12,17 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Zilan_resize.jpg" width = "200px">}}| Zilan Xin | Summer Student| 2022/09-2025/09 |UCSC Ph.D.|
+|{{< figure src = "https://wang.wustl.edu/img/Sophia_Arana_resized.jpg" width = "200px">}}| Sophia Arana | Summer Student| 2025/07-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Claire_Xiao_resized.jpeg" width = "200px">}}| Claire Xiao | Summer Student| 2025/07-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Lucy_Chen_resized.jpg" width = "200px">}}| Lucy Chen | Summer Student| 2025/06-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Katie_Gu_resized.jpg" width = "200px">}}| Katie Gu | Summer Student| 2025/06-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Jeremy_Schreiner_resized.jpg" width = "200px">}}| Jeremy Schreiner | Summer Student| 2025/05-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Steven_Li_resized.jpg" width = "200px">}}| Steven Li | Summer Student| 2025/06-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Theo_Berenson_resized.jpg" width = "200px">}}| Theo Berenson | Summer Student| 2025/05-2025/08 ||
+|{{< figure src = "https://wang.wustl.edu/img/Mia_resized.jpg" width = "200px">}}| Mia Mo | WashU Undergraduate Student| 2024/08-2025/10 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/ZhengXu_resize.jpg" width = "200px">}}| Zheng Xu | WashU Master Student| 2023/10-2025/10 ||
+|{{< figure src = "https://wang.wustl.edu/img/Elle_Mehinovic_resized.jpg" width = "200px">}}| Elle Mehinovic | WashU Master Student| 2023/10-2025/10 ||
 |{{< figure src = "https://wang.wustl.edu/img/JustinLarge.jpg" width = "200px">}}| Justin Chen | WashU Master Student (CSB) | 2023/07-2025/11 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/ChangxuLarge.jpg" width = "200px">}}| Changxu Fan | PhD (Immunology) | 2018/12-2024/5 |WashU, Department of Pathology & Immunology|
 |{{< figure src = "https://wang.wustl.edu/img/IreneLarge.jpg" width = "200px">}}| Irene Wang | WashU Undergraduate Student | 2018/12-2024/4 |WashU|
