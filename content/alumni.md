@@ -12,7 +12,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
-|{{< figure src = "https://wang.wustl.edu/img/Zilan_resize.jpg" width = "200px">}}| Zilan Xin | Summer Student| 2022/09-2025/09 |UCSC Ph.D.|
+|{{< figure src = "https://wang.wustl.edu/img/Zilan_resize.jpg" width = "200px">}}| Zilan Xin | Research Assistant| 2022/09-2025/09 |UCSC Ph.D.|
 |{{< figure src = "https://wang.wustl.edu/img/Sophia_Arana_resized.jpg" width = "200px">}}| Sophia Arana | Summer Student| 2025/07-2025/08 ||
 |{{< figure src = "https://wang.wustl.edu/img/Claire_Xiao_resized.jpeg" width = "200px">}}| Claire Xiao | Summer Student| 2025/07-2025/08 ||
 |{{< figure src = "https://wang.wustl.edu/img/Lucy_Chen_resized.jpg" width = "200px">}}| Lucy Chen | Summer Student| 2025/06-2025/08 ||
