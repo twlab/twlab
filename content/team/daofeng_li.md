@@ -7,7 +7,7 @@ jobtitle: Assistant Professor of Genetics
 orcid: 0000-0001-7492-3703
 Twitterhandle: lidaof
 promoted: true
-weight: 3
+weight: 4
 ---
 
 Email: dli23@wustl.edu
