@@ -3,6 +3,15 @@ title: 'Publications'
 date: 2018-02-22T17:01:34+07:00
 ---
 
+## **2026**
+---
+{{< badge src = https://doi.org/10.1038/s41586-025-09962-4 >}}
+
+- [A benchmark of expert-level academic questions to assess AI capabilities](https://doi.org/10.1038/s41586-025-09962-4)\
+  Dereck Alleyne, Minseo Kim, Jun Wu, Yoojung Kwon, Ye-Ram Kim, Ashraf Ul Kabir, Matthew Ishahak, Jeffrey R Millman, Changxu Fan, Hyung Joo Lee, Karen Krchma, Xiaoyun Xing, Kory Lavine, Ting Wang, Kyunghee Choi \
+  Nature 649, 1139–1146 (2026)
+
+
 ## **2025**
 
 ---
