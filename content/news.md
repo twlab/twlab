@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 ---
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
 
-01-28-2026. The paper "A benchmark of expert-level academic questions to assess AI capabilities" is [online at Nature](https://www.nature.com/articles/s41586-025-09962-4). Daofeng Li, Jiawei Shen, Wenjin Zhang and Ting are co-authors. Congratulations!
+01-28-2026. Our lab contributed questions to the Humanity’s Last Exam, the paper "A benchmark of expert-level academic questions to assess AI capabilities" is [online at Nature](https://www.nature.com/articles/s41586-025-09962-4), Jiawei Shen, Wenjin Zhang, Ting Wang are co-authors. 
 
 01-12-2026. Aryahi Deorukhkar and Amy Li join our lab as rotation students! Welcome, Aryahi and Amy!
 
