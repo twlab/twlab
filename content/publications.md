@@ -5,6 +5,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = https://doi.org/10.1016/j.cell.2026.03.019 >}}
+
+- [Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers](https://doi.org/10.1016/j.cell.2026.03.019)\
+  Mengyao Shi, Gary J. Patti, Marc J. Gunter, Ramaswamy Govindan, Iris Lansdorp-Vogelaar, Ting Wang, Jeffrey P. Townsend, Graham A. Colditz, Yasmine Belkaid, Yin Cao \
+  Cell, 2026
+  
 {{< badge src = https://doi.org/10.1038/s41586-025-09962-4 >}}
 
 - [A benchmark of expert-level academic questions to assess AI capabilities](https://doi.org/10.1038/s41586-025-09962-4)\
