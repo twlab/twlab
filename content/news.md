@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
+
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
 
 01-28-2026. Our lab contributed questions to the Humanity’s Last Exam, the paper "A benchmark of expert-level academic questions to assess AI capabilities" is [online at Nature](https://www.nature.com/articles/s41586-025-09962-4), Jiawei Shen, Wenjin Zhang, Ting Wang are co-authors. 
