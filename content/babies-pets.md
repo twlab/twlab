@@ -10,9 +10,9 @@ Note: Description is on top of image.
 {{< load-photoswipe >}}
 ## **Baby: Ivy Miao (苗澍), Dad: Benpeng Miao, Mom: Peipei**
 {{< gallery >}}
-{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby1.png" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
-{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby2.png" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
-{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby3.png" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
+{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby1.jpg" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
+{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby2.jpg" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
+{{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby3.jpg" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}
 {{< /gallery >}}
 
 ## **Baby: Ahana Shah, Dad: Nakul**
