@@ -3,7 +3,7 @@ title: 'Ronghan Li'
 date: 2024-11-26
 draft: false
 image: 'https://wang.wustl.edu/img/Ronghan_resized.jpg'
-jobtitle: 'Graduate Student (DIBS)'
+jobtitle: 'Graduate Student (BIDS)'
 promoted: true
 weight: 80
 ---
