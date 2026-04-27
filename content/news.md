@@ -9,7 +9,7 @@ date: 2018-02-22T17:01:34+07:00
 
 04-10-2026. Congratulations on Turan's fellowship from the Helen Hay Whitney Foundation! News: [link](https://genetics.wustl.edu/turan-tufan-phd-receives-prestigious-helen-hay-whitney-fellowship/).
 
-06-8-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
+04-02-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
 
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
 
