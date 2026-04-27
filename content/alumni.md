@@ -12,6 +12,7 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Hao_Jin_resized.jpg" width = "200px">}}| Hao Jin | Research Assistant | 2025/10-2026/02 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Zilan_resize.jpg" width = "200px">}}| Zilan Xin | Research Assistant | 2022/09-2025/09 |UCSC Ph.D.|
 |{{< figure src = "https://wang.wustl.edu/img/Sophia_Arana_resized.jpg" width = "200px">}}| Sophia Arana | Summer Student| 2025/07-2025/08 ||
 |{{< figure src = "https://wang.wustl.edu/img/Claire_Xiao_resized.jpeg" width = "200px">}}| Claire Xiao | Summer Student| 2025/07-2025/08 ||

@@ -2,13 +2,19 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+04-10-2026. Congratulations on Turan's fellowship from the Helen Hay Whitney Foundation! News: [link](https://genetics.wustl.edu/turan-tufan-phd-receives-prestigious-helen-hay-whitney-fellowship/).
+
+6-8-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
+
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
 
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
 
-01-28-2026. Our lab contributed questions to the Humanity’s Last Exam, the paper "A benchmark of expert-level academic questions to assess AI capabilities" is [online at Nature](https://www.nature.com/articles/s41586-025-09962-4), Jiawei Shen, Wenjin Zhang, Ting Wang are co-authors. 
+01-28-2026. Our lab contributed questions to the Humanity’s Last Exam, the paper "A benchmark of expert-level academic questions to assess AI capabilities" is [online at Nature](https://www.nature.com/articles/s41586-025-09962-4), Daofeng Li, Jiawei Shen, Wenjin Zhang, Ting Wang are co-authors. 
 
-01-12-2026. Aryahi Deorukhkar and Amy Li join our lab as rotation students! Welcome, Aryahi and Amy!
+01-12-2026. Amy Li joins the lab as a technician. Welcome back, Amy!
+
+01-12-2026. Aryahi Deorukhkar joins our lab as a rotation student! Welcome, Aryahi!
 
 12-18-2025. The paper "Distinct contributions of Etv2+ and Flk1+ progenitors to endothelial, hematopoietic, and cardiac lineages" is [online at Cell Reports](https://doi.org/10.1016/j.celrep.2025.116733). Fan, Xiaoyun, and Ting are co-authors. Congratulations!
 
