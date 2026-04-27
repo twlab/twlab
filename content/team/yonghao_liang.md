@@ -1,5 +1,5 @@
 ---
-title: 'Yonghao Liang (Holden!) (PhD, 2023)'
+title: 'Yonghao Liang (Holden!) (PhD, 2025)'
 date: 2018-12-20T13:44:55+10:00
 draft: false
 image: 'https://wang.wustl.edu/img/YonghaoLarge.jpg'
