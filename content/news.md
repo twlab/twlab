@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+04-24-2026. Nina and Juan’s reference bias paper has been accepted by Cell Reports Method! Congratulations!!!
+
+04-21-2026. Xiaoyu’s polymorphic TE methylation paper has been officially accepted by Genome Research! Congratulations Xiaoyu!!!
+
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
 
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
