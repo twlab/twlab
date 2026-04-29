@@ -3,7 +3,7 @@ title: 'Katie Gu'
 date: 2025-06-06
 draft: false
 image: 'https://wang.wustl.edu/img/Katie_Gu_resized.jpg'
-jobtitle: 'Undergraduate Researcher'
+jobtitle: 'Undergraduate Student'
 promoted: true
 weight: 87
 ---
