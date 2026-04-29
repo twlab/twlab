@@ -3,7 +3,7 @@ title: 'Amy Li'
 date: 2026-01-12
 draft: false
 image: 'https://wang.wustl.edu/img/Amy_Li_resized.jpg'
-jobtitle: 'Rotation Student'
+jobtitle: 'Technician'
 promoted: true
 weight: 96
 ---
