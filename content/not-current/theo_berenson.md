@@ -3,7 +3,7 @@ title: 'Theo Berenson'
 date: 2025-05-22
 draft: false
 image: 'https://wang.wustl.edu/img/Theo_Berenson_resized.jpg'
-jobtitle: 'Summer Student'
+jobtitle: 'Undergraduate Researcher'
 promoted: true
 weight: 84
 ---
