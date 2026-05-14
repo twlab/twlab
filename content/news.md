@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+05-14-2026. Congrats! Kaye Brathwaite is selected one of the 2026 Dean's Scholars.
+
+05-08-2026. Mitchell has also just won the Yong Investigator Award of the Children’s Tumor Foundation (CTF). Congrats Mitchell!!!
+
 04-28-2026. Xin Wang joins our lab for his thesis study. Welcome, Xin!
 
 04-24-2026. Nina and Juan’s reference bias paper has been accepted by Cell Reports Method! Congratulations!!!
