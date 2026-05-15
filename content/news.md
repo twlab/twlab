@@ -6,8 +6,6 @@ date: 2018-02-22T17:01:34+07:00
 
 05-14-2026. Nina and Juan’s reference bias paper "Quantifying reference alignment bias in functional genomics analyses" in online at Cell Reports Methods [link](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X), Wenjin Zhang, Xiaoyun Xing and Ting Wang are co-authors. Congratulations!
 
-05-14-2026. Congrats! Kaye Brathwaite is selected one of the 2026 Dean's Scholars.
-
 05-08-2026. Mitchell has also just won the Yong Investigator Award of the Children’s Tumor Foundation (CTF). Congrats Mitchell!!!
 
 04-28-2026. Xin Wang joins our lab for his thesis study. Welcome, Xin!
@@ -21,6 +19,8 @@ date: 2018-02-22T17:01:34+07:00
 04-02-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
 
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
+
+02-19-2026. Congrats! Kaye Brathwaite is selected one of the 2026 Dean's Scholars.
 
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
 
