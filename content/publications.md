@@ -5,6 +5,18 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = https://doi.org/10.1101/gr.281571.125 >}}
+
+- [Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources](https://doi.org/10.1101/gr.281571.125)\
+   Xiaoyu Zhuo, Chad Tomlinson, Edward A. Belter Jr., Prashant Kumar Kuntala, Wesley N. Saintilnord, Juan Jiang, Tina Graves-Lindsay, Juan F. Macias, Bob S. Fulton, Human Pangenome Reference Consortium, Ting Wang \
+  Genome Research, 2026
+
+{{< badge src = https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X >}}
+
+- [Quantifying reference alignment bias in functional genomics analyses](https://doi.org/10.1016/j.crmeth.2026.101461)\
+  Nina Tekkey, John E. Garza, Wenjin Zhang, Derek Albracht, Chad Tomlinson, Edward A. Belter, Xiaoyun Xing, Juan F. Macias-Velasco, Ting Wang \
+  Cell Reports Methods, 2026
+
 {{< badge src = https://doi.org/10.1016/j.cell.2026.03.019 >}}
 
 - [Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers](https://doi.org/10.1016/j.cell.2026.03.019)\
