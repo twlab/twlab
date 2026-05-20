@@ -2,9 +2,11 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
-05-14-2026. Xiaoyu's paper "Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources" in online at Genome Research [link](https://genome.cshlp.org/content/early/2026/05/12/gr281571125?implicit-login=true%26676),  Chad, Edward, Prashant, Wesley, Juan Jiang, Tina, Juan, Bob and Ting Wang are co-authors. Congratulations!
+05-19-2026. Prashant's TaRGET II data portal paper "TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73324-5). Congratulations!
 
-05-14-2026. Nina and Juan’s reference bias paper "Quantifying reference alignment bias in functional genomics analyses" in online at Cell Reports Methods [link](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X), Wenjin Zhang, Xiaoyun Xing and Ting Wang are co-authors. Congratulations!
+05-14-2026. Xiaoyu's paper "Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources" is [online at Genome Research](https://genome.cshlp.org/content/early/2026/05/12/gr281571125?implicit-login=true%26676). Congratulations!
+
+05-14-2026. Nina and Juan’s reference bias paper "Quantifying reference alignment bias in functional genomics analyses" is [online at Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X). Congratulations!
 
 05-08-2026. Mitchell has also just won the Yong Investigator Award of the Children’s Tumor Foundation (CTF). Congrats Mitchell!!!
 

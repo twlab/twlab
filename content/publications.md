@@ -5,6 +5,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = doi.org/10.1038/s41467-026-73324-5 >}}
+
+- [TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice](https://doi.org/10.1038/s41467-026-73324-5)\
+    Prashant K. Kuntala, Benpeng Miao, Deepak Purushotham, Bo Zhang, Daofeng Li & Ting Wang  \
+  Nature Communications, 2026
+
 {{< badge src = https://doi.org/10.1101/gr.281571.125 >}}
 
 - [Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources](https://doi.org/10.1101/gr.281571.125)\
