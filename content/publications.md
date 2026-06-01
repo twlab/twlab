@@ -5,6 +5,18 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = https://doi.org/10.1038/s41467-026-73695-9 >}}
+
+- [ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets](https://doi.org/10.1038/s41467-026-73695-9)\
+    Ravindra Kumar, Tianyi Fu, Prashant Kumar Kuntala, Benpeng Miao, Shuhua Fu, Daofeng Li, TaRGET II Consortium, Frederick L. Tyson, Marisa S. Bartolomei, Cheryl L. Walker, Ting Wang & Bo A. Zhang  \
+  Nature Communications, 2026
+
+{{< badge src = https://doi.org/10.1038/s41467-026-73663-3 >}}
+
+- [Benchmarking genome choice in functional genomics analyses](https://doi.org/10.1038/s41467-026-73663-3)\
+    Juan F. Macias-Velasco, Xiaoyu Zhuo, Chad Tomlinson, Eddie A. Belter, Milinn Kremitzki, Derek Albracht, Tina Lindsay, Xiaoyun Xing, Nina Tekkey, Wenjin Zhang, John E. Garza, Zheng Xu, Zilan Xin, Qichen Fu, Heather A. Lawson, Nathan O. Stitziel, Robert S. Fulton, Daofeng Li, Human Pangenome Reference Consortium & Ting Wang  \
+  Nature Communications, 2026
+  
 {{< badge src = doi.org/10.1038/s41467-026-73324-5 >}}
 
 - [TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice](https://doi.org/10.1038/s41467-026-73324-5)\
