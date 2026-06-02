@@ -6,8 +6,6 @@ date: 2018-02-22T17:01:34+07:00
 
 05-26-2026. Juan's paper "Benchmarking genome choice in functional genomics analyses" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73663-3). Congratulations!
 
-05-20-2026. Katie Liu joins our lab as summer student. Welcome, Katie!
-
 05-19-2026. Prashant's TaRGET II data portal paper "TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73324-5). Congratulations!
 
 05-14-2026. Xiaoyu's paper "Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources" is [online at Genome Research](https://genome.cshlp.org/content/early/2026/05/12/gr281571125?implicit-login=true%26676). Congratulations!
@@ -27,6 +25,8 @@ date: 2018-02-22T17:01:34+07:00
 04-02-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
 
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
+
+03-01-2026. Katie Liu joins our lab as summer student. Welcome, Katie!
 
 02-19-2026. Congrats! Kaye Brathwaite is selected one of the 2026 Dean's Scholars.
 
