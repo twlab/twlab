@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+06-12-2026. Ting co-authored a TrendsTalk "title with hyperlink" at Trends in Genetics! Congratulations!!
+
 05-29-2026. Our lab's collaborative paper "ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73695-9). Daofeng and Ting are co-authors, congratulations!
 
 05-26-2026. Juan's paper "Benchmarking genome choice in functional genomics analyses" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73663-3). Congratulations!

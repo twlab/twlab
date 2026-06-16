@@ -5,6 +5,12 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = https://doi.org/10.1016/j.tig.2026.05.006 >}}
+
+- [From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease](https://doi.org/10.1016/j.tig.2026.05.006)\
+    Katherine B Chiappinelli, Hui Shen, Ting Wang, Tao P Wu  \
+  Trends Genet. 2026 Jun 12:S0168-9525(26)00133-2.
+
 {{< badge src = https://doi.org/10.1038/s41467-026-73695-9 >}}
 
 - [ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets](https://doi.org/10.1038/s41467-026-73695-9)\
