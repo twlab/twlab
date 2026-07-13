@@ -2,6 +2,10 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-09-2026. Jessica Harrison successfully defended her PhD thesis. Congratulations Dr. Jessica Harrison! [Some pictures](/thesis-defenses/jessica-defense/).
+
+07-08-2026. Aparna Anand successfully defended her PhD thesis. Congratulations Dr. Aparna Anand! [Some pictures](/thesis-defenses/aparna-defense/).
+
 06-19-2026. Noah Basri successfully defended his PhD thesis. Congratulations Dr. Noah Basri! [Some pictures](/thesis-defenses/noah-defense/).
 
 06-12-2026. Ting co-authored a TrendsTalk "From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease" at [Trends in Genetics](https://doi.org/10.1016/j.tig.2026.05.006)! Congratulations!!
