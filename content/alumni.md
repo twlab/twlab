@@ -12,6 +12,9 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Anouka_Saha_resized.png" width = "200px">}}| Anouka Saha | Rotation Student (DBBS) | 2025/12-2026/06 |WashU|
+|{{< figure src = "https://wang.wustl.edu/img/Aryahi_Deorukhkar_resized.jpg" width = "200px">}}| Aryahi Deorukhkar | Rotation Student (CSB) | 2024/01-2026/06 |SLU|
+|{{< figure src = "https://wang.wustl.edu/img/Amy_Li_resized.jpg" width = "200px">}}| Amy Li | Technician | 2024/08-2026/06 |SLU|
 |{{< figure src = "https://wang.wustl.edu/img/Mia_resized.jpg" width = "200px">}}| Mia Mo | Undergraduate Student | 2024/08-2026/05 |UTSW Ph.D.|
 |{{< figure src = "https://wang.wustl.edu/img/Hao_Jin_resized.jpg" width = "200px">}}| Hao Jin | Rotation Student (DRSCB) | 2025/10-2026/02 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Zilan_resize.jpg" width = "200px">}}| Zilan Xin | Research Assistant | 2022/09-2025/09 |UCSC Ph.D.|

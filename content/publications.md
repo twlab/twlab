@@ -5,6 +5,24 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+{{< badge src = https://www.science.org/doi/10.1126/science.adt8307 >}}
+
+- [Epigenetic and 3D genome reprogramming during the aging of the human hippocampus](https://www.science.org/doi/10.1126/science.adt8307)\
+   Nathan R. Zemke, Seoyeon Lee, Sainath Mamde, Bing Yang, Nicole Berchtold, B. Maximiliano Garduño, Hannah S. Indralingam, Weronika M. Bartosik, Pik Ki Lau, Keyi Dong, Emily Hsu, Amanda Yang, Yasmine Tani, Chumo Chen, Qiurui Zeng, Varun Ajith, Liqi Tong, Chanrung Seng, Daofeng Li, Ting Wang, Jingtian Zhou, Joseph R. Ecker, Christopher K. Glass, Carl W. Cotman, Xiangmin Xu, and Bing Ren  \
+  Science, 23 Jul 2026, Vol 393, Issue 6809
+
+{{< badge src = https://www.science.org/doi/10.1126/science.ady6893 >}}
+
+- [Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure](https://www.science.org/doi/10.1126/science.ady6893)\
+    Yang Xie, Luca Tucciarone, Elie N. Farah, Lei Chang, Qian Yang, Thirupura S. Shankar, Weston Elison, Shaina Tran, Jovina Djulamsah, Audrey Lie, Timothy Loe, Alyssa R. Holman, Sierra Corban, Justin Buchanan, Sainath Mamde, Haowen Zhou, Ruth M. Elgamal, Eleni Tseliou, Vincent Huang, Zhaoning Wang, Jeffrey Huey-Chuan Chiu, Rebecca Melton, Emily Griffin, Qingquan Zhang, Jacinta Lucero, Sutip Navankasattusas, Daofeng Li, Chanrung Seng, Eugin Destici, Craig H. Selzman, Agnieszka D’Antonio-Chronowska, Ting Wang, Allen Wang, Stavros G. Drakos, Kyle J. Gaulton, Bing Ren, and Neil C. Chi  \
+  Science, 23 Jul 2026, Vol 393, Issue 6809
+
+{{< badge src = https://www.science.org/doi/10.1126/sciadv.adv9162 >}}
+
+- [Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina](https://www.science.org/doi/10.1126/sciadv.adv9162)\
+    Ying Yuan, Pooja Biswas, Nathan R. Zemke, Kelsey Dang, Yue Wu, Matteo D’Antonio, Yang Xie, Qian Yang, Keyi Dong, Pik Ki Lau, Daofeng Li, Chanrung Seng, Weronika Bartosik, Justin Buchanan, Lin Lin, Ryan Lancione, Kangli Wang, Seoyeon Lee, Zane Gibbs, Bing Yang, Joseph R. Ecker, Kelly Frazer, Ting Wang, Sebastian Preissl, Allen Wang, Radha Ayyagari, and Bing Ren  \
+  Science Advances, 23 Jul 2026, Vol 12, Issue 30
+
 {{< badge src = https://doi.org/10.1016/j.tig.2026.05.006 >}}
 
 - [From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease](https://doi.org/10.1016/j.tig.2026.05.006)\

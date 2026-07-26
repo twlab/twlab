@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+07-23-2026. Papers in 4DN package with lab involved are online! ["Epigenetic and 3D genome reprogramming during the aging of the human hippocampus"](https://www.science.org/doi/10.1126/science.adt8307) and ["Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure"](https://www.science.org/doi/10.1126/science.ady6893) are at Science and ["Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina"](https://www.science.org/doi/10.1126/sciadv.adv9162) is at Science Advances. congratulations!
+
 07-09-2026. Jessica Harrison successfully defended her PhD thesis. Congratulations Dr. Jessica Harrison! [Some pictures](/thesis-defenses/jessica-defense/).
 
 07-08-2026. Aparna Anand successfully defended her PhD thesis. Congratulations Dr. Aparna Anand! [Some pictures](/thesis-defenses/aparna-defense/).
