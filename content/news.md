@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+08-28-2026. 9th lab float trip. [Some pictures](/float-trips/float-trip-2026/).
+
 07-26-2026. 2026 annual summer party!! Congrats to Jessica, Aparna, and Noah on their successful defenses! Congratulations also to lab members on the birth of new babies and on their engagement! [Some pictures](/annual-party/party-2026/). Thanks Ronghan and everyone for organizing it!!
 
 07-23-2026. Papers in 4DN package with lab involved are online! ["Epigenetic and 3D genome reprogramming during the aging of the human hippocampus"](https://www.science.org/doi/10.1126/science.adt8307) and ["Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure"](https://www.science.org/doi/10.1126/science.ady6893) are at Science and ["Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina"](https://www.science.org/doi/10.1126/sciadv.adv9162) is at Science Advances. congratulations!
