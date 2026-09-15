@@ -5,6 +5,16 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+
+
+{{< badge src = https://doi.org/10.1093/nargab/lqag107 >}}
+
+- [Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms](https://doi.org/10.1093/nargab/lqag107)\
+   Tássia Mangetti Gonçalves , Casey L Stewart , Samantha D Baxley , Jason Xu , Kevin Boyer , Bijesh George , Daofeng Li , Chengran Yang , Harrison W Gabel , Xianhua Piao , Carlos Cruchaga , Yang E Li , Ting Wang , Oshri Avraham , Guoyan Zhao  \
+  NAR Genomics and Bioinformatics, Volume 8, Issue 3, September 2026, lqag107
+
+
+
 {{< badge src = https://www.science.org/doi/10.1126/science.adt8307 >}}
 
 - [Epigenetic and 3D genome reprogramming during the aging of the human hippocampus](https://www.science.org/doi/10.1126/science.adt8307)\

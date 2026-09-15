@@ -2,7 +2,13 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+09-15-2026. Collaborated Guoyan's lab from WashU, "Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms" is published in [NAR Genomics and Bioinformatics](https://www.cell.com/cell/fulltext/S0092-8674(21)01104-1) today! Daofeng and Ting are co-authors! Congratulations!!
+
 08-28-2026. 9th lab float trip. [Some pictures](/float-trips/float-trip-2026/).
+
+08-21-2026. Riza Kamataikyzy and Arnob Ghosh join our lab. Welcome, Riza and Arnob!
+
+08-27-2026. Benpeng’s TE paper analyzing TaRGET II data has been in principle accepted by Nature Communications! Congratulations! This is the 3rd accepted TaRGET paper of the nine paper packet.
 
 07-26-2026. 2026 annual summer party!! Congrats to Jessica, Aparna, and Noah on their successful defenses! Congratulations also to lab members on the birth of new babies and on their engagement! [Some pictures](/annual-party/party-2026/). Thanks Ronghan and everyone for organizing it!!
 
