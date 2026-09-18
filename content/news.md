@@ -2,6 +2,8 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+09-18-2026. Qichen Fu has been named as the 2026 Stormo Fellow in Computational and Systems Biology. Congrats Qichen!!!
+
 09-15-2026. Collaborated Guoyan's lab from WashU, "Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms" is published in [NAR Genomics and Bioinformatics](https://www.cell.com/cell/fulltext/S0092-8674(21)01104-1) today! Daofeng and Ting are co-authors! Congratulations!!
 
 08-28-2026. 9th lab float trip. [Some pictures](/float-trips/float-trip-2026/).
