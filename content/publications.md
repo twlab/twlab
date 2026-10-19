@@ -6,6 +6,25 @@ date: 2018-02-22T17:01:34+07:00
 ## **2026**
 ---
 
+{{< badge src = https://doi.org/10.1016/j.cell.2026.09.037 >}}
+
+- [Comprehensive benchmarking of somatic mutation detection by the SMaHT Network](https://doi.org/10.1016/j.cell.2026.09.037)\
+   Somatic Mosaicism across Human Tissues (SMaHT) Network  \
+  Cell, 2026 Oct 15, Vol 189, Issue 21, 6594-6612.e21
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101358 >}}
+
+- [A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures](https://doi.org/10.1016/j.xgen.2026.101358)\
+   Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Juan F. Macias-Velasco, Zefan Li, Emma Casey, Wenjin Zhang, Benpeng Miao, Zilan Xin, Qichen Fu, Haeorum Park, Xiaoyu Zhuo, Elvisa Mehinovic, Edward Belter, Chad Tomlinson, John E. Garza, Shihua Dong, Ben Johnson, Mary F. Majewski, Theron Palmer, Yuchen Cheng, Tina Lindsay, Tim Schedl, Daofeng Li, Hui Shen, Robert Fulton, SMaHT Network Assembly/Pangenome Working Group, Ting Wang, Sheng Chih Jin  \
+  Cell Genomics, 2026 Oct 15, 101358
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101390 >}}
+
+- [Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures](https://doi.org/10.1016/j.xgen.2026.101390)\
+   Yoo-Jin Jiny Ha, Dominika Maziec, Julia Markowski, Stephanie J. Georges, Nancy L. Parmalee, Michele Berselli, Tim H. H. Coorens, Shihua Dong, Stephanie Gardiner, Divya Kalra, Daofeng Li, Benpeng Miao, Rajeeva Musunuri, Liying Xue, Zhi Yu, Kimberly Walker, Lisa Anderson, Natalie Y. T. Au, Carrie Cibulskis, Harsha Doddapaneni, Christopher M. Grochowski, Dana M. Jensen, Tina Lindsay, Kelsey Loy, Azeet Narayan, Giuseppe Narzisi, Jeffrey Ou, Meranda M. Pham, Alexi M. Runnels, Andrew B. Stergachis, Lila M. Sutherlin, Ting Wang, Hu Jin, William C. Feng, Yuwei Zhang, Alexander D. Veit, Clara TaeHee Kim, Hye-Jung E. Chun, SMaHT Network Single Nucleotide Variant (SNV) Working Group, Kristin Ardlie, Robert S. Fulton, Soren Germer, Richard A. Gibbs, Gabor T. Marth, James T. Bennett, Peter J. Park  \
+  Cell Genomics, 2026 Oct 15, 101390
+
+
 
 {{< badge src = https://doi.org/10.1093/nargab/lqag107 >}}
 

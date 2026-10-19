@@ -2,6 +2,14 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+10-15-2026. Our lab's collaborative paper "A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures" is [online at Cell Genomics](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00220-X). Juan, Wenjin, Benpeng, Qichen, Xiaoyu, Shihua, Daofeng, and Ting are co-authors, congratulations!
+
+10-15-2026. SMaHT Network paper "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network" is [online at Cell](https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9). Congratulations!!
+
+10-15-2026. Our lab's collaborative paper "Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures" is [online at Cell Genomics](https://doi.org/10.1016/j.xgen.2026.101390). Shihua, Daofeng, Benpeng, and Ting are co-authors, congratulations!
+
+10-14-2026. Qichen’s SMaHT paper has been officially accepted by Cell Genomics!!! Congratulations!!!
+
 09-18-2026. Qichen Fu has been named the 2026 Stormo Fellow in Computational and Systems Biology. Congratulations Qichen!!! [News](https://genetics.wustl.edu/the-3rd-gary-d-stormo-computational-systems-biology-lecture-and-2026-stormo-fellow/)
 
 09-15-2026. Collaborated Guoyan's lab from WashU, "Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms" is published in [NAR Genomics and Bioinformatics](https://www.cell.com/cell/fulltext/S0092-8674(21)01104-1) today! Daofeng and Ting are co-authors! Congratulations!!
