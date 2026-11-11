@@ -2,6 +2,12 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-06-2026. Shihua’s centromere paper has been accepted by Cell!!! Congratulations Shihua!!!
+
+11-05-2026. Qichen’s paper "Leveraging human pangenome for improved somatic variant detection" is [online at Cell Genomics](https://doi.org/10.1016/j.xgen.2026.101419). Congratulations Qichen!!!
+
+11-03-2026. Colin and Michael’s review "The Hidden Oncogenic Architects: The Role of Transposable Elements in Cis-Regulation and Genomic Architecture in Cancer" is [online at Viruses](https://doi.org/10.3390/v18111218). Congratulations Colin and Michael!!
+
 10-15-2026. Our lab's collaborative paper "A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures" is [online at Cell Genomics](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00220-X). Juan, Wenjin, Benpeng, Qichen, Xiaoyu, Shihua, Daofeng, and Ting are co-authors, congratulations!
 
 10-15-2026. SMaHT Network paper "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network" is [online at Cell](https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9). Congratulations!!

@@ -6,6 +6,18 @@ date: 2018-02-22T17:01:34+07:00
 ## **2026**
 ---
 
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101419 >}}
+
+- [Leveraging human pangenome for improved somatic variant detection](https://doi.org/10.1016/j.xgen.2026.101419)\
+   Qichen Fu, Zilan Xin, Benpeng Miao, Wenjin Zhang, Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Derek C. Albracht, Edward A. Belter, John E. Garza, Chad Tomlinson, Elvisa Mehinovic, Jiawei Shen, Xiaoyu Zhuo, Shihua Dong, Benjamin K. Johnson, Mary F. Majewski, Theron Palmer, H. Josh Jang, Yuchen Cheng, Zefan Li, Heather A. Lawson, Tina Lindsay, Daofeng Li, Robert Fulton, Hui Shen, Sheng Chih Jin, Juan F. Macias-Velasco, Ting Wang  \
+  Cell Genomics, 2026 Nov 5, Vol 6, Issue 11, 101419
+
+{{< badge src = https://doi.org/10.3390/v18111218 >}}
+
+- [The Hidden Oncogenic Architects: The Role of Transposable Elements in Cis-Regulation and Genomic Architecture in Cancer](https://doi.org/10.3390/v18111218)\
+   Colin McCornack, Michael Moore, Ting Wang  \
+  Viruses, 2026 Nov 3, Vol 18, Issue 11, 1218
+
 {{< badge src = https://doi.org/10.1016/j.cell.2026.09.037 >}}
 
 - [Comprehensive benchmarking of somatic mutation detection by the SMaHT Network](https://doi.org/10.1016/j.cell.2026.09.037)\
