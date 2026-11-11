@@ -1,10 +1,10 @@
 ---
 title: 'Amy Li'
-date: 2018-12-20T13:44:55+10:00
+date: 2026-01-12
 draft: false
-image: 'https://wang.wustl.edu/img/AmyLarge.jpg'
-jobtitle: 'Undergraduate Researcher'
+image: 'https://wang.wustl.edu/img/Amy_Li_resized.jpg'
+jobtitle: 'Technician'
 promoted: true
-weight: 34
+weight: 96
 ---
-Email: alimicds@gmail.com
+Email: lamy@wustl.edu

@@ -8,6 +8,11 @@ Babies displayed first. Scroll down for pets. Click image to see larger photos.
 Note: Description is on top of image.
 
 {{< load-photoswipe >}}
+## **Baby: Teo, Dad: Juheon Maeng**
+{{< gallery >}}
+{{< figure link="https://wang.wustl.edu/labbaby/juheon_baby.jpg" caption="Baby: Teo, Dad: Juheon_Maeng" >}}
+{{< /gallery >}}
+
 ## **Baby: Ivy Miao (苗澍), Dad: Benpeng Miao, Mom: Peipei**
 {{< gallery >}}
 {{< figure link="https://wang.wustl.edu/labbaby/benpeng_baby1.jpg" caption="Baby: Ivy_Miao, Dad: Benpeng_Miao" >}}

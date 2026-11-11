@@ -5,6 +5,6 @@ draft: false
 image: 'https://wang.wustl.edu/img/Xin_Wang_resized.jpg'
 jobtitle: 'Graduate Student(CSE)'
 promoted: true
-weight: 97
+weight: 98
 ---
 Email: wxin@wustl.edu

@@ -2,6 +2,56 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-06-2026. Shihua’s centromere paper has been accepted by Cell!!! Congratulations Shihua!!!
+
+11-05-2026. Qichen’s paper "Leveraging human pangenome for improved somatic variant detection" is [online at Cell Genomics](https://doi.org/10.1016/j.xgen.2026.101419). Congratulations Qichen!!!
+
+11-03-2026. Colin and Michael’s review "The Hidden Oncogenic Architects: The Role of Transposable Elements in Cis-Regulation and Genomic Architecture in Cancer" is [online at Viruses](https://doi.org/10.3390/v18111218). Congratulations Colin and Michael!!
+
+10-15-2026. Our lab's collaborative paper "A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures" is [online at Cell Genomics](https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00220-X). Juan, Wenjin, Benpeng, Qichen, Xiaoyu, Shihua, Daofeng, and Ting are co-authors, congratulations!
+
+10-15-2026. SMaHT Network paper "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network" is [online at Cell](https://www.cell.com/cell/fulltext/S0092-8674(26)01135-9). Congratulations!!
+
+10-15-2026. Our lab's collaborative paper "Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures" is [online at Cell Genomics](https://doi.org/10.1016/j.xgen.2026.101390). Shihua, Daofeng, Benpeng, and Ting are co-authors, congratulations!
+
+10-14-2026. Qichen’s SMaHT paper has been officially accepted by Cell Genomics!!! Congratulations!!!
+
+09-18-2026. Qichen Fu has been named the 2026 Stormo Fellow in Computational and Systems Biology. Congratulations Qichen!!! [News](https://genetics.wustl.edu/the-3rd-gary-d-stormo-computational-systems-biology-lecture-and-2026-stormo-fellow/)
+
+09-15-2026. Collaborated Guoyan's lab from WashU, "Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms" is published in [NAR Genomics and Bioinformatics](https://www.cell.com/cell/fulltext/S0092-8674(21)01104-1) today! Daofeng and Ting are co-authors! Congratulations!!
+
+08-28-2026. 9th lab float trip. [Some pictures](/float-trips/float-trip-2026/).
+
+08-21-2026. Riza Kamataikyzy and Arnob Ghosh join our lab. Welcome, Riza and Arnob!
+
+08-27-2026. Benpeng’s TE paper analyzing TaRGET II data has been in principle accepted by Nature Communications! Congratulations! This is the 3rd accepted TaRGET paper of the nine paper packet.
+
+07-26-2026. 2026 annual summer party!! Congrats to Jessica, Aparna, and Noah on their successful defenses! Congratulations also to lab members on the birth of new babies and on their engagement! [Some pictures](/annual-party/party-2026/). Thanks Ronghan and everyone for organizing it!!
+
+07-23-2026. Papers in 4DN package with lab involved are online! ["Epigenetic and 3D genome reprogramming during the aging of the human hippocampus"](https://www.science.org/doi/10.1126/science.adt8307) and ["Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure"](https://www.science.org/doi/10.1126/science.ady6893) are at Science and ["Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina"](https://www.science.org/doi/10.1126/sciadv.adv9162) is at Science Advances. congratulations!
+
+07-21-2026. Christopher Liu joins our lab. Welcome, Christopher!
+
+07-09-2026. Jessica Harrison successfully defended her PhD thesis. Congratulations Dr. Jessica Harrison! [Some pictures](/thesis-defenses/jessica-defense/).
+
+07-08-2026. Aparna Anand successfully defended her PhD thesis. Congratulations Dr. Aparna Anand! [Some pictures](/thesis-defenses/aparna-defense/).
+
+06-19-2026. Noah Basri successfully defended his PhD thesis. Congratulations Dr. Noah Basri! [Some pictures](/thesis-defenses/noah-defense/).
+
+06-12-2026. Ting co-authored a TrendsTalk "From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease" at [Trends in Genetics](https://doi.org/10.1016/j.tig.2026.05.006)! Congratulations!!
+
+05-29-2026. Our lab's collaborative paper "ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73695-9). Daofeng and Ting are co-authors, congratulations!
+
+05-26-2026. Juan's paper "Benchmarking genome choice in functional genomics analyses" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73663-3). Congratulations!
+
+05-19-2026. Prashant's TaRGET II data portal paper "TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-73324-5). Congratulations!
+
+05-14-2026. Xiaoyu's paper "Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources" is [online at Genome Research](https://genome.cshlp.org/content/early/2026/05/12/gr281571125?implicit-login=true%26676). Congratulations!
+
+05-14-2026. Nina and Juan’s reference bias paper "Quantifying reference alignment bias in functional genomics analyses" is [online at Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X). Congratulations!
+
+05-08-2026. Mitchell has also just won the Yong Investigator Award of the Children’s Tumor Foundation (CTF). Congrats Mitchell!!!
+
 04-28-2026. Xin Wang joins our lab for his thesis study. Welcome, Xin!
 
 04-24-2026. Nina and Juan’s reference bias paper has been accepted by Cell Reports Method! Congratulations!!!
@@ -13,6 +63,10 @@ date: 2018-02-22T17:01:34+07:00
 04-02-2020. Welcome lab baby Ivy Miao (苗澍)!! Congratulations Benpeng and Peipei!!
 
 04-07-2026. Ting co-authored a perspective paper at Cell: "Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers" [link](https://www.cell.com/cell/fulltext/S0092-8674(26)00286-2). Congratulations!
+
+03-01-2026. Katie Liu joins our lab as summer student. Welcome, Katie!
+
+02-19-2026. Congrats! Kaye Brathwaite is selected one of the 2026 Dean's Scholars.
 
 02-02-2026. Xin Wang joins our lab as a rotation student! Welcome, Xin!
 

@@ -5,6 +5,101 @@ date: 2018-02-22T17:01:34+07:00
 
 ## **2026**
 ---
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101419 >}}
+
+- [Leveraging human pangenome for improved somatic variant detection](https://doi.org/10.1016/j.xgen.2026.101419)\
+   Qichen Fu, Zilan Xin, Benpeng Miao, Wenjin Zhang, Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Derek C. Albracht, Edward A. Belter, John E. Garza, Chad Tomlinson, Elvisa Mehinovic, Jiawei Shen, Xiaoyu Zhuo, Shihua Dong, Benjamin K. Johnson, Mary F. Majewski, Theron Palmer, H. Josh Jang, Yuchen Cheng, Zefan Li, Heather A. Lawson, Tina Lindsay, Daofeng Li, Robert Fulton, Hui Shen, Sheng Chih Jin, Juan F. Macias-Velasco, Ting Wang  \
+  Cell Genomics, 2026 Nov 5, Vol 6, Issue 11, 101419
+
+{{< badge src = https://doi.org/10.3390/v18111218 >}}
+
+- [The Hidden Oncogenic Architects: The Role of Transposable Elements in Cis-Regulation and Genomic Architecture in Cancer](https://doi.org/10.3390/v18111218)\
+   Colin McCornack, Michael Moore, Ting Wang  \
+  Viruses, 2026 Nov 3, Vol 18, Issue 11, 1218
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.09.037 >}}
+
+- [Comprehensive benchmarking of somatic mutation detection by the SMaHT Network](https://doi.org/10.1016/j.cell.2026.09.037)\
+   Somatic Mosaicism across Human Tissues (SMaHT) Network  \
+  Cell, 2026 Oct 15, Vol 189, Issue 21, 6594-6612.e21
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101358 >}}
+
+- [A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures](https://doi.org/10.1016/j.xgen.2026.101358)\
+   Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Juan F. Macias-Velasco, Zefan Li, Emma Casey, Wenjin Zhang, Benpeng Miao, Zilan Xin, Qichen Fu, Haeorum Park, Xiaoyu Zhuo, Elvisa Mehinovic, Edward Belter, Chad Tomlinson, John E. Garza, Shihua Dong, Ben Johnson, Mary F. Majewski, Theron Palmer, Yuchen Cheng, Tina Lindsay, Tim Schedl, Daofeng Li, Hui Shen, Robert Fulton, SMaHT Network Assembly/Pangenome Working Group, Ting Wang, Sheng Chih Jin  \
+  Cell Genomics, 2026 Oct 15, 101358
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101390 >}}
+
+- [Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures](https://doi.org/10.1016/j.xgen.2026.101390)\
+   Yoo-Jin Jiny Ha, Dominika Maziec, Julia Markowski, Stephanie J. Georges, Nancy L. Parmalee, Michele Berselli, Tim H. H. Coorens, Shihua Dong, Stephanie Gardiner, Divya Kalra, Daofeng Li, Benpeng Miao, Rajeeva Musunuri, Liying Xue, Zhi Yu, Kimberly Walker, Lisa Anderson, Natalie Y. T. Au, Carrie Cibulskis, Harsha Doddapaneni, Christopher M. Grochowski, Dana M. Jensen, Tina Lindsay, Kelsey Loy, Azeet Narayan, Giuseppe Narzisi, Jeffrey Ou, Meranda M. Pham, Alexi M. Runnels, Andrew B. Stergachis, Lila M. Sutherlin, Ting Wang, Hu Jin, William C. Feng, Yuwei Zhang, Alexander D. Veit, Clara TaeHee Kim, Hye-Jung E. Chun, SMaHT Network Single Nucleotide Variant (SNV) Working Group, Kristin Ardlie, Robert S. Fulton, Soren Germer, Richard A. Gibbs, Gabor T. Marth, James T. Bennett, Peter J. Park  \
+  Cell Genomics, 2026 Oct 15, 101390
+
+
+
+{{< badge src = https://doi.org/10.1093/nargab/lqag107 >}}
+
+- [Unlocking cis-regulatory landscapes across 500 million years of evolution and disease mechanisms](https://doi.org/10.1093/nargab/lqag107)\
+   Tássia Mangetti Gonçalves , Casey L Stewart , Samantha D Baxley , Jason Xu , Kevin Boyer , Bijesh George , Daofeng Li , Chengran Yang , Harrison W Gabel , Xianhua Piao , Carlos Cruchaga , Yang E Li , Ting Wang , Oshri Avraham , Guoyan Zhao  \
+  NAR Genomics and Bioinformatics, Volume 8, Issue 3, September 2026, lqag107
+
+
+
+{{< badge src = https://www.science.org/doi/10.1126/science.adt8307 >}}
+
+- [Epigenetic and 3D genome reprogramming during the aging of the human hippocampus](https://www.science.org/doi/10.1126/science.adt8307)\
+   Nathan R. Zemke, Seoyeon Lee, Sainath Mamde, Bing Yang, Nicole Berchtold, B. Maximiliano Garduño, Hannah S. Indralingam, Weronika M. Bartosik, Pik Ki Lau, Keyi Dong, Emily Hsu, Amanda Yang, Yasmine Tani, Chumo Chen, Qiurui Zeng, Varun Ajith, Liqi Tong, Chanrung Seng, Daofeng Li, Ting Wang, Jingtian Zhou, Joseph R. Ecker, Christopher K. Glass, Carl W. Cotman, Xiangmin Xu, and Bing Ren  \
+  Science, 23 Jul 2026, Vol 393, Issue 6809
+
+{{< badge src = https://www.science.org/doi/10.1126/science.ady6893 >}}
+
+- [Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure](https://www.science.org/doi/10.1126/science.ady6893)\
+    Yang Xie, Luca Tucciarone, Elie N. Farah, Lei Chang, Qian Yang, Thirupura S. Shankar, Weston Elison, Shaina Tran, Jovina Djulamsah, Audrey Lie, Timothy Loe, Alyssa R. Holman, Sierra Corban, Justin Buchanan, Sainath Mamde, Haowen Zhou, Ruth M. Elgamal, Eleni Tseliou, Vincent Huang, Zhaoning Wang, Jeffrey Huey-Chuan Chiu, Rebecca Melton, Emily Griffin, Qingquan Zhang, Jacinta Lucero, Sutip Navankasattusas, Daofeng Li, Chanrung Seng, Eugin Destici, Craig H. Selzman, Agnieszka D’Antonio-Chronowska, Ting Wang, Allen Wang, Stavros G. Drakos, Kyle J. Gaulton, Bing Ren, and Neil C. Chi  \
+  Science, 23 Jul 2026, Vol 393, Issue 6809
+
+{{< badge src = https://www.science.org/doi/10.1126/sciadv.adv9162 >}}
+
+- [Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina](https://www.science.org/doi/10.1126/sciadv.adv9162)\
+    Ying Yuan, Pooja Biswas, Nathan R. Zemke, Kelsey Dang, Yue Wu, Matteo D’Antonio, Yang Xie, Qian Yang, Keyi Dong, Pik Ki Lau, Daofeng Li, Chanrung Seng, Weronika Bartosik, Justin Buchanan, Lin Lin, Ryan Lancione, Kangli Wang, Seoyeon Lee, Zane Gibbs, Bing Yang, Joseph R. Ecker, Kelly Frazer, Ting Wang, Sebastian Preissl, Allen Wang, Radha Ayyagari, and Bing Ren  \
+  Science Advances, 23 Jul 2026, Vol 12, Issue 30
+
+{{< badge src = https://doi.org/10.1016/j.tig.2026.05.006 >}}
+
+- [From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease](https://doi.org/10.1016/j.tig.2026.05.006)\
+    Katherine B Chiappinelli, Hui Shen, Ting Wang, Tao P Wu  \
+  Trends Genet. 2026 Jun 12:S0168-9525(26)00133-2.
+
+{{< badge src = https://doi.org/10.1038/s41467-026-73695-9 >}}
+
+- [ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets](https://doi.org/10.1038/s41467-026-73695-9)\
+    Ravindra Kumar, Tianyi Fu, Prashant Kumar Kuntala, Benpeng Miao, Shuhua Fu, Daofeng Li, TaRGET II Consortium, Frederick L. Tyson, Marisa S. Bartolomei, Cheryl L. Walker, Ting Wang & Bo A. Zhang  \
+  Nature Communications, 2026
+
+{{< badge src = https://doi.org/10.1038/s41467-026-73663-3 >}}
+
+- [Benchmarking genome choice in functional genomics analyses](https://doi.org/10.1038/s41467-026-73663-3)\
+    Juan F. Macias-Velasco, Xiaoyu Zhuo, Chad Tomlinson, Eddie A. Belter, Milinn Kremitzki, Derek Albracht, Tina Lindsay, Xiaoyun Xing, Nina Tekkey, Wenjin Zhang, John E. Garza, Zheng Xu, Zilan Xin, Qichen Fu, Heather A. Lawson, Nathan O. Stitziel, Robert S. Fulton, Daofeng Li, Human Pangenome Reference Consortium & Ting Wang  \
+  Nature Communications, 2026
+  
+{{< badge src = doi.org/10.1038/s41467-026-73324-5 >}}
+
+- [TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice](https://doi.org/10.1038/s41467-026-73324-5)\
+    Prashant K. Kuntala, Benpeng Miao, Deepak Purushotham, Bo Zhang, Daofeng Li & Ting Wang  \
+  Nature Communications, 2026
+
+{{< badge src = https://doi.org/10.1101/gr.281571.125 >}}
+
+- [Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources](https://doi.org/10.1101/gr.281571.125)\
+   Xiaoyu Zhuo, Chad Tomlinson, Edward A. Belter Jr., Prashant Kumar Kuntala, Wesley N. Saintilnord, Juan Jiang, Tina Graves-Lindsay, Juan F. Macias, Bob S. Fulton, Human Pangenome Reference Consortium, Ting Wang \
+  Genome Research, 2026
+
+{{< badge src = https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X >}}
+
+- [Quantifying reference alignment bias in functional genomics analyses](https://doi.org/10.1016/j.crmeth.2026.101461)\
+  Nina Tekkey, John E. Garza, Wenjin Zhang, Derek Albracht, Chad Tomlinson, Edward A. Belter, Xiaoyun Xing, Juan F. Macias-Velasco, Ting Wang \
+  Cell Reports Methods, 2026
+
 {{< badge src = https://doi.org/10.1016/j.cell.2026.03.019 >}}
 
 - [Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers](https://doi.org/10.1016/j.cell.2026.03.019)\
