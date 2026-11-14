@@ -6,11 +6,53 @@ date: 2018-02-22T17:01:34+07:00
 ## **2026**
 ---
 
+{{< badge src = https://doi.org/10.1016/j.crmeth.2026.101567 >}}
+
+- [An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN](https://doi.org/10.1016/j.crmeth.2026.101567)\
+   Wenjin Zhang, Wubin Ding, Kai Li, Lei Chang, Amit Klein, Cindy Tatiana Báez-Becerra, Jonathan A. Rink, Anna Bartlett, Huaming Chen, Natalie Schenker-Ahmed, Nelson Johansen, Tyler Mollenkopf, Yuanyuan Fu, Yang Xie, Shane Liu, Chanrung Seng, Benpeng Miao, Tianjie Liu, Quan Zhu, Rebecca D. Hodge, Trygve E. Bakken, Ed S. Lein, Michael Hawrylycz, Xiangmin Xu, M. Margarita Behrens, Bing Ren, Joseph R. Ecker, Ting Wang, Daofeng Li  \
+  Cell Reports Methods, 2026 Nov 12, 101567
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.10.031 >}}
+
+- [Toward an integrated framework for a human and mammalian brain cell atlas](https://doi.org/10.1016/j.cell.2026.10.031)\
+   BRAIN Initiative Cell Atlas Network (BICAN)  \
+  Cell, 2026 Nov 12, Vol 189, Issue 23, 7289-7308.e6
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.10.019 >}}
+
+- [Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia](https://doi.org/10.1016/j.cell.2026.10.019)\
+   Wubin Ding, Amit Klein, Cindy Tatiana Báez-Becerra, Jonathan A. Rink, Anna Bartlett, Ruoxuan Wang, Qiurui Zeng, Rosa Gomez Castanon, Joseph R. Nery, Emma Osgood, William Owens, Alaina Petrella, Chumo Chen, Andrea Saldaña Acerbo, Ariana S. Barcoma, Jiayi Liu, Kaitlyn G. Russo, Kyle W. Knutson, Carissa K. Young, Jackson K. Willier, Cesar Barragan, Jessica Arzavala, Silvia Cho, Jordan Altshul, Derek Chan, Eshaan Soma, Jammy Luo, Manya Jain, Sarah Velazquez, Guha V. Sundaram, Austin C. Manning, Yareli Sanchez, Aleksandra Bikkina, Yuanyuan Fu, Kaushik Komandur, Ethan Doan, Shuai Fu, Carolyn O’Connor, Michelle Liem, Mikayla V. Marrin, Cynthia Rose, Shane N. Alt, Jillian Berry, Joseph Colin Kern, Eric Boone, Wei Tian, Huamin Chen, Yang Xie, Yue Wu, Manoj Hariharan, Kai Li, Lei Chang, Nelson Johansen, Wenjin Zhang, Zoey Zhao, Jesus Flores, Chu-Yi Tai, Jacqueline Olness, Natalie Schenker-Ahmed, Xiao-Ping Liu, Quan Zhu, Brian E. Kalmbach, Rebecca D. Hodge, Trygve E. Bakken, Ed S. Lein, Daofeng Li, Ting Wang, Xiangmin Xu, Bing Ren, Maria Margarita Behrens, Joseph R. Ecker  \
+  Cell, 2026 Nov 12, Vol 189, Issue 23, 7386-7405.e15
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.09.008 >}}
+
+- [Single-cell analysis of chromatin state and transcriptome in the human basal ganglia](https://doi.org/10.1016/j.cell.2026.09.008)\
+   Lei Chang, Kai Li, Yang Xie, Guojie Zhong, Jonathan A. Rink, Cindy Tatiana Báez-Becerra, Audrey Lie, Hannah S. Indralingam, Timothy Loe, Keyi Dong, Xiaomeng Gao, Zhaoning Wang, Songpeng Zu, Joseph Colin Kern, Zoey Zhao, Eric Boone, Jesus Flores, Alexander Monell, Jacqueline Olness, Cesar Barragan, Emma Osgood, William Owens, Natalie Schenker-Ahmed, Wenjin Zhang, Di Liu, Ariana S. Barcoma, Jackson K. Willier, Kyle W. Knutson, Kaitlyn G. Russo, Jiayi Liu, Silvia Cho, Jessica Arzavala, Carissa K. Young, Guha V. Sundaram, Austin C. Manning, Yareli Sanchez, Aleksandra Bikkina, Jillian V. Berry, Carolyn O’Connor, Michelle Liem, Mikayla V. Marrin, Cynthia Rose, Shane N. Alt, Chenxu Zhu, Nathan R. Zemke, Wubin Ding, Amit Klein, Yuanyuan Fu, Nelson Johansen, Trygve E. Bakken, Rebecca D. Hodge, C. Dirk Keene, Ed S. Lein, Daofeng Li, Quan Zhu, Ting Wang, Xiangmin Xu, Joseph R. Ecker, M. Margarita Behrens, Bing Ren  \
+  Cell, 2026 Nov 12, Vol 189, Issue 23, 7406-7427.e13
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.09.027 >}}
+
+- [Multiscale spatial atlas of human basal ganglia cell types and communities](https://doi.org/10.1016/j.cell.2026.09.027)\
+   Bereket Tesfay Berackey, Zhiqun Tan, Ginny Wu, Sujan C. Das, Ren Li, Benjamin Esser, Qiao Ye, Mahsa Nafisi, Samuel S. Park, Pedro Adolfo Sequeira Mendieta, Jillian Berry, Firoza Mamdani, Quan Zhu, Todd C. Holmes, Daofeng Li, Ting Wang, M. Margarita Behrens, Bing Ren, Joseph R. Ecker, Bogdan Bintu, Xiangmin Xu  \
+  Cell, 2026 Nov 12, Vol 189, Issue 23, 7428-7446.e11
+
+{{< badge src = https://doi.org/10.1016/j.cell.2026.08.012 >}}
+
+- [Single-cell multimodal atlas reveals regulatory programs in the human brain](https://doi.org/10.1016/j.cell.2026.08.012)\
+   Yang Xie, Lei Chang, Guojie Zhong, Jonathan A. Rink, Cindy Tatiana Báez-Becerra, Ethan Armand, Wubin Ding, Kai Li, Eric Bonne, Hannah S. Indralingam, Audrey Lie, Keyi Dong, Timothy Loe, Bohan Huang, Zhaoning Wang, Ariana S. Barcoma, Jackson K. Willier, Kyle W. Knutson, Jiayi Liu, Silvia Cho, Stella Cao, Kaitlyn G. Russo, Carissa K. Young, Jessica Arzavala, Yareli Sanchez, Aleksandra Bikkina, Natalie Schenker-Ahmed, Joseph Colin Kern, Zoey Zhao, Amit Klein, Jesus Flores, Chu-Yi Tai, Jacqueline Olness, Alexander Monell, Siavash Moghadami, Cesar Barragan, Chumo Chen, William Owens, Wenliang Wang, Carolyn O’Connor, Michelle Liem, Mikayla V. Marrin, Cynthia Rose, Shane N. Alt, Nora Emerson, Julia Osteen, Jacinta Lucero, Nathan R. Zemke, Daofeng Li, Rebecca D. Hodge, Ting Wang, C. Dirk Keene, Xiangming Xu, Quan Zhu, Joseph R. Ecker, M. Margarita Behrens, Bing Ren  \
+  Cell, 2026 Nov 12, Vol 189, Issue 23, 7447-7470.e18
+
 {{< badge src = https://doi.org/10.1016/j.xgen.2026.101419 >}}
 
 - [Leveraging human pangenome for improved somatic variant detection](https://doi.org/10.1016/j.xgen.2026.101419)\
    Qichen Fu, Zilan Xin, Benpeng Miao, Wenjin Zhang, Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Derek C. Albracht, Edward A. Belter, John E. Garza, Chad Tomlinson, Elvisa Mehinovic, Jiawei Shen, Xiaoyu Zhuo, Shihua Dong, Benjamin K. Johnson, Mary F. Majewski, Theron Palmer, H. Josh Jang, Yuchen Cheng, Zefan Li, Heather A. Lawson, Tina Lindsay, Daofeng Li, Robert Fulton, Hui Shen, Sheng Chih Jin, Juan F. Macias-Velasco, Ting Wang  \
   Cell Genomics, 2026 Nov 5, Vol 6, Issue 11, 101419
+
+{{< badge src = https://doi.org/10.1016/j.xgen.2026.101418 >}}
+
+- [Multi-platform framework for mapping somatic retrotransposition in human tissues](https://doi.org/10.1016/j.xgen.2026.101418)\
+   Seunghyun Wang, Mingyun Bae, Jinhao Wang, Boxun Zhao, Khue Nguyen, Shayna Mallett, Jessica A. Switzenberg, Steven J. Losh, Corinne E. Sexton, Benpeng Miao, Shihua Dong, Xi Zeng, Ziying Wang, Torrin L. McDonald, Camille Mumm, Rohini K. Gadde, Arnaz Maryam Tariq, Zhuofu Chen, William C. Feng, Aidan Burn, Junseok Park, Chong Chu, Hui Shen, Ting Wang, Alexander E. Urban, Xiaowei Zhu, Heng Li, Kathleen H. Burns, Hye-Jung E. Chun, Peter J. Park, SMaHT MEI Working Group, Alan P. Boyle, Ryan E. Mills, Weichen Zhou, Eunjung Alice Lee  \
+  Cell Genomics, 2026 Nov 3, Vol 6, Issue 11, 101418
 
 {{< badge src = https://doi.org/10.3390/v18111218 >}}
 
