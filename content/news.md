@@ -2,7 +2,11 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+11-12-2026. Papers in BICAN package with lab involved are online! ["Toward an integrated framework for a human and mammalian brain cell atlas"](https://doi.org/10.1016/j.cell.2026.10.031), ["Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia"](https://doi.org/10.1016/j.cell.2026.10.019), ["Single-cell analysis of chromatin state and transcriptome in the human basal ganglia"](https://doi.org/10.1016/j.cell.2026.09.008), ["Multiscale spatial atlas of human basal ganglia cell types and communities"](https://doi.org/10.1016/j.cell.2026.09.027) and ["Single-cell multimodal atlas reveals regulatory programs in the human brain"](https://doi.org/10.1016/j.cell.2026.08.012) are at Cell and ["An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN"](https://doi.org/10.1016/j.crmeth.2026.101567) is at Cell Reports Methods. congratulations!
+
 11-06-2026. Shihua’s centromere paper has been accepted by Cell!!! Congratulations Shihua!!!
+
+11-05-2026. Papers in SMaHT package with lab involved are online! ["Comprehensive benchmarking of somatic mutation detection by the SMaHT Network"](https://doi.org/10.1016/j.cell.2026.09.037) is at Cell and ["A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures"](https://doi.org/10.1016/j.xgen.2026.101358), ["Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures"](https://doi.org/10.1016/j.xgen.2026.101390), ["Multi-platform framework for mapping somatic retrotransposition in human tissues"](https://doi.org/10.1016/j.xgen.2026.101418) and ["Leveraging human pangenome for improved somatic variant detection"](https://doi.org/10.1016/j.xgen.2026.101419) are at Cell Genomics. congratulations! [WashU Medicine news](https://medicine.washu.edu/news/researchers-establish-best-methods-to-measure-genetic-variation-within-the-body/).
 
 11-05-2026. Qichen’s paper "Leveraging human pangenome for improved somatic variant detection" is [online at Cell Genomics](https://doi.org/10.1016/j.xgen.2026.101419). Congratulations Qichen!!!
 
