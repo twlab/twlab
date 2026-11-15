@@ -70,13 +70,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [A pangenomic method for establishing a synthetic somatic variant resource in HapMap mixtures](https://doi.org/10.1016/j.xgen.2026.101358)\
    Nahyun Kong, Zitian Tang, Andrew Ruttenberg, Juan F. Macias-Velasco, Zefan Li, Emma Casey, Wenjin Zhang, Benpeng Miao, Zilan Xin, Qichen Fu, Haeorum Park, Xiaoyu Zhuo, Elvisa Mehinovic, Edward Belter, Chad Tomlinson, John E. Garza, Shihua Dong, Ben Johnson, Mary F. Majewski, Theron Palmer, Yuchen Cheng, Tina Lindsay, Tim Schedl, Daofeng Li, Hui Shen, Robert Fulton, SMaHT Network Assembly/Pangenome Working Group, Ting Wang, Sheng Chih Jin  \
-  Cell Genomics, 2026 Oct 15, 101358
+  Cell Genomics, 2026 Oct 15, Vol 6, Issue 11, 101358
 
 {{< badge src = https://doi.org/10.1016/j.xgen.2026.101390 >}}
 
 - [Detecting low-allele-fraction mosaic mutations: A multi-institution benchmarking with cell-line mixtures](https://doi.org/10.1016/j.xgen.2026.101390)\
    Yoo-Jin Jiny Ha, Dominika Maziec, Julia Markowski, Stephanie J. Georges, Nancy L. Parmalee, Michele Berselli, Tim H. H. Coorens, Shihua Dong, Stephanie Gardiner, Divya Kalra, Daofeng Li, Benpeng Miao, Rajeeva Musunuri, Liying Xue, Zhi Yu, Kimberly Walker, Lisa Anderson, Natalie Y. T. Au, Carrie Cibulskis, Harsha Doddapaneni, Christopher M. Grochowski, Dana M. Jensen, Tina Lindsay, Kelsey Loy, Azeet Narayan, Giuseppe Narzisi, Jeffrey Ou, Meranda M. Pham, Alexi M. Runnels, Andrew B. Stergachis, Lila M. Sutherlin, Ting Wang, Hu Jin, William C. Feng, Yuwei Zhang, Alexander D. Veit, Clara TaeHee Kim, Hye-Jung E. Chun, SMaHT Network Single Nucleotide Variant (SNV) Working Group, Kristin Ardlie, Robert S. Fulton, Soren Germer, Richard A. Gibbs, Gabor T. Marth, James T. Bennett, Peter J. Park  \
-  Cell Genomics, 2026 Oct 15, 101390
+  Cell Genomics, 2026 Oct 15, Vol 6, Issue 11, 101390
 
 
 
@@ -92,61 +92,61 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Epigenetic and 3D genome reprogramming during the aging of the human hippocampus](https://www.science.org/doi/10.1126/science.adt8307)\
    Nathan R. Zemke, Seoyeon Lee, Sainath Mamde, Bing Yang, Nicole Berchtold, B. Maximiliano Garduño, Hannah S. Indralingam, Weronika M. Bartosik, Pik Ki Lau, Keyi Dong, Emily Hsu, Amanda Yang, Yasmine Tani, Chumo Chen, Qiurui Zeng, Varun Ajith, Liqi Tong, Chanrung Seng, Daofeng Li, Ting Wang, Jingtian Zhou, Joseph R. Ecker, Christopher K. Glass, Carl W. Cotman, Xiangmin Xu, and Bing Ren  \
-  Science, 23 Jul 2026, Vol 393, Issue 6809
+  Science, 23 Jul 2026, Vol 393, Issue 6809, eadt8307
 
 {{< badge src = https://www.science.org/doi/10.1126/science.ady6893 >}}
 
 - [Single-cell multiomics and chromatin structure reveal gene-regulatory dynamics in heart failure](https://www.science.org/doi/10.1126/science.ady6893)\
     Yang Xie, Luca Tucciarone, Elie N. Farah, Lei Chang, Qian Yang, Thirupura S. Shankar, Weston Elison, Shaina Tran, Jovina Djulamsah, Audrey Lie, Timothy Loe, Alyssa R. Holman, Sierra Corban, Justin Buchanan, Sainath Mamde, Haowen Zhou, Ruth M. Elgamal, Eleni Tseliou, Vincent Huang, Zhaoning Wang, Jeffrey Huey-Chuan Chiu, Rebecca Melton, Emily Griffin, Qingquan Zhang, Jacinta Lucero, Sutip Navankasattusas, Daofeng Li, Chanrung Seng, Eugin Destici, Craig H. Selzman, Agnieszka D’Antonio-Chronowska, Ting Wang, Allen Wang, Stavros G. Drakos, Kyle J. Gaulton, Bing Ren, and Neil C. Chi  \
-  Science, 23 Jul 2026, Vol 393, Issue 6809
+  Science, 23 Jul 2026, Vol 393, Issue 6809, eady6893
 
 {{< badge src = https://www.science.org/doi/10.1126/sciadv.adv9162 >}}
 
 - [Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina](https://www.science.org/doi/10.1126/sciadv.adv9162)\
     Ying Yuan, Pooja Biswas, Nathan R. Zemke, Kelsey Dang, Yue Wu, Matteo D’Antonio, Yang Xie, Qian Yang, Keyi Dong, Pik Ki Lau, Daofeng Li, Chanrung Seng, Weronika Bartosik, Justin Buchanan, Lin Lin, Ryan Lancione, Kangli Wang, Seoyeon Lee, Zane Gibbs, Bing Yang, Joseph R. Ecker, Kelly Frazer, Ting Wang, Sebastian Preissl, Allen Wang, Radha Ayyagari, and Bing Ren  \
-  Science Advances, 23 Jul 2026, Vol 12, Issue 30
+  Science Advances, 23 Jul 2026, Vol 12, Issue 30, eadv9162
 
 {{< badge src = https://doi.org/10.1016/j.tig.2026.05.006 >}}
 
 - [From mobile DNA to medicine: Fusion Conference highlights the therapeutic potential of endogenous retroelements in human disease](https://doi.org/10.1016/j.tig.2026.05.006)\
     Katherine B Chiappinelli, Hui Shen, Ting Wang, Tao P Wu  \
-  Trends Genet. 2026 Jun 12:S0168-9525(26)00133-2.
+  Trends in Genetics, Volume 42, Issue 7, July 2026, Pages 565-578
 
 {{< badge src = https://doi.org/10.1038/s41467-026-73695-9 >}}
 
 - [ToxiTaRGET: a multi-omics database for toxicant-responsive molecular targets](https://doi.org/10.1038/s41467-026-73695-9)\
     Ravindra Kumar, Tianyi Fu, Prashant Kumar Kuntala, Benpeng Miao, Shuhua Fu, Daofeng Li, TaRGET II Consortium, Frederick L. Tyson, Marisa S. Bartolomei, Cheryl L. Walker, Ting Wang & Bo A. Zhang  \
-  Nature Communications, 2026
+  Nature Communications volume 17, Article number: 6948 (2026)
 
 {{< badge src = https://doi.org/10.1038/s41467-026-73663-3 >}}
 
 - [Benchmarking genome choice in functional genomics analyses](https://doi.org/10.1038/s41467-026-73663-3)\
     Juan F. Macias-Velasco, Xiaoyu Zhuo, Chad Tomlinson, Eddie A. Belter, Milinn Kremitzki, Derek Albracht, Tina Lindsay, Xiaoyun Xing, Nina Tekkey, Wenjin Zhang, John E. Garza, Zheng Xu, Zilan Xin, Qichen Fu, Heather A. Lawson, Nathan O. Stitziel, Robert S. Fulton, Daofeng Li, Human Pangenome Reference Consortium & Ting Wang  \
-  Nature Communications, 2026
+  Nature Communications volume 17, Article number: 6837 (2026)
   
 {{< badge src = doi.org/10.1038/s41467-026-73324-5 >}}
 
 - [TaRGET II Data Portal: a multi-omics resource for environmental toxicant studies in mice](https://doi.org/10.1038/s41467-026-73324-5)\
     Prashant K. Kuntala, Benpeng Miao, Deepak Purushotham, Bo Zhang, Daofeng Li & Ting Wang  \
-  Nature Communications, 2026
+  Nature Communications volume 17, Article number: 6624 (2026)
 
 {{< badge src = https://doi.org/10.1101/gr.281571.125 >}}
 
 - [Characterizing cytosine methylation of polymorphic transposable element insertions using human pangenome resources](https://doi.org/10.1101/gr.281571.125)\
    Xiaoyu Zhuo, Chad Tomlinson, Edward A. Belter Jr., Prashant Kumar Kuntala, Wesley N. Saintilnord, Juan Jiang, Tina Graves-Lindsay, Juan F. Macias, Bob S. Fulton, Human Pangenome Reference Consortium, Ting Wang \
-  Genome Research, 2026
+  Genome Res. 2026. 36: 1108-1124
 
 {{< badge src = https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00161-X >}}
 
 - [Quantifying reference alignment bias in functional genomics analyses](https://doi.org/10.1016/j.crmeth.2026.101461)\
   Nina Tekkey, John E. Garza, Wenjin Zhang, Derek Albracht, Chad Tomlinson, Edward A. Belter, Xiaoyun Xing, Juan F. Macias-Velasco, Ting Wang \
-  Cell Reports Methods, 2026
+  Cell Reports Methods, Volume 6, Issue 7, July 2026, 101461
 
 {{< badge src = https://doi.org/10.1016/j.cell.2026.03.019 >}}
 
 - [Accelerating discovery of cancer causes for prevention in the era of rising early-onset cancers](https://doi.org/10.1016/j.cell.2026.03.019)\
   Mengyao Shi, Gary J. Patti, Marc J. Gunter, Ramaswamy Govindan, Iris Lansdorp-Vogelaar, Ting Wang, Jeffrey P. Townsend, Graham A. Colditz, Yasmine Belkaid, Yin Cao \
-  Cell, 2026
+  Cell, Volume 189, Issue 8, April 2026, Pages 2232-2253
   
 {{< badge src = https://doi.org/10.1038/s41586-025-09962-4 >}}
 
@@ -162,13 +162,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Distinct contributions of Etv2+ and Flk1+ progenitors to endothelial, hematopoietic, and cardiac lineages](https://doi.org/10.1016/j.celrep.2025.116733)\
   Dereck Alleyne, Minseo Kim, Jun Wu, Yoojung Kwon, Ye-Ram Kim, Ashraf Ul Kabir, Matthew Ishahak, Jeffrey R Millman, Changxu Fan, Hyung Joo Lee, Karen Krchma, Xiaoyun Xing, Kory Lavine, Ting Wang, Kyunghee Choi \
-  Cell Rep. 2025 Dec 18;45(1)
+  Cell Reports, Volume 45, Issue 1, January 2026, 116733
   
 {{< badge src = https://doi.org/10.1038/s41586-025-09890-3 >}}
 
 - [An integrated view of the structure and function of the human 4D nucleome](https://doi.org/10.1038/s41586-025-09890-3)\
   Job Dekker, Betul Akgol Oksuz, Yang Zhang, Ye Wang, Miriam K. Minsk, Shuzhen Kuang, Liyan Yang, Johan H. Gibcus, Nils Krietenstein, Oliver J. Rando, Jie Xu, Derek H. Janssens, Steven Henikoff, Alexander Kukalev, Willemin Andréa, Warren Winick-Ng, Rieke Kempfer, Ana Pombo, Miao Yu, Pradeep Kumar, Liguo Zhang, Andrew S. Belmont, Takayo Sasaki, Tom van Schaik, Laura Brueckner, Daan Peric-Hupkes, Bas van Steensel, Ping Wang, Haoxi Chai, Minji Kim, Yijun Ruan, Ran Zhang, Sofia A. Quinodoz, Prashant Bhat, Mitchell Guttman, Wenxin Zhao, Shu Chien, Yuan Liu, Sergey V. Venev, Dariusz Plewczynski, Ibai Irastorza Azcarate, Dominik Szabó, Christoph J. Thieme, Teresa Szczepińska, Mateusz Chiliński, Kaustav Sengupta, Mattia Conte, Andrea Esposito, Alex Abraham, Ruochi Zhang, Yuchuan Wang, Xingzhao Wen, Qiuyang Wu, Yang Yang, Jie Liu, Lorenzo Boninsegna, Asli Yildirim, Yuxiang Zhan, Andrea Maria Chiariello, Simona Bianco, Lindsay Lee, Ming Hu, Yun Li, R. Jordan Barnett, Ashley L. Cook, Daniel J. Emerson, Claire Marchal, Peiyao Zhao, Peter J. Park, Burak H. Alver, Andrew J. Schroeder, Rahi Navelkar, Clara Bakker, William Ronchetti, Shannon Ehmsen, Alexander D. Veit, Nils Gehlenborg, Ting Wang, Daofeng Li, Xiaotao Wang, Mario Nicodemi, Bing Ren, Sheng Zhong, Jennifer E. Phillips-Cremins, David M. Gilbert, Katherine S. Pollard, Frank Alber, Jian Ma, William S. Noble & Feng Yue \
-  Nature, 2025
+  Nature volume 649, pages 759–776 (2026)
   
 {{< badge src = https://www.nature.com/articles/s41467-025-66371-x >}}
 
@@ -180,20 +180,20 @@ date: 2018-02-22T17:01:34+07:00
 
 - [The IGVF catalog—from genetic variation to function](https://doi.org/10.1093/nar/gkaf1341)\
   Daofeng Li , Shane Liu , Pedro R Assis , Mingjie Li , Shengcheng Dong , Ian Whaling , Otto Jolanki , Meenakshi Kagda , Wenjin Zhang , Juan F Macias-Velasco , Tianjie Liu , Sarah Cody , Lucinda Antonacci-Fulton , Yuanhao Huang , Jie Liu , Michael T Montgomery , Daniel Zeiberg , Shantanu Jain , Vikas Pejaver , Timothy Bergquist , Yile Chen , Predrag Radivojac , Charles A Gersbach , Rintsen N Sherpa , Christopher P Castro , Alan P Boyle , Lea M Starita , Douglas M Fowler , Nadav Ahituv , Kushal K Dey , William H Majoros , Timothy E Reddy , Mark Craven , Riya Sinha , Yuriy Sverchkov , Xiangmeng Cai , Mpathi Z Nzima , Michael A Calderwood , Joel Rozowsky , Mark Gerstein , Jian Ma , Feng Yue , J Michael Cherry , Michael I Love , Jesse M Engreitz , Benjamin C Hitz , Ting Wang \
-  Nucleic Acids Research, gkaf1341, 2025
+  Nucleic Acids Research, Volume 54, Issue D1, 6 January 2026, Pages D1437–D1445
   
 
 {{< badge src = https://doi.org/10.1016/j.tig.2025.08.002 >}}
 
 - [Unmasked: transposable elements as drivers and targets in cancer](https://doi.org/10.1016/j.tig.2025.08.002)\
   Mitchell F. Grinwald, Wesley N. Saintilnord, Ting Wang \
-  Trends in Genetics 2025
+  Trends in Genetics, Volume 42, Issue 1, January 2026, Pages 30-45
   
 {{< badge src = https://doi.org/10.1016/j.stem.2025.06.010 >}}
 
 - [Non-canonical functions of DNMT3A in hematopoietic stem cells regulate telomerase activity and genome integrity](https://doi.org/10.1016/j.stem.2025.06.010)\
   Infencia Xavier Raj, Won Kyun Koh, Jessica Harrison, Christine R. Zhang, arbara Soares, Roberta Amato, Aishwarya Krishnan, David R. O’Leary, Hassan Bjeije, Tyler M. Parsons, Wentao Han, Andrew L. Young, Ting Wang, Luis F.Z. Batista, Grant A. Challen\
-  Cell Stem Cell 2025
+  Cell Stem Cell, Volume 32, Issue 8, August 2025, Pages 1251-1266.e8
   
 {{< badge src = https://www.nature.com/articles/s41586-025-09096-7 >}}
 
@@ -217,7 +217,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [WashU Epigenome Browser update 2025](https://doi.org/10.1093/nar/gkaf387)\
   Chanrung Seng, Shane Liu, Wenjin Zhang, Xiaoyu Zhuo, Daofeng Li, Ting Wang \
-  Nucleic Acids Research, gkaf387, 2025
+  Nucleic Acids Research, Volume 53, Issue W1, 7 July 2025, Pages W554–W561
 
 {{< badge src = https://doi.org/10.1016/j.arcmed.2025.103210 >}}
 
@@ -229,7 +229,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Transcriptional and chromatin accessibility landscapes of hematopoiesis in a mouse model of breast cancer](https://pubmed.ncbi.nlm.nih.gov/40152115/)\
   Changxu Fan, Jun Wu, Derek A G Barisas, Xiaoyun Xing, Yoojung Kwon, Kyunghee Choi, Ting Wang \
-  J Immunol. 2025 Mar 27:vkaf026.
+  The Journal of Immunology, Volume 214, Issue 6, June 2025, Pages 1384–1397
   
 {{< badge src = https://doi.org/10.1101/gr.279764.124 >}}
 
@@ -245,9 +245,9 @@ date: 2018-02-22T17:01:34+07:00
   
 {{< badge src = https://doi.org/10.1016/j.stemcr.2025.102419 >}}
 
-- [Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution](https://https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(25)00023-2)\
+- [Tracking and mitigating imprint erasure during induction of naive human pluripotency at single-cell resolution](https://www.cell.com/stem-cell-reports/fulltext/S2213-6711(25)00023-2)\
   Laura A. Fischer, Brittany Meyer, Monica Reyes, Joseph E. Zemke, Jessica K. Harrison, Kyoung-mi Park, Ting Wang, Harald Jüppner, Sabine Dietmann, Thorold W. Theunissen \
-  Stem Cell Reports, Volume 0, Issue 0, 102419
+  Stem Cell Reports, Volume 20, Issue 3, March 2025, 102419
 
 
 {{< badge src = https://doi.org/10.3389/freae.2025.1566501 >}}
@@ -306,7 +306,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Cytokines drive the formation of memory-like NK cell subsets via epigenetic rewiring and transcriptional regulation](https://doi.org/10.1126/sciimmunol.adk4893)\
   Jennifer A Foltz, Jennifer Tran, Pamela Wong, Changxu Fan, Evelyn Schmidt, Bryan Fisk, Michelle Becker-Hapak, David A Russler-Germain, Jeanette Johnson, Nancy D Marin, Celia C Cubitt, Patrick Pence, Joseph Rueve, Sushanth Pureti, Kimberly Hwang, Feng Gao, Alice Y Zhou, Mark Foster, Timothy Schappe, Lynne Marsala 1, Melissa M Berrien-Elliott, Amanda F Cashen, Jeffrey J Bednarski, Elana Fertig, Obi L Griffith, Malachi Griffith, Ting Wang, Allegra A Petti, Todd A Fehniger \
-  Science Immunology Vol 9, Issue 96 (2024)
+  Science Immunology Vol 9, Issue 96, eadk4893 (2024)
 
 {{< badge src = 10.1093/bioinformatics/btae404 >}}
 
@@ -377,7 +377,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [TET3 plays a critical role in white adipose development and diet-induced remodeling](https://pubmed.ncbi.nlm.nih.gov/37777963/#full-view-affiliation-1)\
     Byung Chul Jung, Dongjoo You, Ikjun Lee, Daofeng Li, Rebecca L Schill, Katherine Ma, Anna Pi, Zehan Song, Wei-Chieh Mu, Ting Wang, Ormond A MacDougald, Alexander S Banks, Sona Kang \
-    Cell Reports VOLUME 42, ISSUE 10 (2023).
+    Cell Reports, Volume 42, Issue 10, October 2023, 113196
 
 {{< badge src = 10.1016/10.4049/jimmunol.2300283 >}}
 
@@ -389,7 +389,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Non-small Cell Lung Cancer Epigenomes Exhibit Altered DNA Methylation in Smokers and Never-smokers](https://www.sciencedirect.com/science/article/pii/S1672022923001055?via%3Dihub)\
     Jennifer A. Karlow, Erica C. Pehrsson, Xiaoyun Xing, Mark Watson, Siddhartha Devarakonda, Ramaswamy Govindan, Ting Wang \
-    Genomics Proteomics Bioinformatics 2023 Sep 22:S1672-0229(23)00105-5.
+    Genomics, Proteomics & Bioinformatics, Volume 21, Issue 5, October 2023, Pages 991–1013
 
 {{< badge src = 10.1038/s41467-023-38849-z >}}
 
@@ -401,7 +401,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Spatial transcriptomics reveals a cnidarian segment polarity program in Nematostella vectensis](https://www.sciencedirect.com/science/article/pii/S0960982223006760)\
     Shuonan He, Wanqing Shao, Shiyuan Cynthia Chen, Ting Wang, Matthew C Gibson\
-    Current Biology. 2023 Jun 7;S0960-9822(23)00676-0. doi: 10.1016/j.cub.2023.05.044. Online ahead of print.
+    Current Biology, Volume 33, Issue 13, July 2023, Pages 2678-2689.e5
 
 {{< badge src = 10.1038/s41576-023-00609-6 >}}
 
@@ -444,7 +444,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - Protocol: [Capture Methylation-Sensitive Restriction Enzyme Sequencing (Capture MRE-Seq) for Methylation Analysis of Highly Degraded DNA Samples](https://link.springer.com/protocol/10.1007/978-1-0716-2950-5_6)\
     Xiaoyun Xing, Jennifer A. Karlow, Daofeng Li, Hyo Sik Jang, Hyung Joo Lee & Ting Wang   \
-    Part of the Methods in Molecular Biology book series (MIMB,volume 2621)
+    Part of the Methods in Molecular Biology book series (MIMB, volume 2621), pages 73–89
 
 {{< badge src = 10.1038/s41564-023-01346-6 >}}
 
@@ -590,7 +590,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Epigenetic therapies in ovarian cancer alter repetitive element expression in a TP53-dependent manner](https://cancerres.aacrjournals.org/content/early/2021/08/25/0008-5472.CAN-20-4243)\
     James I. McDonald, Noor Diab, Elisa Arthofer, Melissa Hadley, Tomas Kanholm, Uzma Rentia, Stephanie Gomez, Angela Yu, Erin E. Grundy, Olivia Cox, Michael J. Topper, Xiaoyun Xing, Pamela L. Strissel, Reiner Strick, Ting Wang, Stephen B. Baylin and Katherine B. Chiappinelli\
-    Cancer Res . 2021 Aug 25;canres.4243.2020. doi: 10.1158/0008-5472.CAN-20-4243.
+    Cancer Res (2021) 81 (20): 5176–5189.
 
 {{< altmetric 109585477 >}}{{< plumx src = 10.1016/j.gpb.2020.06.025 >}}{{< dimensions src = 10.1016/j.gpb.2020.06.025 >}}
 
@@ -614,7 +614,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [The Need for a Human Pangenome Reference Sequence](https://www.annualreviews.org/doi/10.1146/annurev-genom-120120-081921)\
     Karen H. Miga and Ting Wang\
-    Annual Review of Genomics and Human Genetics Vol. 22
+    Annual Review of Genomics and Human Genetics, Vol. 22: 81-102 (2021)
 
 {{< altmetric 104471103 >}}{{< plumx src = 10.1016%2Fj.devcel.2021.04.001 >}}{{< dimensions src = 10.1016/j.devcel.2021.04.001 >}}
 
@@ -690,7 +690,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Epigenomic programming in early fetal brain development](https://www.futuremedicine.com/doi/full/10.2217/epi-2019-0319)\
     Luolan Li, Cecile L Maire, Misha Bilenky, Annaïck Carles, Alireza Heravi-Moussavi, Chibo Hong, Angela Tam, Baljit Kamoh, Stephanie Cho, Dorothy Cheung, Irene Li, Tina Wong, Raman P Nagarajan, Andrew J Mungall, Richard Moore, Ting Wang, Claudia L Kleinman, Nada Jabado, Steven JM Jones, Marco A Marra, Keith L Ligon, Joseph F Costello & Martin Hirst\
-    EPIGENOMICS, Published Online:17 Jul 2020<https://doi.org/10.2217/epi-2019-0319>
+    Epigenomics, Volume 12, Issue 12, Pages 1053-1070 (2020)
 
 {{< altmetric 85208288 >}}{{< plumx src = 10.1186%2Fs12915-020-00792-6 >}} {{< dimensions src = 10.1186/s12915-020-00792-6 >}}
 
@@ -720,7 +720,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [A genomic and epigenomic atlas of prostate cancer in Asian populations](https://www.nature.com/articles/s41586-020-2135-x)\
     Jing Li, Chuanliang Xu, Hyung Joo Lee, Shancheng Ren, Xiaoyuan Zi, Zhiming Zhang, Haifeng Wang, Yongwei Yu, Chenghua Yang, Xiaofeng Gao, Jianguo Hou, Linhui Wang, Bo Yang, Qing Yang, Huamao Ye, Tie Zhou, Xin Lu, Yan Wang, Min Qu, Qingsong Yang, Wenhui Zhang, Nakul M. Shah, Erica C. Pehrsson, Shuo Wang, Zengjun Wang, Jun Jiang, Yan Zhu, Rui Chen, Huan Chen, Feng Zhu, Bijun Lian, Xiaoyun Li, Yun Zhang, Chao Wang, Yue Wang, Guangan Xiao, Junfeng Jiang, Yue Yang, Chaozhao Liang, Jianquan Hou, Conghui Han, Ming Chen, Ning Jiang, Dahong Zhang, Song Wu, Jinjian Yang, Tao Wang, Yongliang Chen, Jiantong Cai, Wenzeng Yang, Jun Xu, Shaogang Wang, Xu Gao, Ting Wang & Yinghao Sun\
-    Nature (2020)
+    Nature volume 580, pages 93–99 (2020)
 
 {{< altmetric 76760265 >}}{{< plumx src = 10.1186%2Fs13059-020-1948-0 >}} {{< dimensions src = 10.1186/s13059-020-1948-0 >}}
 
@@ -732,7 +732,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [An Evolutionary Insertion in the Mxra8 Receptor-Binding Site Confers Resistance to Alphavirus Infection and Pathogenesis](https://www.sciencedirect.com/science/article/pii/S1931312820300470?via%3Dihub#cebib0010)\
     Kim AS, Zimmerman O, Fox JM, Nelson CA, Basore K, Zhang R, Durnell L, Desai C, Bullock C, Deem SL, Oppenheimer J, Shapiro B, Wang T, Cherry S, Coyne CB, Handley SA, Landis MJ, Fremont DH, Diamond MS.\
-    Cell Host Microbe. 2020 Feb 18. pii: S1931-3128(20)30047-0.
+    Cell Host & Microbe, Volume 27, Issue 3, March 2020, Pages 428-440.e9
 
 {{< altmetric 76027664 >}}{{< plumx src = 10.7554%2FeLife.52504 >}} {{< dimensions src = 10.7554/elife.52504 >}}
 
@@ -789,7 +789,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Guide Positioning Sequencing identifies aberrant DNA methylation patterns that alter cell identity and tumor-immune surveillance networks](https://genome.cshlp.org/content/early/2019/01/21/gr.240606.118.abstract)\
     Li J, Li Y, Li W, Luo H, Xi Y, Dong S, Gao M, Xu P, Zhang B, Liang Y, Zou Q, Hu X, Peng L, Zou D, Wang T, Yang H, Jiang C, Peng S, Wu F, Yu W.\
-    Genome Res. 2019 Jan 22. doi: 10.1101/gr.240606.118
+    Genome Res. 2019. 29: 270-280
 
 ## **2018**
 
@@ -823,7 +823,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [The 3D Genome Browser: a web-based browser for visualizing 3D genome organization and long-range chromatin interactions](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1519-9)\
     Yanli Wang, Fan Song, Bo Zhang, Lijun Zhang, Jie Xu, Da Kuang, Daofeng Li, Mayank N. K. Choudhary, Yun Li, Ming Hu, Ross Hardison, Ting Wang and Feng Yue\
-    Genome Biology, 201819:151
+    Genome Biology volume 19, Article number: 151 (2018)
 
 {{< altmetric 70390678 >}} {{< plumx src = 10.1002%2Fijc.31765 >}} {{< dimensions src = 10.1002/ijc.31765 >}}
 
@@ -853,7 +853,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Comprehensive Whole DNA Methylome Analysis by Integrating MeDIP-seq and MRE-seq](https://link.springer.com/protocol/10.1007/978-1-4939-7481-8_12)\
     Xiaoyun Xing, Bo Zhang, Daofeng Li, Ting Wang\
-    Tost J. (eds) DNA Methylation Protocols. Methods in Molecular Biology, vol 1708. Humana Press, New York, NY
+    Tost J. (eds) DNA Methylation Protocols. Methods in Molecular Biology, vol 1708, pages 209–246. Humana Press, New York, NY
 
 {{< altmetric 28560980 >}} {{< plumx src = 10.1038%2Fmp.2017.200 >}} {{< dimensions src = 10.1038/mp.2017.200 >}}
 
@@ -869,13 +869,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Transposable Element Mediated Innovation in Gene Regulatory Landscapes of Cells: Re-Visiting the "Gene-Battery" Model](http://onlinelibrary.wiley.com/doi/10.1002/bies.201700155/full#)\
     Vasavi Sundaram, Ting Wang\
-    BioEssays, 1700155. doi:10.1002/bies.201700155
+    BioEssays, Volume 40, Issue 1, 1700155 (2018)
 
 {{< altmetric 25173700 >}} {{< plumx src = 10.1186%2Fs12864-017-4115-6 >}} {{< dimensions src = 10.1186/s12864-017-4115-6 >}}
 
 - [Tissue-specific DNA methylation is conserved across human, mouse, and rat, and driven by primary sequence conservation](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-4115-6)\
     Jia Zhou, Renee L. Sears, Xiaoyun Xing, Bo Zhang, Daofeng Li, Nicole B. Rockweiler, Hyo Sik Jang, Mayank N.K. Choudhary, Hyung Joo Lee, Rebecca F. Lowdon, Jason Arand, Brianne Tabers, C. Charles Gu, Theodore J. Cicero and Ting Wang\
-    BMC Genomics 201718:724
+    BMC Genomics volume 18, Article number: 724 (2017)
 
 {{< altmetric 24911684 >}} {{< plumx src = 10.1016%2Fj.stem.2017.08.002 >}} {{< dimensions src = 10.1016/j.stem.2017.08.002 >}}
 
@@ -905,19 +905,19 @@ date: 2018-02-22T17:01:34+07:00
 
 - [DNMT and HDAC inhibitors induce cryptic transcription start sites encoded in long terminal repeats](https://www.nature.com/articles/ng.3889)\
     David Brocks, Christopher R Schmidt, Michael Daskalakis, Hyo Sik Jang, Nakul M Shah, Daofeng Li, Jing Li, Bo Zhang, Yiran Hou, Sara Laudato, Daniel B Lipka, Johanna Schott, Holger Bierhoff, Yassen Assenov, Monika Helf, Alzbeta Ressnerova, Md Saiful Islam, Anders M Lindroth, Simon Haas, Marieke Essers, Charles D Imbusch, Benedikt Brors, Ina Oehme, Olaf Witt, Michael Lübbert, Jan-Philipp Mallm, Karsten Rippe, Rainer Will, Dieter Weichenhan, Georg Stoecklin, Clarissa Gerhäuser, Christopher C Oakes, Ting Wang & Christoph Plass\
-    Nature Genetics (2017) doi:10.1038/ng.3889
+    Nature Genetics volume 49, pages 1052–1060 (2017)
 
 {{< altmetric 20870134 >}} {{< plumx src = 10.1186%2Fs12864-017-3813-4 >}} {{< dimensions src = 10.1186/s12864-017-3813-4 >}}
 
 - [Uncovering the transcriptomic and epigenomic landscape of nicotinic receptor genes in non-neuronal tissues](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3813-4)\
     Bo Zhang, Pamela Madden, Junchen Gu, Xiaoyun Xing, Savita Sankar, Jennifer Flynn, Kristen Kroll and Ting Wang\
-    BMC Genomics201718:439 DOI: 10.1186/s12864-017-3813-4
+    BMC Genomics volume 18, Article number: 439 (2017)
 
 {{< altmetric 19848640 >}} {{< plumx src = 10.1084%2Fjem.20160923 >}} {{< dimensions src = 10.1084/jem.20160923 >}}
 
 - [ETV2/ER71 regulates hematopoietic regeneration by promoting hematopoietic stem cell proliferation](http://jem.rupress.org/content/214/6/1643.long)\
     Can-Xin Xu, Tae-Jin Lee, Nagisa Sakurai, Karen Krchma, Fang Liu, Daofeng Li, Ting Wang, Kyunghee Choi\
-    The Journal of Experimental Medicine DOI: 10.1084/jem.20160923 | Volume 214, No. 5
+    Journal of Experimental Medicine (2017) 214 (6): 1643–1653.
 
 {{< altmetric 18191201 >}} {{< plumx src = 10.1038%2Fncomms14550 >}} {{< dimensions src = 10.1038/ncomms14550 >}}
 
@@ -929,7 +929,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Epigenomic annotation of noncoding mutations identifies mutated pathways in primary liver cancer](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174032)\
     Rebecca F. Lowdon, Ting Wang\
-    PLOS One, Published: March 23, 2017
+    PLoS ONE 12(3): e0174032.
 
 {{< altmetric 15422334 >}} {{< plumx src = 10.1016%2Fj.neo.2016.12.009 >}} {{< dimensions src = 10.1016/j.neo.2016.12.009 >}}
 
@@ -957,7 +957,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Evolution of Epigenetic Regulation in Vertebrate Genomes](http://www.sciencedirect.com/science/article/pii/S0168952516000317)\
     Rebecca F. Lowdon, Hyo Sik Jang, Ting Wang\
-    Trends in Genetics, Available online 12 April 2016
+    Trends in Genetics, Volume 32, Issue 5, May 2016, Pages 269-283
 
 {{< altmetric 5696064 >}} {{< plumx src = 10.1534%2Fg3.115.025437 >}} {{< dimensions src = 10.1534/g3.115.025437 >}}
 
@@ -991,7 +991,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Evidence of CNIH3 involvement in opioid dependence](https://www.nature.com/articles/mp2015102)\
     E C Nelson, A Agrawal, A C Heath, R Bogdan, R Sherva, B Zhang, R Al-Hasani, M R Bruchas, Y-L Chou, C H Demers, C E Carey, E D Conley, A K Fakira, L A Farrer, A Goate, S Gordon, A K Henders, V Hesselbrock, M Kapoor, M T Lynskey, P A F Madden, J A Moron, J P Rice, N L Saccone, S G Schwab, F L Shand, A A Todorov, L Wallace, T Wang, N R Wray, X Zhou, L Degenhardt, N G Martin, A R Hariri, H R Kranzler, J Gelernter, L J Bierut, D J Clark and G W Montgomery\
-    Molecular Psychiatry advance online publication 4 August 2015; doi: 10.1038/mp.2015.102
+    Molecular Psychiatry volume 21, pages 608–614 (2016)
 
 {{< altmetric 3835166 >}} {{< plumx src = 10.15252%2Fembr.201439939 >}}
 
@@ -1021,7 +1021,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Epigenomic annotation of genetic variants using the Roadmap Epigenome Browser](https://www.nature.com/articles/nbt.3158)\
     Xin Zhou, Daofeng Li, Bo Zhang, Rebecca F Lowdon, Nicole B Rockweiler, Renee L Sears, Pamela A F Madden, Ivan Smirnov, Joseph F Costello & Ting Wang\
-    Nature Biotechnology (2015) doi:10.1038/nbt.3158
+    Nature Biotechnology 33, 345–346 (2015)
 
 {{< altmetric 3708865 >}} {{< plumx src = 10.1038%2Fncomms7363 >}} {{< dimensions src = 10.1038/ncomms7363 >}}
 
@@ -1055,13 +1055,13 @@ date: 2018-02-22T17:01:34+07:00
 
 - [Widespread contribution of transposable elements to the innovation of gene regulatory networks.](http://www.genome.org/cgi/doi/10.1101/gr.168872.113)\
     Vasavi Sundaram, Yong Cheng, Zhihai Ma, Daofeng Li, Xiaoyun Xing, Peter Edge, Michael P. Snyder and Ting Wang.\
-    Genome Res. 2014. doi:10.1101/gr.168872.113
+    Genome Res. 2014. 24: 1963-1976
 
 {{< altmetric 2947362 >}} {{< plumx src = 10.1016%2Fj.ymeth.2014.10.032 >}}
 
 - [Combining MeDIP-seq and MRE-seq to investigate genome-wide CpG methylation.](http://www.sciencedirect.com/science/article/pii/S1046202314003594)\
     Daofeng Li, Bo Zhang, Xiaoyun Xing, Ting Wang.\
-    Methods. 2014 Nov 6. pii: S1046-2023(14)00359-4. doi: 10.1016/j.ymeth.2014.10.032.
+    Methods, Volume 72, January 2015, Pages 29-40
 
 {{< altmetric 2746036 >}} {{< plumx src = 10.1186%2F1471-2164-15-868 >}} {{< dimensions src = 10.1186/1471-2164-15-868 >}}
 
@@ -1192,7 +1192,7 @@ date: 2018-02-22T17:01:34+07:00
 
 - [A nutrient-sensitive interaction between Sirt1 and HNF-1α regulates Crp expression.](http://onlinelibrary.wiley.com/doi/10.1111/j.1474-9726.2010.00667.x/abstract)\
     Grimm AA, Brace CS, Wang T, Stormo GD, Imai SI. (2010)\
-    Aging Cell. 2010 Dec 22. doi: 10.1111/j.1474-9726.2010.00667.x.
+    Aging Cell. 2011 Apr;10(2):305-17.
 
 {{< altmetric 496278 >}} {{< plumx src = 10.1038%2Fnbt.1682 >}} {{< dimensions src = 10.1038/nbt.1682 >}}
 
@@ -1258,7 +1258,7 @@ Current Protocols in Bioinformatics. 19:2.12.1-2.12.29.
 
 - (2006) [Inactive full-length p53 mutants lacking dominant wild-type p53 inhibition highlight loss-of-heterozygosity as an important aspect of p53 status in human cancers.](http://carcin.oxfordjournals.org/content/28/2/289.abstract)\
 Dearth LR, Qian H, Wang T, Baroni TE, Zeng J, Chen SW, Yi SY, Brachmann RK\
-Carcinogenesis. 2006, July 21.
+Carcinogenesis. 2007 Feb;28(2):289-98.
 
 {{< altmetric 2382607 >}} {{< plumx src = 10.1158%2F0008-5472.CAN-05-2112 >}} {{< dimensions src = 10.1158/0008-5472.can-05-2112 >}}
 
