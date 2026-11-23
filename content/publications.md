@@ -6,6 +6,25 @@ date: 2018-02-22T17:01:34+07:00
 ## **2026**
 ---
 
+
+{{< badge src = https://doi.org/10.1038/s41588-026-02842-1 >}}
+
+- [A draft mouse pangenome graph reference](https://doi.org/10.1038/s41588-026-02842-1)\
+   Juan F. Macias-Velasco, John E. Garza, Wenjin Zhang, Wanying Wu, Zheng Xu, Qichen Fu, Derek A. Albracht, Chad Tomlinson, Edward A. Belter Jr, Hang Su, Narayan Vivek, Elena Kharitonova, Yin Shen, Yun Li, Ming Hu, Yang E. Li, Ting Wang  \
+  Nature Genetics, 2026 Nov 23, published online
+
+{{< badge src = https://doi.org/10.1177/21524971261489114 >}}
+
+- [A New NHGRI Sample Repository for Human Genetic Research Collection of Induced Pluripotent Stem Cell Lines](https://doi.org/10.1177/21524971261489114)\
+   Tatyana Pozner, Christine Grandizio, Matthew W. Mitchell, Xiaoxia Cui, Amber Neilson, Monica F. Sentmanat, Ting Wang, Nathan O. Stitziel, Nahid Turan, Laura B. Scheinfeldt  \
+  Cellular Reprogramming, 2026 Nov 21, published online
+
+{{< badge src = https://doi.org/10.1038/s41467-026-79470-0 >}}
+
+- [Environmental toxicant-induced epigenetic and transcriptional reprogramming of transposable elements](https://doi.org/10.1038/s41467-026-79470-0)\
+   Benpeng Miao, Yu Zhang, Wanqing Shao, Shuhua Fu, Marisa S. Bartolomei, Cheryl L. Walker, Cristian Coarfa, TaRGET II Consortium, Bo A. Zhang, Ting Wang  \
+  Nature Communications, 2026 Nov 20, advance online publication
+
 {{< badge src = https://doi.org/10.1016/j.crmeth.2026.101567 >}}
 
 - [An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN](https://doi.org/10.1016/j.crmeth.2026.101567)\

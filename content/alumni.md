@@ -12,6 +12,8 @@ Click thumbnails to see larger photos. (Flip to landscape on mobile to view phot
 {{< comment >}}
 |{{< figure src = "" width = "200px">}}|  |  |  ||
 {{< /comment >}}
+|{{< figure src = "https://wang.wustl.edu/img/Christopher_Liu_resized.jpg" width = "200px">}}| Christopher Liu | Summer Student | 2026/07-2026 | |
+|{{< figure src = "https://wang.wustl.edu/img/CelineLarge_resized.jpg" width = "200px">}}| Celine St. Pierre | Postdoc | 2021/06-2026/08 | |
 |{{< figure src = "https://wang.wustl.edu/img/Anouka_Saha_resized.png" width = "200px">}}| Anouka Saha | Rotation Student (DBBS) | 2025/12-2026/06 |WashU|
 |{{< figure src = "https://wang.wustl.edu/img/Aryahi_Deorukhkar_resized.jpg" width = "200px">}}| Aryahi Deorukhkar | Rotation Student (CSB) | 2024/01-2026/06 |SLU|
 |{{< figure src = "https://wang.wustl.edu/img/Amy_Li_resized.jpg" width = "200px">}}| Amy Li | Technician | 2024/08-2026/06 |SLU|
