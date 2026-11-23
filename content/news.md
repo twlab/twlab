@@ -2,6 +2,13 @@
 title: 'News'
 date: 2018-02-22T17:01:34+07:00
 ---
+
+11-23-2026. Juan’s paper "A draft mouse pangenome graph reference" is [online at Nature Genetics](https://doi.org/10.1038/s41588-026-02842-1). Congratulations Juan and all co-authors!
+
+11-21-2026. Our collaborative paper "A New NHGRI Sample Repository for Human Genetic Research Collection of Induced Pluripotent Stem Cell Lines" is [online at Cellular Reprogramming](https://doi.org/10.1177/21524971261489114). Ting is a co-author. Congratulations to all co-authors!
+
+11-20-2026. Benpeng’s paper "Environmental toxicant-induced epigenetic and transcriptional reprogramming of transposable elements" is [online at Nature Communications](https://doi.org/10.1038/s41467-026-79470-0). Congratulations Benpeng and all co-authors!
+
 11-12-2026. Papers in BICAN package with lab involved are online! ["Toward an integrated framework for a human and mammalian brain cell atlas"](https://doi.org/10.1016/j.cell.2026.10.031), ["Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia"](https://doi.org/10.1016/j.cell.2026.10.019), ["Single-cell analysis of chromatin state and transcriptome in the human basal ganglia"](https://doi.org/10.1016/j.cell.2026.09.008), ["Multiscale spatial atlas of human basal ganglia cell types and communities"](https://doi.org/10.1016/j.cell.2026.09.027) and ["Single-cell multimodal atlas reveals regulatory programs in the human brain"](https://doi.org/10.1016/j.cell.2026.08.012) are at Cell and ["An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN"](https://doi.org/10.1016/j.crmeth.2026.101567) is at Cell Reports Methods. congratulations!
 
 11-06-2026. Shihua’s centromere paper has been accepted by Cell!!! Congratulations Shihua!!!
